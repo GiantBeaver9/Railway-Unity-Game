@@ -1,0 +1,78 @@
+{
+  "actor": "player_underdog_revolver",
+  "atlas": {
+    "file": "player_underdog_revolver_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_revolver_swing_00.png",
+        "rect": [
+          3,
+          0,
+          42,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_revolver_swing_01.png",
+        "rect": [
+          53,
+          0,
+          40,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_revolver_swing_02.png",
+        "rect": [
+          104,
+          2,
+          37,
+          39
+        ]
+      },
+      {
+        "name": "player_underdog_revolver_swing_03.png",
+        "rect": [
+          152,
+          4,
+          39,
+          37
+        ]
+      },
+      {
+        "name": "player_underdog_revolver_swing_04.png",
+        "rect": [
+          196,
+          4,
+          49,
+          37
+        ]
+      },
+      {
+        "name": "player_underdog_revolver_swing_05.png",
+        "rect": [
+          246,
+          3,
+          46,
+          38
+        ]
+      },
+      {
+        "name": "player_underdog_revolver_swing_06.png",
+        "rect": [
+          296,
+          3,
+          45,
+          38
+        ]
+      }
+    ],
+    "size": [
+      392,
+      41
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

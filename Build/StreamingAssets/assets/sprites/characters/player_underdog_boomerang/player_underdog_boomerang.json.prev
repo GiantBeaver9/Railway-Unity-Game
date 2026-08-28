@@ -1,0 +1,69 @@
+{
+  "actor": "player_underdog_boomerang",
+  "atlas": {
+    "file": "player_underdog_boomerang_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_boomerang_swing_00.png",
+        "rect": [
+          5,
+          2,
+          24,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_boomerang_swing_01.png",
+        "rect": [
+          41,
+          3,
+          23,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_boomerang_swing_02.png",
+        "rect": [
+          74,
+          3,
+          26,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_boomerang_swing_03.png",
+        "rect": [
+          107,
+          2,
+          30,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_boomerang_swing_04.png",
+        "rect": [
+          143,
+          0,
+          28,
+          52
+        ]
+      },
+      {
+        "name": "player_underdog_boomerang_swing_05.png",
+        "rect": [
+          175,
+          1,
+          35,
+          51
+        ]
+      }
+    ],
+    "size": [
+      280,
+      52
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

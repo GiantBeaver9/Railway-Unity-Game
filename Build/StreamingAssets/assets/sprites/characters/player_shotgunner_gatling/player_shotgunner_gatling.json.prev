@@ -1,0 +1,69 @@
+{
+  "actor": "player_shotgunner_gatling",
+  "atlas": {
+    "file": "player_shotgunner_gatling_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_gatling_swing_00.png",
+        "rect": [
+          13,
+          2,
+          40,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_gatling_swing_01.png",
+        "rect": [
+          79,
+          2,
+          40,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_gatling_swing_02.png",
+        "rect": [
+          145,
+          2,
+          40,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_gatling_swing_03.png",
+        "rect": [
+          208,
+          3,
+          46,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_gatling_swing_04.png",
+        "rect": [
+          273,
+          0,
+          48,
+          73
+        ]
+      },
+      {
+        "name": "player_shotgunner_gatling_swing_05.png",
+        "rect": [
+          330,
+          1,
+          66,
+          72
+        ]
+      }
+    ],
+    "size": [
+      528,
+      73
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

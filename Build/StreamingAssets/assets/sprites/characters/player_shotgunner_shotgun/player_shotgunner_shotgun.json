@@ -1,0 +1,78 @@
+{
+  "actor": "player_shotgunner_shotgun",
+  "atlas": {
+    "file": "player_shotgunner_shotgun_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_shotgun_swing_00.png",
+        "rect": [
+          0,
+          0,
+          37,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_shotgun_swing_01.png",
+        "rect": [
+          37,
+          0,
+          37,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_shotgun_swing_02.png",
+        "rect": [
+          74,
+          0,
+          37,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_shotgun_swing_03.png",
+        "rect": [
+          111,
+          1,
+          36,
+          42
+        ]
+      },
+      {
+        "name": "player_shotgunner_shotgun_swing_04.png",
+        "rect": [
+          149,
+          3,
+          35,
+          40
+        ]
+      },
+      {
+        "name": "player_shotgunner_shotgun_swing_05.png",
+        "rect": [
+          185,
+          3,
+          36,
+          40
+        ]
+      },
+      {
+        "name": "player_shotgunner_shotgun_swing_06.png",
+        "rect": [
+          223,
+          3,
+          35,
+          40
+        ]
+      }
+    ],
+    "size": [
+      296,
+      43
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

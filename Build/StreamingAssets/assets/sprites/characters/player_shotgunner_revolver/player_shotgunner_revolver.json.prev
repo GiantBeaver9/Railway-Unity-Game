@@ -1,0 +1,69 @@
+{
+  "actor": "player_shotgunner_revolver",
+  "atlas": {
+    "file": "player_shotgunner_revolver_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_revolver_swing_00.png",
+        "rect": [
+          12,
+          3,
+          40,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_revolver_swing_01.png",
+        "rect": [
+          75,
+          3,
+          41,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_revolver_swing_02.png",
+        "rect": [
+          139,
+          4,
+          41,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_revolver_swing_03.png",
+        "rect": [
+          200,
+          4,
+          48,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_revolver_swing_04.png",
+        "rect": [
+          263,
+          0,
+          49,
+          74
+        ]
+      },
+      {
+        "name": "player_shotgunner_revolver_swing_05.png",
+        "rect": [
+          320,
+          1,
+          64,
+          73
+        ]
+      }
+    ],
+    "size": [
+      512,
+      74
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

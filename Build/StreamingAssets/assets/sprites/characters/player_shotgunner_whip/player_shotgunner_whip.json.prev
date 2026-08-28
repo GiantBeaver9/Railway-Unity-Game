@@ -1,0 +1,105 @@
+{
+  "actor": "player_shotgunner_whip",
+  "atlas": {
+    "file": "player_shotgunner_whip_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_whip_idle_00.png",
+        "rect": [
+          23,
+          1,
+          18,
+          75
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_idle_01.png",
+        "rect": [
+          88,
+          0,
+          18,
+          76
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_idle_02.png",
+        "rect": [
+          153,
+          0,
+          18,
+          76
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_idle_03.png",
+        "rect": [
+          218,
+          1,
+          18,
+          75
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_00.png",
+        "rect": [
+          272,
+          6,
+          40,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_01.png",
+        "rect": [
+          337,
+          6,
+          41,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_02.png",
+        "rect": [
+          401,
+          6,
+          42,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_03.png",
+        "rect": [
+          464,
+          7,
+          46,
+          69
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_04.png",
+        "rect": [
+          8,
+          80,
+          49,
+          72
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_05.png",
+        "rect": [
+          65,
+          80,
+          65,
+          72
+        ]
+      }
+    ],
+    "size": [
+      520,
+      152
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

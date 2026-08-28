@@ -1,0 +1,105 @@
+{
+  "actor": "player_shotgunner_club",
+  "atlas": {
+    "file": "player_shotgunner_club_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_club_idle_00.png",
+        "rect": [
+          24,
+          1,
+          16,
+          75
+        ]
+      },
+      {
+        "name": "player_shotgunner_club_idle_01.png",
+        "rect": [
+          89,
+          0,
+          16,
+          76
+        ]
+      },
+      {
+        "name": "player_shotgunner_club_idle_02.png",
+        "rect": [
+          154,
+          0,
+          16,
+          76
+        ]
+      },
+      {
+        "name": "player_shotgunner_club_idle_03.png",
+        "rect": [
+          219,
+          1,
+          16,
+          75
+        ]
+      },
+      {
+        "name": "player_shotgunner_club_swing_00.png",
+        "rect": [
+          273,
+          4,
+          38,
+          72
+        ]
+      },
+      {
+        "name": "player_shotgunner_club_swing_01.png",
+        "rect": [
+          337,
+          4,
+          40,
+          72
+        ]
+      },
+      {
+        "name": "player_shotgunner_club_swing_02.png",
+        "rect": [
+          402,
+          6,
+          40,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_club_swing_03.png",
+        "rect": [
+          464,
+          6,
+          46,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_club_swing_04.png",
+        "rect": [
+          8,
+          79,
+          48,
+          73
+        ]
+      },
+      {
+        "name": "player_shotgunner_club_swing_05.png",
+        "rect": [
+          65,
+          79,
+          65,
+          73
+        ]
+      }
+    ],
+    "size": [
+      520,
+      152
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

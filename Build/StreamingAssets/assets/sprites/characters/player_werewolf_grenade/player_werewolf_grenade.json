@@ -1,0 +1,78 @@
+{
+  "actor": "player_werewolf_grenade",
+  "atlas": {
+    "file": "player_werewolf_grenade_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_grenade_swing_00.png",
+        "rect": [
+          6,
+          1,
+          17,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_grenade_swing_01.png",
+        "rect": [
+          33,
+          0,
+          20,
+          41
+        ]
+      },
+      {
+        "name": "player_werewolf_grenade_swing_02.png",
+        "rect": [
+          62,
+          2,
+          21,
+          39
+        ]
+      },
+      {
+        "name": "player_werewolf_grenade_swing_03.png",
+        "rect": [
+          89,
+          3,
+          24,
+          38
+        ]
+      },
+      {
+        "name": "player_werewolf_grenade_swing_04.png",
+        "rect": [
+          116,
+          5,
+          29,
+          36
+        ]
+      },
+      {
+        "name": "player_werewolf_grenade_swing_05.png",
+        "rect": [
+          146,
+          2,
+          27,
+          39
+        ]
+      },
+      {
+        "name": "player_werewolf_grenade_swing_06.png",
+        "rect": [
+          178,
+          2,
+          21,
+          39
+        ]
+      }
+    ],
+    "size": [
+      232,
+      41
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

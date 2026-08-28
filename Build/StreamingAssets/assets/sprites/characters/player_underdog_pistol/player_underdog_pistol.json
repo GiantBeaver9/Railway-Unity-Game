@@ -1,0 +1,78 @@
+{
+  "actor": "player_underdog_pistol",
+  "atlas": {
+    "file": "player_underdog_pistol_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_pistol_swing_00.png",
+        "rect": [
+          4,
+          0,
+          39,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_pistol_swing_01.png",
+        "rect": [
+          47,
+          0,
+          47,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_pistol_swing_02.png",
+        "rect": [
+          96,
+          0,
+          43,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_pistol_swing_03.png",
+        "rect": [
+          145,
+          1,
+          38,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_pistol_swing_04.png",
+        "rect": [
+          194,
+          1,
+          35,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_pistol_swing_05.png",
+        "rect": [
+          241,
+          1,
+          35,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_pistol_swing_06.png",
+        "rect": [
+          288,
+          1,
+          35,
+          40
+        ]
+      }
+    ],
+    "size": [
+      376,
+      41
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,69 @@
+{
+  "actor": "player_werewolf_revolver",
+  "atlas": {
+    "file": "player_werewolf_revolver_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_revolver_swing_00.png",
+        "rect": [
+          6,
+          3,
+          27,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_revolver_swing_01.png",
+        "rect": [
+          46,
+          3,
+          27,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_revolver_swing_02.png",
+        "rect": [
+          86,
+          3,
+          27,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_revolver_swing_03.png",
+        "rect": [
+          123,
+          2,
+          34,
+          50
+        ]
+      },
+      {
+        "name": "player_werewolf_revolver_swing_04.png",
+        "rect": [
+          164,
+          0,
+          31,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_revolver_swing_05.png",
+        "rect": [
+          200,
+          0,
+          40,
+          52
+        ]
+      }
+    ],
+    "size": [
+      320,
+      52
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

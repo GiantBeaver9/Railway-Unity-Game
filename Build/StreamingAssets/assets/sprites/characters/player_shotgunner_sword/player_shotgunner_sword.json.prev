@@ -1,0 +1,105 @@
+{
+  "actor": "player_shotgunner_sword",
+  "atlas": {
+    "file": "player_shotgunner_sword_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_sword_idle_00.png",
+        "rect": [
+          1,
+          1,
+          59,
+          73
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_idle_01.png",
+        "rect": [
+          63,
+          1,
+          60,
+          73
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_idle_02.png",
+        "rect": [
+          125,
+          0,
+          59,
+          74
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_idle_03.png",
+        "rect": [
+          187,
+          0,
+          59,
+          74
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_00.png",
+        "rect": [
+          258,
+          4,
+          42,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_01.png",
+        "rect": [
+          319,
+          4,
+          43,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_02.png",
+        "rect": [
+          381,
+          5,
+          43,
+          69
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_03.png",
+        "rect": [
+          442,
+          4,
+          46,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_04.png",
+        "rect": [
+          7,
+          76,
+          48,
+          72
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_05.png",
+        "rect": [
+          62,
+          77,
+          62,
+          71
+        ]
+      }
+    ],
+    "size": [
+      496,
+      148
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

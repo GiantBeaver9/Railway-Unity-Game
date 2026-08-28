@@ -1,0 +1,132 @@
+{
+  "actor": "player_shotgunner_whip",
+  "atlas": {
+    "file": "player_shotgunner_whip_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_whip_idle_00.png",
+        "rect": [
+          6,
+          1,
+          14,
+          58
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_idle_01.png",
+        "rect": [
+          33,
+          0,
+          14,
+          59
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_idle_02.png",
+        "rect": [
+          61,
+          0,
+          13,
+          59
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_idle_03.png",
+        "rect": [
+          88,
+          1,
+          13,
+          58
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_00.png",
+        "rect": [
+          108,
+          14,
+          26,
+          45
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_01.png",
+        "rect": [
+          140,
+          17,
+          16,
+          42
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_02.png",
+        "rect": [
+          162,
+          17,
+          26,
+          42
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_03.png",
+        "rect": [
+          189,
+          15,
+          27,
+          44
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_04.png",
+        "rect": [
+          1,
+          68,
+          25,
+          50
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_05.png",
+        "rect": [
+          28,
+          68,
+          25,
+          50
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_06.png",
+        "rect": [
+          57,
+          75,
+          20,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_07.png",
+        "rect": [
+          87,
+          78,
+          14,
+          40
+        ]
+      },
+      {
+        "name": "player_shotgunner_whip_swing_08.png",
+        "rect": [
+          114,
+          76,
+          15,
+          42
+        ]
+      }
+    ],
+    "size": [
+      216,
+      118
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

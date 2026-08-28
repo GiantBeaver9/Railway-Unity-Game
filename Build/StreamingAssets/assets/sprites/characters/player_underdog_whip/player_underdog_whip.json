@@ -1,0 +1,132 @@
+{
+  "actor": "player_underdog_whip",
+  "atlas": {
+    "file": "player_underdog_whip_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_whip_idle_00.png",
+        "rect": [
+          3,
+          1,
+          19,
+          53
+        ]
+      },
+      {
+        "name": "player_underdog_whip_idle_01.png",
+        "rect": [
+          30,
+          0,
+          17,
+          54
+        ]
+      },
+      {
+        "name": "player_underdog_whip_idle_02.png",
+        "rect": [
+          57,
+          1,
+          16,
+          53
+        ]
+      },
+      {
+        "name": "player_underdog_whip_idle_03.png",
+        "rect": [
+          82,
+          1,
+          17,
+          53
+        ]
+      },
+      {
+        "name": "player_underdog_whip_swing_00.png",
+        "rect": [
+          104,
+          9,
+          26,
+          45
+        ]
+      },
+      {
+        "name": "player_underdog_whip_swing_01.png",
+        "rect": [
+          130,
+          10,
+          25,
+          44
+        ]
+      },
+      {
+        "name": "player_underdog_whip_swing_02.png",
+        "rect": [
+          156,
+          13,
+          25,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_whip_swing_03.png",
+        "rect": [
+          182,
+          13,
+          26,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_whip_swing_04.png",
+        "rect": [
+          3,
+          67,
+          20,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_whip_swing_05.png",
+        "rect": [
+          30,
+          67,
+          18,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_whip_swing_06.png",
+        "rect": [
+          56,
+          67,
+          18,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_whip_swing_07.png",
+        "rect": [
+          83,
+          67,
+          16,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_whip_swing_08.png",
+        "rect": [
+          109,
+          67,
+          15,
+          41
+        ]
+      }
+    ],
+    "size": [
+      208,
+      108
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

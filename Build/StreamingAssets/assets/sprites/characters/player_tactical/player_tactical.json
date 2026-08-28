@@ -520,36 +520,36 @@
         "name": "player_tactical_special_03.png",
         "rect": [
           71,
+          390,
+          29,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_special_04.png",
+        "rect": [
+          128,
           391,
           28,
           49
         ]
       },
       {
-        "name": "player_tactical_special_04.png",
-        "rect": [
-          126,
-          392,
-          32,
-          48
-        ]
-      },
-      {
         "name": "player_tactical_special_05.png",
         "rect": [
-          184,
-          392,
-          31,
-          48
+          181,
+          393,
+          36,
+          47
         ]
       },
       {
         "name": "player_tactical_special_06.png",
         "rect": [
-          241,
-          392,
-          31,
-          48
+          234,
+          394,
+          45,
+          46
         ]
       },
       {

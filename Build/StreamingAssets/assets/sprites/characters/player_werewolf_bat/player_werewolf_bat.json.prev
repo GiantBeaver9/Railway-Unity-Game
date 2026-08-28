@@ -1,0 +1,105 @@
+{
+  "actor": "player_werewolf_bat",
+  "atlas": {
+    "file": "player_werewolf_bat_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_bat_idle_00.png",
+        "rect": [
+          7,
+          1,
+          24,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_idle_01.png",
+        "rect": [
+          46,
+          1,
+          25,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_idle_02.png",
+        "rect": [
+          85,
+          1,
+          25,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_idle_03.png",
+        "rect": [
+          123,
+          1,
+          26,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_00.png",
+        "rect": [
+          162,
+          3,
+          26,
+          50
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_01.png",
+        "rect": [
+          201,
+          3,
+          27,
+          50
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_02.png",
+        "rect": [
+          240,
+          4,
+          27,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_03.png",
+        "rect": [
+          276,
+          3,
+          33,
+          50
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_04.png",
+        "rect": [
+          4,
+          53,
+          31,
+          53
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_05.png",
+        "rect": [
+          39,
+          54,
+          39,
+          52
+        ]
+      }
+    ],
+    "size": [
+      312,
+      106
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

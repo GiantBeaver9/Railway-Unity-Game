@@ -1,0 +1,105 @@
+{
+  "actor": "player_underdog_club",
+  "atlas": {
+    "file": "player_underdog_club_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_club_idle_00.png",
+        "rect": [
+          7,
+          0,
+          21,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_club_idle_01.png",
+        "rect": [
+          43,
+          0,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_club_idle_02.png",
+        "rect": [
+          78,
+          0,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_club_idle_03.png",
+        "rect": [
+          112,
+          1,
+          20,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_00.png",
+        "rect": [
+          145,
+          3,
+          24,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_01.png",
+        "rect": [
+          180,
+          3,
+          24,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_02.png",
+        "rect": [
+          214,
+          3,
+          27,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_03.png",
+        "rect": [
+          246,
+          2,
+          32,
+          48
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_04.png",
+        "rect": [
+          2,
+          50,
+          30,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_05.png",
+        "rect": [
+          35,
+          52,
+          35,
+          48
+        ]
+      }
+    ],
+    "size": [
+      280,
+      100
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,132 @@
+{
+  "actor": "player_werewolf_whip",
+  "atlas": {
+    "file": "player_werewolf_whip_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_whip_idle_00.png",
+        "rect": [
+          7,
+          2,
+          19,
+          48
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_idle_01.png",
+        "rect": [
+          44,
+          1,
+          13,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_idle_02.png",
+        "rect": [
+          79,
+          0,
+          11,
+          50
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_idle_03.png",
+        "rect": [
+          112,
+          1,
+          13,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_swing_00.png",
+        "rect": [
+          144,
+          5,
+          17,
+          45
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_swing_01.png",
+        "rect": [
+          178,
+          5,
+          17,
+          45
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_swing_02.png",
+        "rect": [
+          210,
+          6,
+          21,
+          44
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_swing_03.png",
+        "rect": [
+          240,
+          10,
+          30,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_swing_04.png",
+        "rect": [
+          3,
+          53,
+          28,
+          47
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_swing_05.png",
+        "rect": [
+          39,
+          53,
+          24,
+          47
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_swing_06.png",
+        "rect": [
+          73,
+          54,
+          24,
+          46
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_swing_07.png",
+        "rect": [
+          102,
+          54,
+          34,
+          46
+        ]
+      },
+      {
+        "name": "player_werewolf_whip_swing_08.png",
+        "rect": [
+          140,
+          60,
+          25,
+          40
+        ]
+      }
+    ],
+    "size": [
+      272,
+      100
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

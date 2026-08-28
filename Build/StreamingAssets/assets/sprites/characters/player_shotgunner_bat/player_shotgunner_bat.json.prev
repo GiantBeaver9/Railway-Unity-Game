@@ -1,0 +1,105 @@
+{
+  "actor": "player_shotgunner_bat",
+  "atlas": {
+    "file": "player_shotgunner_bat_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_bat_idle_00.png",
+        "rect": [
+          15,
+          3,
+          31,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_idle_01.png",
+        "rect": [
+          77,
+          2,
+          31,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_idle_02.png",
+        "rect": [
+          140,
+          3,
+          30,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_idle_03.png",
+        "rect": [
+          202,
+          3,
+          29,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_00.png",
+        "rect": [
+          258,
+          1,
+          42,
+          72
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_01.png",
+        "rect": [
+          318,
+          2,
+          45,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_02.png",
+        "rect": [
+          378,
+          1,
+          49,
+          72
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_03.png",
+        "rect": [
+          439,
+          2,
+          51,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_04.png",
+        "rect": [
+          7,
+          74,
+          47,
+          72
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_05.png",
+        "rect": [
+          62,
+          73,
+          62,
+          73
+        ]
+      }
+    ],
+    "size": [
+      496,
+      146
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,132 @@
+{
+  "actor": "player_underdog_club",
+  "atlas": {
+    "file": "player_underdog_club_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_club_idle_00.png",
+        "rect": [
+          7,
+          0,
+          21,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_club_idle_01.png",
+        "rect": [
+          43,
+          0,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_club_idle_02.png",
+        "rect": [
+          78,
+          0,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_club_idle_03.png",
+        "rect": [
+          112,
+          1,
+          20,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_00.png",
+        "rect": [
+          140,
+          9,
+          35,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_01.png",
+        "rect": [
+          176,
+          9,
+          33,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_02.png",
+        "rect": [
+          211,
+          9,
+          33,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_03.png",
+        "rect": [
+          247,
+          5,
+          30,
+          45
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_04.png",
+        "rect": [
+          3,
+          62,
+          28,
+          38
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_05.png",
+        "rect": [
+          37,
+          67,
+          31,
+          33
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_06.png",
+        "rect": [
+          73,
+          67,
+          29,
+          33
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_07.png",
+        "rect": [
+          110,
+          66,
+          25,
+          34
+        ]
+      },
+      {
+        "name": "player_underdog_club_swing_08.png",
+        "rect": [
+          145,
+          65,
+          25,
+          35
+        ]
+      }
+    ],
+    "size": [
+      280,
+      100
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

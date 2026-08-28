@@ -1,0 +1,132 @@
+{
+  "actor": "player_shotgunner_sword",
+  "atlas": {
+    "file": "player_shotgunner_sword_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_sword_idle_00.png",
+        "rect": [
+          3,
+          1,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_idle_01.png",
+        "rect": [
+          55,
+          1,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_idle_02.png",
+        "rect": [
+          107,
+          0,
+          45,
+          57
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_idle_03.png",
+        "rect": [
+          159,
+          0,
+          45,
+          57
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_00.png",
+        "rect": [
+          208,
+          14,
+          51,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_01.png",
+        "rect": [
+          260,
+          14,
+          52,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_02.png",
+        "rect": [
+          332,
+          14,
+          12,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_03.png",
+        "rect": [
+          366,
+          14,
+          47,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_04.png",
+        "rect": [
+          5,
+          71,
+          41,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_05.png",
+        "rect": [
+          60,
+          72,
+          36,
+          42
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_06.png",
+        "rect": [
+          119,
+          66,
+          22,
+          48
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_07.png",
+        "rect": [
+          172,
+          64,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_shotgunner_sword_swing_08.png",
+        "rect": [
+          228,
+          71,
+          11,
+          43
+        ]
+      }
+    ],
+    "size": [
+      416,
+      114
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

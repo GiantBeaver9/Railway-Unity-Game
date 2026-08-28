@@ -1,0 +1,105 @@
+{
+  "actor": "player_underdog_bat",
+  "atlas": {
+    "file": "player_underdog_bat_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_bat_idle_00.png",
+        "rect": [
+          4,
+          1,
+          24,
+          51
+        ]
+      },
+      {
+        "name": "player_underdog_bat_idle_01.png",
+        "rect": [
+          38,
+          1,
+          23,
+          51
+        ]
+      },
+      {
+        "name": "player_underdog_bat_idle_02.png",
+        "rect": [
+          72,
+          0,
+          20,
+          52
+        ]
+      },
+      {
+        "name": "player_underdog_bat_idle_03.png",
+        "rect": [
+          106,
+          1,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_underdog_bat_swing_00.png",
+        "rect": [
+          136,
+          3,
+          24,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_bat_swing_01.png",
+        "rect": [
+          169,
+          3,
+          24,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_bat_swing_02.png",
+        "rect": [
+          201,
+          4,
+          27,
+          48
+        ]
+      },
+      {
+        "name": "player_underdog_bat_swing_03.png",
+        "rect": [
+          231,
+          2,
+          32,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_bat_swing_04.png",
+        "rect": [
+          2,
+          52,
+          29,
+          52
+        ]
+      },
+      {
+        "name": "player_underdog_bat_swing_05.png",
+        "rect": [
+          33,
+          52,
+          33,
+          52
+        ]
+      }
+    ],
+    "size": [
+      264,
+      104
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

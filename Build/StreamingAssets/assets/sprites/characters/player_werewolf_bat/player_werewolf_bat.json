@@ -1,0 +1,132 @@
+{
+  "actor": "player_werewolf_bat",
+  "atlas": {
+    "file": "player_werewolf_bat_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_bat_idle_00.png",
+        "rect": [
+          5,
+          0,
+          24,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_idle_01.png",
+        "rect": [
+          38,
+          0,
+          25,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_idle_02.png",
+        "rect": [
+          72,
+          0,
+          25,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_idle_03.png",
+        "rect": [
+          106,
+          0,
+          26,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_00.png",
+        "rect": [
+          138,
+          8,
+          30,
+          44
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_01.png",
+        "rect": [
+          170,
+          10,
+          33,
+          42
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_02.png",
+        "rect": [
+          204,
+          11,
+          34,
+          41
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_03.png",
+        "rect": [
+          238,
+          12,
+          34,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_04.png",
+        "rect": [
+          3,
+          64,
+          27,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_05.png",
+        "rect": [
+          37,
+          63,
+          27,
+          41
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_06.png",
+        "rect": [
+          71,
+          63,
+          28,
+          41
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_07.png",
+        "rect": [
+          105,
+          63,
+          28,
+          41
+        ]
+      },
+      {
+        "name": "player_werewolf_bat_swing_08.png",
+        "rect": [
+          139,
+          63,
+          27,
+          41
+        ]
+      }
+    ],
+    "size": [
+      272,
+      104
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

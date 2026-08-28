@@ -1,0 +1,105 @@
+{
+  "actor": "player_shotgunner_ballchain",
+  "atlas": {
+    "file": "player_shotgunner_ballchain_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_ballchain_idle_00.png",
+        "rect": [
+          24,
+          0,
+          16,
+          74
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_idle_01.png",
+        "rect": [
+          90,
+          0,
+          15,
+          74
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_idle_02.png",
+        "rect": [
+          155,
+          0,
+          14,
+          74
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_idle_03.png",
+        "rect": [
+          220,
+          0,
+          15,
+          74
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_00.png",
+        "rect": [
+          272,
+          3,
+          40,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_01.png",
+        "rect": [
+          337,
+          3,
+          40,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_02.png",
+        "rect": [
+          402,
+          3,
+          40,
+          71
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_03.png",
+        "rect": [
+          465,
+          4,
+          44,
+          70
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_04.png",
+        "rect": [
+          9,
+          76,
+          47,
+          72
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_05.png",
+        "rect": [
+          65,
+          75,
+          65,
+          73
+        ]
+      }
+    ],
+    "size": [
+      520,
+      148
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

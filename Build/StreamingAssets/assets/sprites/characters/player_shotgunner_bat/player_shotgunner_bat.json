@@ -1,0 +1,132 @@
+{
+  "actor": "player_shotgunner_bat",
+  "atlas": {
+    "file": "player_shotgunner_bat_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_bat_idle_00.png",
+        "rect": [
+          4,
+          1,
+          24,
+          54
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_idle_01.png",
+        "rect": [
+          36,
+          0,
+          24,
+          55
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_idle_02.png",
+        "rect": [
+          68,
+          1,
+          24,
+          54
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_idle_03.png",
+        "rect": [
+          100,
+          1,
+          23,
+          54
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_00.png",
+        "rect": [
+          129,
+          11,
+          29,
+          44
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_01.png",
+        "rect": [
+          161,
+          12,
+          30,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_02.png",
+        "rect": [
+          193,
+          11,
+          30,
+          44
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_03.png",
+        "rect": [
+          226,
+          8,
+          27,
+          47
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_04.png",
+        "rect": [
+          6,
+          60,
+          20,
+          50
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_05.png",
+        "rect": [
+          32,
+          66,
+          32,
+          44
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_06.png",
+        "rect": [
+          64,
+          65,
+          32,
+          45
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_07.png",
+        "rect": [
+          96,
+          66,
+          32,
+          44
+        ]
+      },
+      {
+        "name": "player_shotgunner_bat_swing_08.png",
+        "rect": [
+          132,
+          60,
+          24,
+          50
+        ]
+      }
+    ],
+    "size": [
+      256,
+      110
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}
