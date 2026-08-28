@@ -1,0 +1,258 @@
+{
+  "actor": "burly",
+  "atlas": {
+    "file": "burly_atlas.png",
+    "frames": [
+      {
+        "name": "burly_attack_side_00.png",
+        "rect": [
+          38,
+          13,
+          59,
+          118
+        ]
+      },
+      {
+        "name": "burly_attack_side_01.png",
+        "rect": [
+          171,
+          16,
+          62,
+          115
+        ]
+      },
+      {
+        "name": "burly_attack_side_02.png",
+        "rect": [
+          305,
+          13,
+          65,
+          118
+        ]
+      },
+      {
+        "name": "burly_attack_side_03.png",
+        "rect": [
+          433,
+          11,
+          79,
+          120
+        ]
+      },
+      {
+        "name": "burly_attack_side_04.png",
+        "rect": [
+          573,
+          0,
+          69,
+          131
+        ]
+      },
+      {
+        "name": "burly_attack_side_05.png",
+        "rect": [
+          698,
+          6,
+          88,
+          125
+        ]
+      },
+      {
+        "name": "burly_death_00.png",
+        "rect": [
+          842,
+          10,
+          70,
+          121
+        ]
+      },
+      {
+        "name": "burly_death_01.png",
+        "rect": [
+          980,
+          11,
+          64,
+          120
+        ]
+      },
+      {
+        "name": "burly_death_02.png",
+        "rect": [
+          24,
+          162,
+          86,
+          100
+        ]
+      },
+      {
+        "name": "burly_death_03.png",
+        "rect": [
+          148,
+          163,
+          108,
+          99
+        ]
+      },
+      {
+        "name": "burly_death_04.png",
+        "rect": [
+          294,
+          192,
+          86,
+          70
+        ]
+      },
+      {
+        "name": "burly_death_05.png",
+        "rect": [
+          405,
+          165,
+          135,
+          97
+        ]
+      },
+      {
+        "name": "burly_death_06.png",
+        "rect": [
+          555,
+          231,
+          105,
+          31
+        ]
+      },
+      {
+        "name": "burly_hurt_00.png",
+        "rect": [
+          711,
+          143,
+          63,
+          119
+        ]
+      },
+      {
+        "name": "burly_hurt_01.png",
+        "rect": [
+          848,
+          145,
+          58,
+          117
+        ]
+      },
+      {
+        "name": "burly_hurt_02.png",
+        "rect": [
+          971,
+          154,
+          82,
+          108
+        ]
+      },
+      {
+        "name": "burly_hurt_03.png",
+        "rect": [
+          20,
+          282,
+          95,
+          111
+        ]
+      },
+      {
+        "name": "burly_hurt_04.png",
+        "rect": [
+          152,
+          281,
+          100,
+          112
+        ]
+      },
+      {
+        "name": "burly_hurt_05.png",
+        "rect": [
+          287,
+          280,
+          101,
+          113
+        ]
+      },
+      {
+        "name": "burly_idle_00.png",
+        "rect": [
+          452,
+          269,
+          41,
+          124
+        ]
+      },
+      {
+        "name": "burly_idle_01.png",
+        "rect": [
+          587,
+          269,
+          40,
+          124
+        ]
+      },
+      {
+        "name": "burly_idle_02.png",
+        "rect": [
+          722,
+          268,
+          41,
+          125
+        ]
+      },
+      {
+        "name": "burly_idle_03.png",
+        "rect": [
+          857,
+          270,
+          40,
+          123
+        ]
+      },
+      {
+        "name": "burly_walk_00.png",
+        "rect": [
+          986,
+          271,
+          52,
+          122
+        ]
+      },
+      {
+        "name": "burly_walk_01.png",
+        "rect": [
+          38,
+          402,
+          58,
+          122
+        ]
+      },
+      {
+        "name": "burly_walk_02.png",
+        "rect": [
+          180,
+          400,
+          45,
+          124
+        ]
+      },
+      {
+        "name": "burly_walk_03.png",
+        "rect": [
+          307,
+          400,
+          60,
+          124
+        ]
+      }
+    ],
+    "size": [
+      1080,
+      524
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

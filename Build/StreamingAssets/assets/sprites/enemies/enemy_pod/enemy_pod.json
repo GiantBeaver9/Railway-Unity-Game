@@ -1,0 +1,163 @@
+{
+  "actor": "enemy_pod",
+  "atlas": {
+    "file": "enemy_pod_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_pod_idle_00.png",
+        "rect": [
+          0,
+          0,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_idle_01.png",
+        "rect": [
+          32,
+          0,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_idle_02.png",
+        "rect": [
+          64,
+          0,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_idle_03.png",
+        "rect": [
+          96,
+          0,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_spit_00.png",
+        "rect": [
+          128,
+          0,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_spit_01.png",
+        "rect": [
+          160,
+          0,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_spit_02.png",
+        "rect": [
+          192,
+          0,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_spit_03.png",
+        "rect": [
+          224,
+          0,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_death_00.png",
+        "rect": [
+          0,
+          40,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_death_01.png",
+        "rect": [
+          32,
+          40,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_death_02.png",
+        "rect": [
+          64,
+          40,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pod_death_03.png",
+        "rect": [
+          96,
+          40,
+          32,
+          40
+        ]
+      }
+    ],
+    "size": [
+      256,
+      128
+    ]
+  },
+  "clips": {
+    "death": {
+      "atlas_range": [
+        8,
+        12
+      ],
+      "direction": "none",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "idle": {
+      "atlas_range": [
+        0,
+        4
+      ],
+      "direction": "none",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": true
+    },
+    "spit": {
+      "atlas_range": [
+        4,
+        8
+      ],
+      "direction": "none",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    }
+  },
+  "fps": 12,
+  "hp": 50,
+  "import": {
+    "compression": "None",
+    "filter": "Point",
+    "type": "Sprite2D"
+  },
+  "kind": "enemy",
+  "placeholder": true,
+  "ppu": 24,
+  "tier": "P0"
+}

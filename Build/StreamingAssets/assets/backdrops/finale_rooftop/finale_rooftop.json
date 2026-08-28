@@ -1,0 +1,16 @@
+{
+  "height": 360,
+  "horizon_y": 144,
+  "layers": {
+    "far": 0.2,
+    "lane": 1.0,
+    "mid": 0.5,
+    "near": 0.85
+  },
+  "note": "Distinct per-stage strip set (procedural, seamless) matching area1_suburb structure.",
+  "placeholder": false,
+  "procedural": true,
+  "seamless": true,
+  "theme": "finale_rooftop",
+  "tile_width": 512
+}

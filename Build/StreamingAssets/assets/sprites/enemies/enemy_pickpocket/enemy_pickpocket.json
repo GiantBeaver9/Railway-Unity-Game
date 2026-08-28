@@ -1,0 +1,258 @@
+{
+  "actor": "enemy_pickpocket",
+  "atlas": {
+    "file": "enemy_pickpocket_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_pickpocket_attack_side_00.png",
+        "rect": [
+          6,
+          3,
+          25,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_attack_side_01.png",
+        "rect": [
+          41,
+          3,
+          28,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_attack_side_02.png",
+        "rect": [
+          79,
+          4,
+          26,
+          39
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_attack_side_03.png",
+        "rect": [
+          115,
+          4,
+          28,
+          39
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_attack_side_04.png",
+        "rect": [
+          153,
+          2,
+          27,
+          41
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_attack_side_05.png",
+        "rect": [
+          185,
+          3,
+          37,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_death_00.png",
+        "rect": [
+          229,
+          6,
+          23,
+          37
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_death_01.png",
+        "rect": [
+          266,
+          7,
+          22,
+          36
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_death_02.png",
+        "rect": [
+          4,
+          55,
+          28,
+          31
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_death_03.png",
+        "rect": [
+          40,
+          55,
+          30,
+          31
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_death_04.png",
+        "rect": [
+          77,
+          61,
+          30,
+          25
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_death_05.png",
+        "rect": [
+          111,
+          64,
+          36,
+          22
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_death_06.png",
+        "rect": [
+          148,
+          71,
+          37,
+          15
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_hurt_00.png",
+        "rect": [
+          190,
+          46,
+          27,
+          40
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_hurt_01.png",
+        "rect": [
+          227,
+          45,
+          27,
+          41
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_hurt_02.png",
+        "rect": [
+          263,
+          50,
+          29,
+          36
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_hurt_03.png",
+        "rect": [
+          4,
+          92,
+          28,
+          37
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_hurt_04.png",
+        "rect": [
+          42,
+          91,
+          26,
+          38
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_hurt_05.png",
+        "rect": [
+          79,
+          91,
+          26,
+          38
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_idle_00.png",
+        "rect": [
+          120,
+          87,
+          19,
+          42
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_idle_01.png",
+        "rect": [
+          157,
+          87,
+          19,
+          42
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_idle_02.png",
+        "rect": [
+          194,
+          86,
+          19,
+          43
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_idle_03.png",
+        "rect": [
+          231,
+          86,
+          19,
+          43
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_walk_00.png",
+        "rect": [
+          268,
+          87,
+          19,
+          42
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_walk_01.png",
+        "rect": [
+          7,
+          130,
+          22,
+          42
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_walk_02.png",
+        "rect": [
+          46,
+          130,
+          19,
+          42
+        ]
+      },
+      {
+        "name": "enemy_pickpocket_walk_03.png",
+        "rect": [
+          80,
+          130,
+          24,
+          42
+        ]
+      }
+    ],
+    "size": [
+      296,
+      172
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

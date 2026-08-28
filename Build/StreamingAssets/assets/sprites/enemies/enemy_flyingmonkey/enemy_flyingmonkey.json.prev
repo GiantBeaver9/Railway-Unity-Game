@@ -1,0 +1,141 @@
+{
+  "actor": "enemy_flyingmonkey",
+  "atlas": {
+    "file": "enemy_flyingmonkey_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_flyingmonkey_attack_side_00.png",
+        "rect": [
+          2,
+          7,
+          50,
+          45
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_attack_side_01.png",
+        "rect": [
+          57,
+          7,
+          50,
+          45
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_attack_side_02.png",
+        "rect": [
+          112,
+          7,
+          51,
+          45
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_attack_side_03.png",
+        "rect": [
+          167,
+          7,
+          50,
+          45
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_attack_side_04.png",
+        "rect": [
+          223,
+          5,
+          49,
+          47
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_attack_side_05.png",
+        "rect": [
+          275,
+          5,
+          55,
+          47
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_idle_00.png",
+        "rect": [
+          349,
+          0,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_idle_01.png",
+        "rect": [
+          404,
+          0,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_idle_02.png",
+        "rect": [
+          19,
+          52,
+          16,
+          52
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_idle_03.png",
+        "rect": [
+          74,
+          53,
+          16,
+          51
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_walk_00.png",
+        "rect": [
+          125,
+          55,
+          24,
+          49
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_walk_01.png",
+        "rect": [
+          180,
+          56,
+          24,
+          48
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_walk_02.png",
+        "rect": [
+          236,
+          56,
+          23,
+          48
+        ]
+      },
+      {
+        "name": "enemy_flyingmonkey_walk_03.png",
+        "rect": [
+          290,
+          56,
+          24,
+          48
+        ]
+      }
+    ],
+    "size": [
+      440,
+      104
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

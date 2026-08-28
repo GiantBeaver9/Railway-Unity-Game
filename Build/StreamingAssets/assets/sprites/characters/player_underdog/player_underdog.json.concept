@@ -1,0 +1,115 @@
+{
+  "actor": "player_underdog",
+  "atlas": {
+    "file": "player_underdog_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_idle_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_walk_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_dash_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_jump_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_land_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_attack_side_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_air_side_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_hurt_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_death_00.png",
+        "rect": [
+          0,
+          0,
+          25,
+          46
+        ]
+      }
+    ],
+    "size": [
+      25,
+      46
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "placeholder": true,
+  "from_concept_art": true
+}

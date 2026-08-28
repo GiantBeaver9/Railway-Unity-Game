@@ -1,0 +1,51 @@
+{
+  "actor": "player_tactical_pistol",
+  "atlas": {
+    "file": "player_tactical_pistol_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_pistol_swing_00.png",
+        "rect": [
+          8,
+          0,
+          27,
+          55
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_01.png",
+        "rect": [
+          43,
+          0,
+          43,
+          55
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_02.png",
+        "rect": [
+          86,
+          0,
+          42,
+          55
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_03.png",
+        "rect": [
+          135,
+          3,
+          31,
+          52
+        ]
+      }
+    ],
+    "size": [
+      344,
+      55
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

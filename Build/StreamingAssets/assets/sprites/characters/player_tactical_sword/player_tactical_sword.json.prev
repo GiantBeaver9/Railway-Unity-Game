@@ -1,0 +1,114 @@
+{
+  "actor": "player_tactical_sword",
+  "atlas": {
+    "file": "player_tactical_sword_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_sword_idle_00.png",
+        "rect": [
+          13,
+          13,
+          25,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_sword_idle_01.png",
+        "rect": [
+          60,
+          14,
+          32,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_sword_idle_02.png",
+        "rect": [
+          111,
+          14,
+          32,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_sword_idle_03.png",
+        "rect": [
+          153,
+          0,
+          51,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_sword_swing_00.png",
+        "rect": [
+          220,
+          13,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_sword_swing_01.png",
+        "rect": [
+          263,
+          11,
+          35,
+          53
+        ]
+      },
+      {
+        "name": "player_tactical_sword_swing_02.png",
+        "rect": [
+          313,
+          11,
+          36,
+          53
+        ]
+      },
+      {
+        "name": "player_tactical_sword_swing_03.png",
+        "rect": [
+          365,
+          16,
+          34,
+          48
+        ]
+      },
+      {
+        "name": "player_tactical_sword_swing_04.png",
+        "rect": [
+          8,
+          80,
+          34,
+          48
+        ]
+      },
+      {
+        "name": "player_tactical_sword_swing_05.png",
+        "rect": [
+          60,
+          79,
+          33,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_sword_swing_06.png",
+        "rect": [
+          111,
+          79,
+          33,
+          49
+        ]
+      }
+    ],
+    "size": [
+      408,
+      128
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

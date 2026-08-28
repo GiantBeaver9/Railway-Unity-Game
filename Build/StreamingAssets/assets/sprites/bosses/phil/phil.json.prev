@@ -1,0 +1,177 @@
+{
+  "actor": "phil",
+  "atlas": {
+    "file": "phil_atlas.png",
+    "frames": [
+      {
+        "name": "phil_attack_side_00.png",
+        "rect": [
+          18,
+          0,
+          35,
+          102
+        ]
+      },
+      {
+        "name": "phil_attack_side_01.png",
+        "rect": [
+          82,
+          0,
+          51,
+          102
+        ]
+      },
+      {
+        "name": "phil_attack_side_02.png",
+        "rect": [
+          156,
+          0,
+          47,
+          102
+        ]
+      },
+      {
+        "name": "phil_attack_side_03.png",
+        "rect": [
+          227,
+          0,
+          50,
+          102
+        ]
+      },
+      {
+        "name": "phil_death_00.png",
+        "rect": [
+          300,
+          1,
+          47,
+          101
+        ]
+      },
+      {
+        "name": "phil_death_01.png",
+        "rect": [
+          365,
+          15,
+          62,
+          87
+        ]
+      },
+      {
+        "name": "phil_death_02.png",
+        "rect": [
+          432,
+          44,
+          71,
+          58
+        ]
+      },
+      {
+        "name": "phil_death_03.png",
+        "rect": [
+          504,
+          84,
+          72,
+          18
+        ]
+      },
+      {
+        "name": "phil_hurt_00.png",
+        "rect": [
+          9,
+          102,
+          53,
+          102
+        ]
+      },
+      {
+        "name": "phil_hurt_01.png",
+        "rect": [
+          82,
+          102,
+          52,
+          102
+        ]
+      },
+      {
+        "name": "phil_idle_00.png",
+        "rect": [
+          154,
+          102,
+          51,
+          102
+        ]
+      },
+      {
+        "name": "phil_idle_01.png",
+        "rect": [
+          226,
+          102,
+          51,
+          102
+        ]
+      },
+      {
+        "name": "phil_idle_02.png",
+        "rect": [
+          298,
+          102,
+          51,
+          102
+        ]
+      },
+      {
+        "name": "phil_idle_03.png",
+        "rect": [
+          370,
+          102,
+          51,
+          102
+        ]
+      },
+      {
+        "name": "phil_walk_00.png",
+        "rect": [
+          442,
+          102,
+          51,
+          102
+        ]
+      },
+      {
+        "name": "phil_walk_01.png",
+        "rect": [
+          514,
+          102,
+          51,
+          102
+        ]
+      },
+      {
+        "name": "phil_walk_02.png",
+        "rect": [
+          10,
+          204,
+          51,
+          102
+        ]
+      },
+      {
+        "name": "phil_walk_03.png",
+        "rect": [
+          82,
+          204,
+          51,
+          102
+        ]
+      }
+    ],
+    "size": [
+      576,
+      306
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

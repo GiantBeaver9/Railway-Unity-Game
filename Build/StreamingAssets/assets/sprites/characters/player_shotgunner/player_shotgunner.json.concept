@@ -1,0 +1,115 @@
+{
+  "actor": "player_shotgunner",
+  "atlas": {
+    "file": "player_shotgunner_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_idle_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_walk_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_dash_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_jump_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_land_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_side_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_up_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_down_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_air_side_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_hurt_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      },
+      {
+        "name": "player_shotgunner_death_00.png",
+        "rect": [
+          0,
+          0,
+          53,
+          64
+        ]
+      }
+    ],
+    "size": [
+      53,
+      64
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "placeholder": true,
+  "from_concept_art": true
+}

@@ -1,0 +1,299 @@
+{
+  "actor": "enemy_swarmer",
+  "atlas": {
+    "file": "enemy_swarmer_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_swarmer_idle_00.png",
+        "rect": [
+          0,
+          0,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_idle_01.png",
+        "rect": [
+          27,
+          0,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_idle_02.png",
+        "rect": [
+          54,
+          0,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_idle_03.png",
+        "rect": [
+          81,
+          0,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_00.png",
+        "rect": [
+          108,
+          0,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_01.png",
+        "rect": [
+          135,
+          0,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_02.png",
+        "rect": [
+          162,
+          0,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_03.png",
+        "rect": [
+          189,
+          0,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_04.png",
+        "rect": [
+          0,
+          33,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_05.png",
+        "rect": [
+          27,
+          33,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_06.png",
+        "rect": [
+          54,
+          33,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_07.png",
+        "rect": [
+          81,
+          33,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_00.png",
+        "rect": [
+          108,
+          33,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_01.png",
+        "rect": [
+          135,
+          33,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_02.png",
+        "rect": [
+          162,
+          33,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_03.png",
+        "rect": [
+          189,
+          33,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_04.png",
+        "rect": [
+          0,
+          66,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_hurt_00.png",
+        "rect": [
+          27,
+          66,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_hurt_01.png",
+        "rect": [
+          54,
+          66,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_00.png",
+        "rect": [
+          81,
+          66,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_01.png",
+        "rect": [
+          108,
+          66,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_02.png",
+        "rect": [
+          135,
+          66,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_03.png",
+        "rect": [
+          162,
+          66,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_04.png",
+        "rect": [
+          189,
+          66,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_05.png",
+        "rect": [
+          0,
+          99,
+          27,
+          33
+        ]
+      }
+    ],
+    "size": [
+      256,
+      256
+    ]
+  },
+  "clips": {
+    "attack_side": {
+      "atlas_range": [
+        12,
+        17
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 5,
+      "loop": false
+    },
+    "death": {
+      "atlas_range": [
+        19,
+        25
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 6,
+      "loop": false
+    },
+    "hurt": {
+      "atlas_range": [
+        17,
+        19
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 2,
+      "loop": false
+    },
+    "idle": {
+      "atlas_range": [
+        0,
+        4
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "walk": {
+      "atlas_range": [
+        4,
+        12
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 8,
+      "loop": false
+    }
+  },
+  "fps": 12,
+  "import": {
+    "compression": "None",
+    "filter": "Point",
+    "type": "Sprite2D"
+  },
+  "kind": "enemy",
+  "placeholder": true,
+  "ppu": 24,
+  "tier": "P0"
+}

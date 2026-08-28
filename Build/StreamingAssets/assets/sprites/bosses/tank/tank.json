@@ -1,0 +1,258 @@
+{
+  "actor": "tank",
+  "atlas": {
+    "file": "tank_atlas.png",
+    "frames": [
+      {
+        "name": "tank_attack_side_00.png",
+        "rect": [
+          28,
+          6,
+          62,
+          117
+        ]
+      },
+      {
+        "name": "tank_attack_side_01.png",
+        "rect": [
+          146,
+          6,
+          64,
+          117
+        ]
+      },
+      {
+        "name": "tank_attack_side_02.png",
+        "rect": [
+          266,
+          11,
+          62,
+          112
+        ]
+      },
+      {
+        "name": "tank_attack_side_03.png",
+        "rect": [
+          378,
+          13,
+          77,
+          110
+        ]
+      },
+      {
+        "name": "tank_attack_side_04.png",
+        "rect": [
+          499,
+          0,
+          73,
+          123
+        ]
+      },
+      {
+        "name": "tank_attack_side_05.png",
+        "rect": [
+          605,
+          4,
+          99,
+          119
+        ]
+      },
+      {
+        "name": "tank_death_00.png",
+        "rect": [
+          738,
+          4,
+          71,
+          119
+        ]
+      },
+      {
+        "name": "tank_death_01.png",
+        "rect": [
+          857,
+          9,
+          70,
+          114
+        ]
+      },
+      {
+        "name": "tank_death_02.png",
+        "rect": [
+          20,
+          155,
+          79,
+          91
+        ]
+      },
+      {
+        "name": "tank_death_03.png",
+        "rect": [
+          136,
+          154,
+          85,
+          92
+        ]
+      },
+      {
+        "name": "tank_death_04.png",
+        "rect": [
+          251,
+          167,
+          92,
+          79
+        ]
+      },
+      {
+        "name": "tank_death_05.png",
+        "rect": [
+          363,
+          188,
+          107,
+          58
+        ]
+      },
+      {
+        "name": "tank_death_06.png",
+        "rect": [
+          476,
+          173,
+          119,
+          73
+        ]
+      },
+      {
+        "name": "tank_hurt_00.png",
+        "rect": [
+          615,
+          128,
+          79,
+          118
+        ]
+      },
+      {
+        "name": "tank_hurt_01.png",
+        "rect": [
+          733,
+          127,
+          80,
+          119
+        ]
+      },
+      {
+        "name": "tank_hurt_02.png",
+        "rect": [
+          847,
+          137,
+          90,
+          109
+        ]
+      },
+      {
+        "name": "tank_hurt_03.png",
+        "rect": [
+          23,
+          257,
+          72,
+          112
+        ]
+      },
+      {
+        "name": "tank_hurt_04.png",
+        "rect": [
+          148,
+          255,
+          60,
+          114
+        ]
+      },
+      {
+        "name": "tank_hurt_05.png",
+        "rect": [
+          271,
+          264,
+          53,
+          105
+        ]
+      },
+      {
+        "name": "tank_idle_00.png",
+        "rect": [
+          400,
+          248,
+          32,
+          121
+        ]
+      },
+      {
+        "name": "tank_idle_01.png",
+        "rect": [
+          519,
+          247,
+          32,
+          122
+        ]
+      },
+      {
+        "name": "tank_idle_02.png",
+        "rect": [
+          639,
+          248,
+          31,
+          121
+        ]
+      },
+      {
+        "name": "tank_idle_03.png",
+        "rect": [
+          758,
+          249,
+          31,
+          120
+        ]
+      },
+      {
+        "name": "tank_walk_00.png",
+        "rect": [
+          876,
+          247,
+          33,
+          122
+        ]
+      },
+      {
+        "name": "tank_walk_01.png",
+        "rect": [
+          29,
+          370,
+          61,
+          122
+        ]
+      },
+      {
+        "name": "tank_walk_02.png",
+        "rect": [
+          162,
+          369,
+          32,
+          123
+        ]
+      },
+      {
+        "name": "tank_walk_03.png",
+        "rect": [
+          266,
+          369,
+          62,
+          123
+        ]
+      }
+    ],
+    "size": [
+      952,
+      492
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

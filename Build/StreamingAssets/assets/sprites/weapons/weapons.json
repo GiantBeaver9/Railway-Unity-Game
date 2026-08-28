@@ -1,0 +1,12 @@
+{
+  "P0": [
+    "sword",
+    "shotgun"
+  ],
+  "placeholder": true,
+  "sword_wear_states": [
+    "fresh",
+    "worn",
+    "chipped"
+  ]
+}

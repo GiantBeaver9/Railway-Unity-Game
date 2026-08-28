@@ -1,0 +1,51 @@
+{
+  "actor": "player_tactical_gatling",
+  "atlas": {
+    "file": "player_tactical_gatling_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_gatling_swing_00.png",
+        "rect": [
+          11,
+          0,
+          30,
+          55
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_01.png",
+        "rect": [
+          52,
+          0,
+          52,
+          55
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_02.png",
+        "rect": [
+          104,
+          0,
+          51,
+          55
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_03.png",
+        "rect": [
+          164,
+          3,
+          35,
+          52
+        ]
+      }
+    ],
+    "size": [
+      416,
+      55
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

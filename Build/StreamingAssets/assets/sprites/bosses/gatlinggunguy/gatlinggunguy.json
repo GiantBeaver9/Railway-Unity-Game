@@ -1,0 +1,258 @@
+{
+  "actor": "gatlinggunguy",
+  "atlas": {
+    "file": "gatlinggunguy_atlas.png",
+    "frames": [
+      {
+        "name": "gatlinggunguy_attack_side_00.png",
+        "rect": [
+          37,
+          8,
+          67,
+          117
+        ]
+      },
+      {
+        "name": "gatlinggunguy_attack_side_01.png",
+        "rect": [
+          181,
+          6,
+          64,
+          119
+        ]
+      },
+      {
+        "name": "gatlinggunguy_attack_side_02.png",
+        "rect": [
+          315,
+          16,
+          80,
+          109
+        ]
+      },
+      {
+        "name": "gatlinggunguy_attack_side_03.png",
+        "rect": [
+          455,
+          21,
+          83,
+          104
+        ]
+      },
+      {
+        "name": "gatlinggunguy_attack_side_04.png",
+        "rect": [
+          572,
+          25,
+          134,
+          100
+        ]
+      },
+      {
+        "name": "gatlinggunguy_attack_side_05.png",
+        "rect": [
+          710,
+          26,
+          142,
+          99
+        ]
+      },
+      {
+        "name": "gatlinggunguy_death_00.png",
+        "rect": [
+          889,
+          15,
+          68,
+          110
+        ]
+      },
+      {
+        "name": "gatlinggunguy_death_01.png",
+        "rect": [
+          1031,
+          17,
+          67,
+          108
+        ]
+      },
+      {
+        "name": "gatlinggunguy_death_02.png",
+        "rect": [
+          34,
+          157,
+          73,
+          93
+        ]
+      },
+      {
+        "name": "gatlinggunguy_death_03.png",
+        "rect": [
+          171,
+          164,
+          83,
+          86
+        ]
+      },
+      {
+        "name": "gatlinggunguy_death_04.png",
+        "rect": [
+          301,
+          152,
+          107,
+          98
+        ]
+      },
+      {
+        "name": "gatlinggunguy_death_05.png",
+        "rect": [
+          442,
+          140,
+          109,
+          110
+        ]
+      },
+      {
+        "name": "gatlinggunguy_death_06.png",
+        "rect": [
+          592,
+          221,
+          94,
+          29
+        ]
+      },
+      {
+        "name": "gatlinggunguy_hurt_00.png",
+        "rect": [
+          753,
+          128,
+          56,
+          122
+        ]
+      },
+      {
+        "name": "gatlinggunguy_hurt_01.png",
+        "rect": [
+          891,
+          127,
+          63,
+          123
+        ]
+      },
+      {
+        "name": "gatlinggunguy_hurt_02.png",
+        "rect": [
+          1027,
+          147,
+          76,
+          103
+        ]
+      },
+      {
+        "name": "gatlinggunguy_hurt_03.png",
+        "rect": [
+          37,
+          270,
+          68,
+          105
+        ]
+      },
+      {
+        "name": "gatlinggunguy_hurt_04.png",
+        "rect": [
+          184,
+          270,
+          58,
+          105
+        ]
+      },
+      {
+        "name": "gatlinggunguy_hurt_05.png",
+        "rect": [
+          330,
+          280,
+          49,
+          95
+        ]
+      },
+      {
+        "name": "gatlinggunguy_idle_00.png",
+        "rect": [
+          480,
+          257,
+          34,
+          118
+        ]
+      },
+      {
+        "name": "gatlinggunguy_idle_01.png",
+        "rect": [
+          624,
+          256,
+          30,
+          119
+        ]
+      },
+      {
+        "name": "gatlinggunguy_idle_02.png",
+        "rect": [
+          766,
+          255,
+          29,
+          120
+        ]
+      },
+      {
+        "name": "gatlinggunguy_idle_03.png",
+        "rect": [
+          908,
+          256,
+          29,
+          119
+        ]
+      },
+      {
+        "name": "gatlinggunguy_walk_00.png",
+        "rect": [
+          1051,
+          250,
+          27,
+          125
+        ]
+      },
+      {
+        "name": "gatlinggunguy_walk_01.png",
+        "rect": [
+          45,
+          376,
+          52,
+          124
+        ]
+      },
+      {
+        "name": "gatlinggunguy_walk_02.png",
+        "rect": [
+          199,
+          376,
+          27,
+          124
+        ]
+      },
+      {
+        "name": "gatlinggunguy_walk_03.png",
+        "rect": [
+          327,
+          376,
+          55,
+          124
+        ]
+      }
+    ],
+    "size": [
+      1136,
+      500
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

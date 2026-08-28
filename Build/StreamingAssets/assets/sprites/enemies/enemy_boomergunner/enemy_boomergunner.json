@@ -1,0 +1,258 @@
+{
+  "actor": "enemy_boomergunner",
+  "atlas": {
+    "file": "enemy_boomergunner_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_boomergunner_attack_side_00.png",
+        "rect": [
+          10,
+          3,
+          41,
+          65
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_attack_side_01.png",
+        "rect": [
+          72,
+          4,
+          42,
+          64
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_attack_side_02.png",
+        "rect": [
+          134,
+          6,
+          41,
+          62
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_attack_side_03.png",
+        "rect": [
+          193,
+          4,
+          48,
+          64
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_attack_side_04.png",
+        "rect": [
+          256,
+          0,
+          46,
+          68
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_attack_side_05.png",
+        "rect": [
+          313,
+          4,
+          56,
+          64
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_death_00.png",
+        "rect": [
+          385,
+          8,
+          36,
+          60
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_death_01.png",
+        "rect": [
+          447,
+          7,
+          35,
+          61
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_death_02.png",
+        "rect": [
+          8,
+          83,
+          46,
+          53
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_death_03.png",
+        "rect": [
+          68,
+          84,
+          50,
+          52
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_death_04.png",
+        "rect": [
+          129,
+          93,
+          51,
+          43
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_death_05.png",
+        "rect": [
+          189,
+          106,
+          56,
+          30
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_death_06.png",
+        "rect": [
+          248,
+          118,
+          62,
+          18
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_hurt_00.png",
+        "rect": [
+          322,
+          75,
+          37,
+          61
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_hurt_01.png",
+        "rect": [
+          385,
+          73,
+          36,
+          63
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_hurt_02.png",
+        "rect": [
+          442,
+          79,
+          45,
+          57
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_hurt_03.png",
+        "rect": [
+          9,
+          146,
+          44,
+          58
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_hurt_04.png",
+        "rect": [
+          72,
+          143,
+          41,
+          61
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_hurt_05.png",
+        "rect": [
+          138,
+          145,
+          34,
+          59
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_idle_00.png",
+        "rect": [
+          208,
+          140,
+          18,
+          64
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_idle_01.png",
+        "rect": [
+          270,
+          139,
+          18,
+          65
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_idle_02.png",
+        "rect": [
+          332,
+          138,
+          18,
+          66
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_idle_03.png",
+        "rect": [
+          394,
+          138,
+          17,
+          66
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_walk_00.png",
+        "rect": [
+          456,
+          140,
+          17,
+          64
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_walk_01.png",
+        "rect": [
+          15,
+          208,
+          31,
+          64
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_walk_02.png",
+        "rect": [
+          85,
+          209,
+          16,
+          63
+        ]
+      },
+      {
+        "name": "enemy_boomergunner_walk_03.png",
+        "rect": [
+          139,
+          209,
+          32,
+          63
+        ]
+      }
+    ],
+    "size": [
+      496,
+      272
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

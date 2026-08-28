@@ -1,0 +1,258 @@
+{
+  "actor": "enemy_gatling",
+  "atlas": {
+    "file": "enemy_gatling_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_gatling_attack_side_00.png",
+        "rect": [
+          6,
+          4,
+          59,
+          71
+        ]
+      },
+      {
+        "name": "enemy_gatling_attack_side_01.png",
+        "rect": [
+          78,
+          3,
+          59,
+          72
+        ]
+      },
+      {
+        "name": "enemy_gatling_attack_side_02.png",
+        "rect": [
+          151,
+          3,
+          58,
+          72
+        ]
+      },
+      {
+        "name": "enemy_gatling_attack_side_03.png",
+        "rect": [
+          218,
+          2,
+          67,
+          73
+        ]
+      },
+      {
+        "name": "enemy_gatling_attack_side_04.png",
+        "rect": [
+          291,
+          2,
+          65,
+          73
+        ]
+      },
+      {
+        "name": "enemy_gatling_attack_side_05.png",
+        "rect": [
+          364,
+          2,
+          63,
+          73
+        ]
+      },
+      {
+        "name": "enemy_gatling_death_00.png",
+        "rect": [
+          438,
+          4,
+          60,
+          71
+        ]
+      },
+      {
+        "name": "enemy_gatling_death_01.png",
+        "rect": [
+          520,
+          8,
+          40,
+          67
+        ]
+      },
+      {
+        "name": "enemy_gatling_death_02.png",
+        "rect": [
+          9,
+          89,
+          54,
+          61
+        ]
+      },
+      {
+        "name": "enemy_gatling_death_03.png",
+        "rect": [
+          76,
+          92,
+          64,
+          58
+        ]
+      },
+      {
+        "name": "enemy_gatling_death_04.png",
+        "rect": [
+          148,
+          95,
+          63,
+          55
+        ]
+      },
+      {
+        "name": "enemy_gatling_death_05.png",
+        "rect": [
+          218,
+          97,
+          67,
+          53
+        ]
+      },
+      {
+        "name": "enemy_gatling_death_06.png",
+        "rect": [
+          288,
+          129,
+          72,
+          21
+        ]
+      },
+      {
+        "name": "enemy_gatling_hurt_00.png",
+        "rect": [
+          362,
+          79,
+          67,
+          71
+        ]
+      },
+      {
+        "name": "enemy_gatling_hurt_01.png",
+        "rect": [
+          433,
+          77,
+          69,
+          73
+        ]
+      },
+      {
+        "name": "enemy_gatling_hurt_02.png",
+        "rect": [
+          508,
+          85,
+          64,
+          65
+        ]
+      },
+      {
+        "name": "enemy_gatling_hurt_03.png",
+        "rect": [
+          2,
+          159,
+          67,
+          66
+        ]
+      },
+      {
+        "name": "enemy_gatling_hurt_04.png",
+        "rect": [
+          88,
+          154,
+          39,
+          71
+        ]
+      },
+      {
+        "name": "enemy_gatling_hurt_05.png",
+        "rect": [
+          148,
+          156,
+          64,
+          69
+        ]
+      },
+      {
+        "name": "enemy_gatling_idle_00.png",
+        "rect": [
+          239,
+          151,
+          25,
+          74
+        ]
+      },
+      {
+        "name": "enemy_gatling_idle_01.png",
+        "rect": [
+          310,
+          151,
+          27,
+          74
+        ]
+      },
+      {
+        "name": "enemy_gatling_idle_02.png",
+        "rect": [
+          379,
+          150,
+          33,
+          75
+        ]
+      },
+      {
+        "name": "enemy_gatling_idle_03.png",
+        "rect": [
+          455,
+          150,
+          26,
+          75
+        ]
+      },
+      {
+        "name": "enemy_gatling_walk_00.png",
+        "rect": [
+          526,
+          151,
+          28,
+          74
+        ]
+      },
+      {
+        "name": "enemy_gatling_walk_01.png",
+        "rect": [
+          17,
+          226,
+          37,
+          74
+        ]
+      },
+      {
+        "name": "enemy_gatling_walk_02.png",
+        "rect": [
+          93,
+          226,
+          29,
+          74
+        ]
+      },
+      {
+        "name": "enemy_gatling_walk_03.png",
+        "rect": [
+          161,
+          226,
+          37,
+          74
+        ]
+      }
+    ],
+    "size": [
+      576,
+      300
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

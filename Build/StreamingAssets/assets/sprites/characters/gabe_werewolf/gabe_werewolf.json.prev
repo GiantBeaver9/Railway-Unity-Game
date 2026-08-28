@@ -1,0 +1,105 @@
+{
+  "actor": "gabe_werewolf",
+  "atlas": {
+    "file": "gabe_werewolf_atlas.png",
+    "frames": [
+      {
+        "name": "gabe_werewolf_attack_side_00.png",
+        "rect": [
+          7,
+          2,
+          41,
+          65
+        ]
+      },
+      {
+        "name": "gabe_werewolf_attack_side_01.png",
+        "rect": [
+          62,
+          1,
+          43,
+          66
+        ]
+      },
+      {
+        "name": "gabe_werewolf_attack_side_02.png",
+        "rect": [
+          118,
+          1,
+          44,
+          66
+        ]
+      },
+      {
+        "name": "gabe_werewolf_attack_side_03.png",
+        "rect": [
+          171,
+          1,
+          49,
+          66
+        ]
+      },
+      {
+        "name": "gabe_werewolf_attack_side_04.png",
+        "rect": [
+          229,
+          0,
+          46,
+          67
+        ]
+      },
+      {
+        "name": "gabe_werewolf_attack_side_05.png",
+        "rect": [
+          280,
+          0,
+          56,
+          67
+        ]
+      },
+      {
+        "name": "gabe_werewolf_idle_00.png",
+        "rect": [
+          349,
+          1,
+          30,
+          66
+        ]
+      },
+      {
+        "name": "gabe_werewolf_idle_01.png",
+        "rect": [
+          405,
+          0,
+          30,
+          67
+        ]
+      },
+      {
+        "name": "gabe_werewolf_idle_02.png",
+        "rect": [
+          14,
+          68,
+          27,
+          66
+        ]
+      },
+      {
+        "name": "gabe_werewolf_idle_03.png",
+        "rect": [
+          69,
+          69,
+          29,
+          65
+        ]
+      }
+    ],
+    "size": [
+      448,
+      134
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

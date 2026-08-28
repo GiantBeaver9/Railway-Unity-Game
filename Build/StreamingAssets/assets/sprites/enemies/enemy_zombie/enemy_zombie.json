@@ -1,0 +1,258 @@
+{
+  "actor": "enemy_zombie",
+  "atlas": {
+    "file": "enemy_zombie_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_zombie_attack_side_00.png",
+        "rect": [
+          11,
+          3,
+          25,
+          49
+        ]
+      },
+      {
+        "name": "enemy_zombie_attack_side_01.png",
+        "rect": [
+          57,
+          3,
+          26,
+          49
+        ]
+      },
+      {
+        "name": "enemy_zombie_attack_side_02.png",
+        "rect": [
+          104,
+          3,
+          26,
+          49
+        ]
+      },
+      {
+        "name": "enemy_zombie_attack_side_03.png",
+        "rect": [
+          149,
+          3,
+          31,
+          49
+        ]
+      },
+      {
+        "name": "enemy_zombie_attack_side_04.png",
+        "rect": [
+          197,
+          0,
+          29,
+          52
+        ]
+      },
+      {
+        "name": "enemy_zombie_attack_side_05.png",
+        "rect": [
+          239,
+          1,
+          38,
+          51
+        ]
+      },
+      {
+        "name": "enemy_zombie_death_00.png",
+        "rect": [
+          292,
+          4,
+          27,
+          48
+        ]
+      },
+      {
+        "name": "enemy_zombie_death_01.png",
+        "rect": [
+          339,
+          7,
+          26,
+          45
+        ]
+      },
+      {
+        "name": "enemy_zombie_death_02.png",
+        "rect": [
+          6,
+          63,
+          34,
+          41
+        ]
+      },
+      {
+        "name": "enemy_zombie_death_03.png",
+        "rect": [
+          51,
+          64,
+          39,
+          40
+        ]
+      },
+      {
+        "name": "enemy_zombie_death_04.png",
+        "rect": [
+          99,
+          72,
+          37,
+          32
+        ]
+      },
+      {
+        "name": "enemy_zombie_death_05.png",
+        "rect": [
+          142,
+          82,
+          44,
+          22
+        ]
+      },
+      {
+        "name": "enemy_zombie_death_06.png",
+        "rect": [
+          188,
+          89,
+          47,
+          15
+        ]
+      },
+      {
+        "name": "enemy_zombie_hurt_00.png",
+        "rect": [
+          246,
+          56,
+          24,
+          48
+        ]
+      },
+      {
+        "name": "enemy_zombie_hurt_01.png",
+        "rect": [
+          293,
+          54,
+          24,
+          50
+        ]
+      },
+      {
+        "name": "enemy_zombie_hurt_02.png",
+        "rect": [
+          335,
+          60,
+          34,
+          44
+        ]
+      },
+      {
+        "name": "enemy_zombie_hurt_03.png",
+        "rect": [
+          7,
+          111,
+          33,
+          45
+        ]
+      },
+      {
+        "name": "enemy_zombie_hurt_04.png",
+        "rect": [
+          56,
+          108,
+          28,
+          48
+        ]
+      },
+      {
+        "name": "enemy_zombie_hurt_05.png",
+        "rect": [
+          106,
+          111,
+          22,
+          45
+        ]
+      },
+      {
+        "name": "enemy_zombie_idle_00.png",
+        "rect": [
+          156,
+          105,
+          16,
+          51
+        ]
+      },
+      {
+        "name": "enemy_zombie_idle_01.png",
+        "rect": [
+          203,
+          105,
+          16,
+          51
+        ]
+      },
+      {
+        "name": "enemy_zombie_idle_02.png",
+        "rect": [
+          250,
+          105,
+          16,
+          51
+        ]
+      },
+      {
+        "name": "enemy_zombie_idle_03.png",
+        "rect": [
+          297,
+          105,
+          16,
+          51
+        ]
+      },
+      {
+        "name": "enemy_zombie_walk_00.png",
+        "rect": [
+          344,
+          105,
+          16,
+          51
+        ]
+      },
+      {
+        "name": "enemy_zombie_walk_01.png",
+        "rect": [
+          11,
+          156,
+          24,
+          52
+        ]
+      },
+      {
+        "name": "enemy_zombie_walk_02.png",
+        "rect": [
+          62,
+          158,
+          16,
+          50
+        ]
+      },
+      {
+        "name": "enemy_zombie_walk_03.png",
+        "rect": [
+          106,
+          158,
+          23,
+          50
+        ]
+      }
+    ],
+    "size": [
+      376,
+      208
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

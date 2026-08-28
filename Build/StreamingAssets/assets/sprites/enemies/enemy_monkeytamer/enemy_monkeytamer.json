@@ -1,0 +1,258 @@
+{
+  "actor": "enemy_monkeytamer",
+  "atlas": {
+    "file": "enemy_monkeytamer_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_monkeytamer_attack_side_00.png",
+        "rect": [
+          12,
+          5,
+          35,
+          59
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_attack_side_01.png",
+        "rect": [
+          71,
+          5,
+          37,
+          59
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_attack_side_02.png",
+        "rect": [
+          132,
+          5,
+          36,
+          59
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_attack_side_03.png",
+        "rect": [
+          188,
+          4,
+          43,
+          60
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_attack_side_04.png",
+        "rect": [
+          250,
+          2,
+          40,
+          62
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_attack_side_05.png",
+        "rect": [
+          307,
+          3,
+          45,
+          61
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_death_00.png",
+        "rect": [
+          364,
+          5,
+          51,
+          59
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_death_01.png",
+        "rect": [
+          433,
+          7,
+          33,
+          57
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_death_02.png",
+        "rect": [
+          2,
+          76,
+          55,
+          52
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_death_03.png",
+        "rect": [
+          64,
+          78,
+          51,
+          50
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_death_04.png",
+        "rect": [
+          123,
+          70,
+          53,
+          58
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_death_05.png",
+        "rect": [
+          181,
+          97,
+          58,
+          31
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_death_06.png",
+        "rect": [
+          240,
+          78,
+          60,
+          50
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_hurt_00.png",
+        "rect": [
+          315,
+          68,
+          30,
+          60
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_hurt_01.png",
+        "rect": [
+          375,
+          65,
+          29,
+          63
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_hurt_02.png",
+        "rect": [
+          428,
+          69,
+          43,
+          59
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_hurt_03.png",
+        "rect": [
+          9,
+          133,
+          41,
+          59
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_hurt_04.png",
+        "rect": [
+          72,
+          131,
+          35,
+          61
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_hurt_05.png",
+        "rect": [
+          135,
+          134,
+          29,
+          58
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_idle_00.png",
+        "rect": [
+          200,
+          129,
+          19,
+          63
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_idle_01.png",
+        "rect": [
+          260,
+          129,
+          19,
+          63
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_idle_02.png",
+        "rect": [
+          320,
+          128,
+          19,
+          64
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_idle_03.png",
+        "rect": [
+          381,
+          129,
+          18,
+          63
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_walk_00.png",
+        "rect": [
+          440,
+          128,
+          19,
+          64
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_walk_01.png",
+        "rect": [
+          15,
+          192,
+          30,
+          64
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_walk_02.png",
+        "rect": [
+          80,
+          193,
+          20,
+          63
+        ]
+      },
+      {
+        "name": "enemy_monkeytamer_walk_03.png",
+        "rect": [
+          135,
+          193,
+          30,
+          63
+        ]
+      }
+    ],
+    "size": [
+      480,
+      256
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

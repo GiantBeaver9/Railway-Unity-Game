@@ -1,0 +1,258 @@
+{
+  "actor": "colossus",
+  "atlas": {
+    "file": "colossus_atlas.png",
+    "frames": [
+      {
+        "name": "colossus_attack_side_00.png",
+        "rect": [
+          32,
+          24,
+          61,
+          138
+        ]
+      },
+      {
+        "name": "colossus_attack_side_01.png",
+        "rect": [
+          157,
+          23,
+          61,
+          139
+        ]
+      },
+      {
+        "name": "colossus_attack_side_02.png",
+        "rect": [
+          278,
+          16,
+          69,
+          146
+        ]
+      },
+      {
+        "name": "colossus_attack_side_03.png",
+        "rect": [
+          395,
+          31,
+          84,
+          131
+        ]
+      },
+      {
+        "name": "colossus_attack_side_04.png",
+        "rect": [
+          521,
+          30,
+          83,
+          132
+        ]
+      },
+      {
+        "name": "colossus_attack_side_05.png",
+        "rect": [
+          637,
+          40,
+          100,
+          122
+        ]
+      },
+      {
+        "name": "colossus_death_00.png",
+        "rect": [
+          778,
+          48,
+          69,
+          114
+        ]
+      },
+      {
+        "name": "colossus_death_01.png",
+        "rect": [
+          905,
+          52,
+          65,
+          110
+        ]
+      },
+      {
+        "name": "colossus_death_02.png",
+        "rect": [
+          0,
+          202,
+          125,
+          122
+        ]
+      },
+      {
+        "name": "colossus_death_03.png",
+        "rect": [
+          132,
+          192,
+          111,
+          132
+        ]
+      },
+      {
+        "name": "colossus_death_04.png",
+        "rect": [
+          267,
+          253,
+          90,
+          71
+        ]
+      },
+      {
+        "name": "colossus_death_05.png",
+        "rect": [
+          385,
+          265,
+          104,
+          59
+        ]
+      },
+      {
+        "name": "colossus_death_06.png",
+        "rect": [
+          504,
+          255,
+          116,
+          69
+        ]
+      },
+      {
+        "name": "colossus_hurt_00.png",
+        "rect": [
+          656,
+          164,
+          63,
+          160
+        ]
+      },
+      {
+        "name": "colossus_hurt_01.png",
+        "rect": [
+          782,
+          162,
+          61,
+          162
+        ]
+      },
+      {
+        "name": "colossus_hurt_02.png",
+        "rect": [
+          877,
+          177,
+          121,
+          147
+        ]
+      },
+      {
+        "name": "colossus_hurt_03.png",
+        "rect": [
+          7,
+          325,
+          110,
+          161
+        ]
+      },
+      {
+        "name": "colossus_hurt_04.png",
+        "rect": [
+          150,
+          362,
+          74,
+          124
+        ]
+      },
+      {
+        "name": "colossus_hurt_05.png",
+        "rect": [
+          284,
+          374,
+          56,
+          112
+        ]
+      },
+      {
+        "name": "colossus_idle_00.png",
+        "rect": [
+          413,
+          328,
+          49,
+          158
+        ]
+      },
+      {
+        "name": "colossus_idle_01.png",
+        "rect": [
+          538,
+          328,
+          49,
+          158
+        ]
+      },
+      {
+        "name": "colossus_idle_02.png",
+        "rect": [
+          662,
+          333,
+          51,
+          153
+        ]
+      },
+      {
+        "name": "colossus_idle_03.png",
+        "rect": [
+          787,
+          333,
+          51,
+          153
+        ]
+      },
+      {
+        "name": "colossus_walk_00.png",
+        "rect": [
+          917,
+          326,
+          41,
+          160
+        ]
+      },
+      {
+        "name": "colossus_walk_01.png",
+        "rect": [
+          23,
+          497,
+          78,
+          151
+        ]
+      },
+      {
+        "name": "colossus_walk_02.png",
+        "rect": [
+          169,
+          493,
+          36,
+          155
+        ]
+      },
+      {
+        "name": "colossus_walk_03.png",
+        "rect": [
+          274,
+          498,
+          77,
+          150
+        ]
+      }
+    ],
+    "size": [
+      1000,
+      648
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,186 @@
+{
+  "actor": "player_tactical_boomerang",
+  "atlas": {
+    "file": "player_tactical_boomerang_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_boomerang_idle_00.png",
+        "rect": [
+          13,
+          2,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_idle_01.png",
+        "rect": [
+          59,
+          1,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_idle_02.png",
+        "rect": [
+          104,
+          0,
+          17,
+          53
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_idle_03.png",
+        "rect": [
+          148,
+          3,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_idle_04.png",
+        "rect": [
+          192,
+          3,
+          20,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_swing_00.png",
+        "rect": [
+          238,
+          2,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_swing_01.png",
+        "rect": [
+          282,
+          3,
+          20,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_swing_02.png",
+        "rect": [
+          328,
+          2,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_swing_03.png",
+        "rect": [
+          14,
+          55,
+          16,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_swing_04.png",
+        "rect": [
+          59,
+          55,
+          16,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_swing_05.png",
+        "rect": [
+          97,
+          60,
+          30,
+          46
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_swing_06.png",
+        "rect": [
+          135,
+          55,
+          45,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_walk_00.png",
+        "rect": [
+          193,
+          55,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_walk_01.png",
+        "rect": [
+          238,
+          55,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_walk_02.png",
+        "rect": [
+          280,
+          56,
+          25,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_walk_03.png",
+        "rect": [
+          327,
+          57,
+          20,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_walk_04.png",
+        "rect": [
+          11,
+          109,
+          22,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_walk_05.png",
+        "rect": [
+          52,
+          109,
+          30,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_boomerang_walk_06.png",
+        "rect": [
+          97,
+          109,
+          31,
+          50
+        ]
+      }
+    ],
+    "size": [
+      360,
+      159
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,186 @@
+{
+  "actor": "player_tactical_gatling",
+  "atlas": {
+    "file": "player_tactical_gatling_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_gatling_idle_00.png",
+        "rect": [
+          7,
+          1,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_idle_01.png",
+        "rect": [
+          40,
+          0,
+          18,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_idle_02.png",
+        "rect": [
+          74,
+          0,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_idle_03.png",
+        "rect": [
+          106,
+          1,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_idle_04.png",
+        "rect": [
+          139,
+          2,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_00.png",
+        "rect": [
+          172,
+          1,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_01.png",
+        "rect": [
+          205,
+          2,
+          18,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_02.png",
+        "rect": [
+          234,
+          2,
+          27,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_03.png",
+        "rect": [
+          1,
+          53,
+          31,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_04.png",
+        "rect": [
+          33,
+          53,
+          33,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_05.png",
+        "rect": [
+          67,
+          53,
+          31,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_swing_06.png",
+        "rect": [
+          103,
+          53,
+          25,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_walk_00.png",
+        "rect": [
+          139,
+          53,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_walk_01.png",
+        "rect": [
+          171,
+          53,
+          20,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_walk_02.png",
+        "rect": [
+          201,
+          55,
+          26,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_walk_03.png",
+        "rect": [
+          238,
+          54,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_walk_04.png",
+        "rect": [
+          7,
+          105,
+          19,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_walk_05.png",
+        "rect": [
+          38,
+          104,
+          23,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_gatling_walk_06.png",
+        "rect": [
+          69,
+          106,
+          26,
+          50
+        ]
+      }
+    ],
+    "size": [
+      264,
+      156
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,392 @@
+{
+  "actor": "vfx",
+  "atlas": {
+    "file": "vfx_atlas.png",
+    "frames": [
+      {
+        "name": "vfx_gust_00.png",
+        "rect": [
+          2,
+          4,
+          20,
+          20
+        ]
+      },
+      {
+        "name": "vfx_gust_01.png",
+        "rect": [
+          26,
+          4,
+          20,
+          20
+        ]
+      },
+      {
+        "name": "vfx_gust_02.png",
+        "rect": [
+          50,
+          4,
+          20,
+          20
+        ]
+      },
+      {
+        "name": "vfx_gust_03.png",
+        "rect": [
+          74,
+          4,
+          20,
+          20
+        ]
+      },
+      {
+        "name": "vfx_dash_dust_00.png",
+        "rect": [
+          100,
+          8,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_dash_dust_01.png",
+        "rect": [
+          124,
+          8,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_dash_dust_02.png",
+        "rect": [
+          148,
+          8,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_dash_dust_03.png",
+        "rect": [
+          172,
+          8,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_jump_puff_00.png",
+        "rect": [
+          4,
+          32,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_jump_puff_01.png",
+        "rect": [
+          28,
+          32,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_jump_puff_02.png",
+        "rect": [
+          52,
+          32,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_land_puff_00.png",
+        "rect": [
+          74,
+          28,
+          20,
+          20
+        ]
+      },
+      {
+        "name": "vfx_land_puff_01.png",
+        "rect": [
+          98,
+          28,
+          20,
+          20
+        ]
+      },
+      {
+        "name": "vfx_land_puff_02.png",
+        "rect": [
+          122,
+          28,
+          20,
+          20
+        ]
+      },
+      {
+        "name": "vfx_land_puff_03.png",
+        "rect": [
+          146,
+          28,
+          20,
+          20
+        ]
+      },
+      {
+        "name": "vfx_hit_spark_00.png",
+        "rect": [
+          172,
+          32,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_hit_spark_01.png",
+        "rect": [
+          4,
+          56,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_hit_spark_02.png",
+        "rect": [
+          28,
+          56,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_hit_spark_03.png",
+        "rect": [
+          52,
+          56,
+          16,
+          16
+        ]
+      },
+      {
+        "name": "vfx_finisher_flash_00.png",
+        "rect": [
+          72,
+          48,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_finisher_flash_01.png",
+        "rect": [
+          96,
+          48,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_finisher_flash_02.png",
+        "rect": [
+          120,
+          48,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_finisher_flash_03.png",
+        "rect": [
+          144,
+          48,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_finisher_flash_04.png",
+        "rect": [
+          168,
+          48,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_death_burst_00.png",
+        "rect": [
+          0,
+          72,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_death_burst_01.png",
+        "rect": [
+          24,
+          72,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_death_burst_02.png",
+        "rect": [
+          48,
+          72,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_death_burst_03.png",
+        "rect": [
+          72,
+          72,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_death_burst_04.png",
+        "rect": [
+          96,
+          72,
+          24,
+          24
+        ]
+      },
+      {
+        "name": "vfx_muzzle_flash_00.png",
+        "rect": [
+          125,
+          82,
+          14,
+          14
+        ]
+      },
+      {
+        "name": "vfx_muzzle_flash_01.png",
+        "rect": [
+          149,
+          82,
+          14,
+          14
+        ]
+      },
+      {
+        "name": "vfx_muzzle_flash_02.png",
+        "rect": [
+          173,
+          82,
+          14,
+          14
+        ]
+      }
+    ],
+    "size": [
+      256,
+      128
+    ]
+  },
+  "clips": {
+    "dash_dust": {
+      "atlas_range": [
+        4,
+        8
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "death_burst": {
+      "atlas_range": [
+        24,
+        29
+      ],
+      "direction": "none",
+      "fps": 12,
+      "frame_count": 5,
+      "loop": false
+    },
+    "finisher_flash": {
+      "atlas_range": [
+        19,
+        24
+      ],
+      "direction": "none",
+      "fps": 12,
+      "frame_count": 5,
+      "loop": false
+    },
+    "gust": {
+      "atlas_range": [
+        0,
+        4
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "hit_spark": {
+      "atlas_range": [
+        15,
+        19
+      ],
+      "direction": "none",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "jump_puff": {
+      "atlas_range": [
+        8,
+        11
+      ],
+      "direction": "none",
+      "fps": 12,
+      "frame_count": 3,
+      "loop": false
+    },
+    "land_puff": {
+      "atlas_range": [
+        11,
+        15
+      ],
+      "direction": "none",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "muzzle_flash": {
+      "atlas_range": [
+        29,
+        32
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 3,
+      "loop": false
+    }
+  },
+  "fps": 12,
+  "import": {
+    "compression": "None",
+    "filter": "Point",
+    "type": "Sprite2D"
+  },
+  "kind": "vfx",
+  "placeholder": true,
+  "ppu": 24,
+  "tier": "P0"
+}

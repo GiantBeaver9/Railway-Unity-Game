@@ -1,0 +1,530 @@
+{
+  "actor": "player_underdog",
+  "atlas": {
+    "file": "player_underdog_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_idle_00.png",
+        "rect": [
+          0,
+          0,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_idle_01.png",
+        "rect": [
+          46,
+          0,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_idle_02.png",
+        "rect": [
+          92,
+          0,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_idle_03.png",
+        "rect": [
+          138,
+          0,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_walk_00.png",
+        "rect": [
+          184,
+          0,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_walk_01.png",
+        "rect": [
+          230,
+          0,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_walk_02.png",
+        "rect": [
+          276,
+          0,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_walk_03.png",
+        "rect": [
+          322,
+          0,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_walk_04.png",
+        "rect": [
+          0,
+          56,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_walk_05.png",
+        "rect": [
+          46,
+          56,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_walk_06.png",
+        "rect": [
+          92,
+          56,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_walk_07.png",
+        "rect": [
+          138,
+          56,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_dash_00.png",
+        "rect": [
+          184,
+          56,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_dash_01.png",
+        "rect": [
+          230,
+          56,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_dash_02.png",
+        "rect": [
+          276,
+          56,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_jump_00.png",
+        "rect": [
+          322,
+          56,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_jump_01.png",
+        "rect": [
+          0,
+          112,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_jump_02.png",
+        "rect": [
+          46,
+          112,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_land_00.png",
+        "rect": [
+          92,
+          112,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_land_01.png",
+        "rect": [
+          138,
+          112,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_side_00.png",
+        "rect": [
+          184,
+          112,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_side_01.png",
+        "rect": [
+          230,
+          112,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_side_02.png",
+        "rect": [
+          276,
+          112,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_side_03.png",
+        "rect": [
+          322,
+          112,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_side_04.png",
+        "rect": [
+          0,
+          168,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_00.png",
+        "rect": [
+          46,
+          168,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_01.png",
+        "rect": [
+          92,
+          168,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_02.png",
+        "rect": [
+          138,
+          168,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_03.png",
+        "rect": [
+          184,
+          168,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_00.png",
+        "rect": [
+          230,
+          168,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_01.png",
+        "rect": [
+          276,
+          168,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_02.png",
+        "rect": [
+          322,
+          168,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_03.png",
+        "rect": [
+          0,
+          224,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_air_side_00.png",
+        "rect": [
+          46,
+          224,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_air_side_01.png",
+        "rect": [
+          92,
+          224,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_air_side_02.png",
+        "rect": [
+          138,
+          224,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_hurt_00.png",
+        "rect": [
+          184,
+          224,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_hurt_01.png",
+        "rect": [
+          230,
+          224,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_death_00.png",
+        "rect": [
+          276,
+          224,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_death_01.png",
+        "rect": [
+          322,
+          224,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_death_02.png",
+        "rect": [
+          0,
+          280,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_death_03.png",
+        "rect": [
+          46,
+          280,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_death_04.png",
+        "rect": [
+          92,
+          280,
+          46,
+          56
+        ]
+      },
+      {
+        "name": "player_underdog_death_05.png",
+        "rect": [
+          138,
+          280,
+          46,
+          56
+        ]
+      }
+    ],
+    "size": [
+      512,
+      512
+    ]
+  },
+  "clips": {
+    "air_side": {
+      "atlas_range": [
+        33,
+        36
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 3,
+      "loop": false
+    },
+    "attack_down": {
+      "atlas_range": [
+        29,
+        33
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "attack_side": {
+      "atlas_range": [
+        20,
+        25
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 5,
+      "loop": false
+    },
+    "attack_up": {
+      "atlas_range": [
+        25,
+        29
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "dash": {
+      "atlas_range": [
+        12,
+        15
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 3,
+      "loop": false
+    },
+    "death": {
+      "atlas_range": [
+        38,
+        44
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 6,
+      "loop": false
+    },
+    "hurt": {
+      "atlas_range": [
+        36,
+        38
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 2,
+      "loop": false
+    },
+    "idle": {
+      "atlas_range": [
+        0,
+        4
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "jump": {
+      "atlas_range": [
+        15,
+        18
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 3,
+      "loop": false
+    },
+    "land": {
+      "atlas_range": [
+        18,
+        20
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 2,
+      "loop": false
+    },
+    "walk": {
+      "atlas_range": [
+        4,
+        12
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 8,
+      "loop": false
+    }
+  },
+  "fps": 12,
+  "import": {
+    "compression": "None",
+    "filter": "Point",
+    "type": "Sprite2D"
+  },
+  "kind": "player",
+  "placeholder": true,
+  "ppu": 24,
+  "tier": "P0"
+}

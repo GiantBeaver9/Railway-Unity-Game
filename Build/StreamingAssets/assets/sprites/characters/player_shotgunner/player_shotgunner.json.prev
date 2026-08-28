@@ -1,0 +1,530 @@
+{
+  "actor": "player_shotgunner",
+  "atlas": {
+    "file": "player_shotgunner_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_idle_00.png",
+        "rect": [
+          0,
+          0,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_idle_01.png",
+        "rect": [
+          54,
+          0,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_idle_02.png",
+        "rect": [
+          108,
+          0,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_idle_03.png",
+        "rect": [
+          162,
+          0,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_walk_00.png",
+        "rect": [
+          216,
+          0,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_walk_01.png",
+        "rect": [
+          270,
+          0,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_walk_02.png",
+        "rect": [
+          324,
+          0,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_walk_03.png",
+        "rect": [
+          378,
+          0,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_walk_04.png",
+        "rect": [
+          0,
+          65,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_walk_05.png",
+        "rect": [
+          54,
+          65,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_walk_06.png",
+        "rect": [
+          108,
+          65,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_walk_07.png",
+        "rect": [
+          162,
+          65,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_dash_00.png",
+        "rect": [
+          216,
+          65,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_dash_01.png",
+        "rect": [
+          270,
+          65,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_dash_02.png",
+        "rect": [
+          324,
+          65,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_jump_00.png",
+        "rect": [
+          378,
+          65,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_jump_01.png",
+        "rect": [
+          0,
+          130,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_jump_02.png",
+        "rect": [
+          54,
+          130,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_land_00.png",
+        "rect": [
+          108,
+          130,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_land_01.png",
+        "rect": [
+          162,
+          130,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_side_00.png",
+        "rect": [
+          216,
+          130,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_side_01.png",
+        "rect": [
+          270,
+          130,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_side_02.png",
+        "rect": [
+          324,
+          130,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_side_03.png",
+        "rect": [
+          378,
+          130,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_side_04.png",
+        "rect": [
+          0,
+          195,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_up_00.png",
+        "rect": [
+          54,
+          195,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_up_01.png",
+        "rect": [
+          108,
+          195,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_up_02.png",
+        "rect": [
+          162,
+          195,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_up_03.png",
+        "rect": [
+          216,
+          195,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_down_00.png",
+        "rect": [
+          270,
+          195,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_down_01.png",
+        "rect": [
+          324,
+          195,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_down_02.png",
+        "rect": [
+          378,
+          195,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_attack_down_03.png",
+        "rect": [
+          0,
+          260,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_air_side_00.png",
+        "rect": [
+          54,
+          260,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_air_side_01.png",
+        "rect": [
+          108,
+          260,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_air_side_02.png",
+        "rect": [
+          162,
+          260,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_hurt_00.png",
+        "rect": [
+          216,
+          260,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_hurt_01.png",
+        "rect": [
+          270,
+          260,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_death_00.png",
+        "rect": [
+          324,
+          260,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_death_01.png",
+        "rect": [
+          378,
+          260,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_death_02.png",
+        "rect": [
+          0,
+          325,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_death_03.png",
+        "rect": [
+          54,
+          325,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_death_04.png",
+        "rect": [
+          108,
+          325,
+          54,
+          65
+        ]
+      },
+      {
+        "name": "player_shotgunner_death_05.png",
+        "rect": [
+          162,
+          325,
+          54,
+          65
+        ]
+      }
+    ],
+    "size": [
+      512,
+      512
+    ]
+  },
+  "clips": {
+    "air_side": {
+      "atlas_range": [
+        33,
+        36
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 3,
+      "loop": false
+    },
+    "attack_down": {
+      "atlas_range": [
+        29,
+        33
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "attack_side": {
+      "atlas_range": [
+        20,
+        25
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 5,
+      "loop": false
+    },
+    "attack_up": {
+      "atlas_range": [
+        25,
+        29
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "dash": {
+      "atlas_range": [
+        12,
+        15
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 3,
+      "loop": false
+    },
+    "death": {
+      "atlas_range": [
+        38,
+        44
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 6,
+      "loop": false
+    },
+    "hurt": {
+      "atlas_range": [
+        36,
+        38
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 2,
+      "loop": false
+    },
+    "idle": {
+      "atlas_range": [
+        0,
+        4
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 4,
+      "loop": false
+    },
+    "jump": {
+      "atlas_range": [
+        15,
+        18
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 3,
+      "loop": false
+    },
+    "land": {
+      "atlas_range": [
+        18,
+        20
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 2,
+      "loop": false
+    },
+    "walk": {
+      "atlas_range": [
+        4,
+        12
+      ],
+      "direction": "side",
+      "fps": 12,
+      "frame_count": 8,
+      "loop": false
+    }
+  },
+  "fps": 12,
+  "import": {
+    "compression": "None",
+    "filter": "Point",
+    "type": "Sprite2D"
+  },
+  "kind": "player",
+  "placeholder": true,
+  "ppu": 24,
+  "tier": "P0"
+}

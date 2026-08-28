@@ -1,0 +1,726 @@
+{
+  "actor": "player_werewolf",
+  "atlas": {
+    "file": "player_werewolf_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_attack_down_00.png",
+        "rect": [
+          11,
+          7,
+          26,
+          47
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_down_01.png",
+        "rect": [
+          58,
+          5,
+          28,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_down_02.png",
+        "rect": [
+          104,
+          6,
+          32,
+          48
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_down_03.png",
+        "rect": [
+          151,
+          8,
+          34,
+          46
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_down_04.png",
+        "rect": [
+          197,
+          6,
+          37,
+          48
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_down_05.png",
+        "rect": [
+          253,
+          3,
+          22,
+          51
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_down_06.png",
+        "rect": [
+          302,
+          7,
+          19,
+          47
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_side_00.png",
+        "rect": [
+          347,
+          2,
+          26,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_side_01.png",
+        "rect": [
+          6,
+          59,
+          36,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_side_02.png",
+        "rect": [
+          56,
+          59,
+          32,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_up_00.png",
+        "rect": [
+          106,
+          66,
+          27,
+          42
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_up_01.png",
+        "rect": [
+          156,
+          61,
+          24,
+          47
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_up_02.png",
+        "rect": [
+          198,
+          57,
+          35,
+          51
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_up_03.png",
+        "rect": [
+          256,
+          56,
+          15,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_up_04.png",
+        "rect": [
+          302,
+          57,
+          19,
+          51
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_up_05.png",
+        "rect": [
+          350,
+          56,
+          19,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_up_06.png",
+        "rect": [
+          10,
+          111,
+          28,
+          51
+        ]
+      },
+      {
+        "name": "player_werewolf_charge_00.png",
+        "rect": [
+          65,
+          110,
+          13,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_charge_01.png",
+        "rect": [
+          113,
+          110,
+          14,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_charge_02.png",
+        "rect": [
+          159,
+          111,
+          17,
+          51
+        ]
+      },
+      {
+        "name": "player_werewolf_charge_03.png",
+        "rect": [
+          204,
+          114,
+          23,
+          48
+        ]
+      },
+      {
+        "name": "player_werewolf_charge_04.png",
+        "rect": [
+          249,
+          117,
+          30,
+          45
+        ]
+      },
+      {
+        "name": "player_werewolf_charge_05.png",
+        "rect": [
+          290,
+          121,
+          43,
+          41
+        ]
+      },
+      {
+        "name": "player_werewolf_charge_06.png",
+        "rect": [
+          339,
+          118,
+          41,
+          44
+        ]
+      },
+      {
+        "name": "player_werewolf_dash_00.png",
+        "rect": [
+          13,
+          167,
+          22,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_dash_01.png",
+        "rect": [
+          54,
+          182,
+          36,
+          34
+        ]
+      },
+      {
+        "name": "player_werewolf_dash_02.png",
+        "rect": [
+          98,
+          200,
+          43,
+          16
+        ]
+      },
+      {
+        "name": "player_werewolf_dash_03.png",
+        "rect": [
+          145,
+          196,
+          46,
+          20
+        ]
+      },
+      {
+        "name": "player_werewolf_dash_04.png",
+        "rect": [
+          202,
+          181,
+          28,
+          35
+        ]
+      },
+      {
+        "name": "player_werewolf_dash_05.png",
+        "rect": [
+          249,
+          172,
+          30,
+          44
+        ]
+      },
+      {
+        "name": "player_werewolf_death_00.png",
+        "rect": [
+          297,
+          167,
+          29,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_death_01.png",
+        "rect": [
+          345,
+          169,
+          29,
+          47
+        ]
+      },
+      {
+        "name": "player_werewolf_death_02.png",
+        "rect": [
+          5,
+          227,
+          37,
+          43
+        ]
+      },
+      {
+        "name": "player_werewolf_death_03.png",
+        "rect": [
+          52,
+          226,
+          40,
+          44
+        ]
+      },
+      {
+        "name": "player_werewolf_death_04.png",
+        "rect": [
+          98,
+          235,
+          44,
+          35
+        ]
+      },
+      {
+        "name": "player_werewolf_death_05.png",
+        "rect": [
+          144,
+          245,
+          47,
+          25
+        ]
+      },
+      {
+        "name": "player_werewolf_death_06.png",
+        "rect": [
+          192,
+          255,
+          48,
+          15
+        ]
+      },
+      {
+        "name": "player_werewolf_hurt_00.png",
+        "rect": [
+          251,
+          221,
+          25,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_hurt_01.png",
+        "rect": [
+          300,
+          218,
+          24,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_hurt_02.png",
+        "rect": [
+          341,
+          224,
+          37,
+          46
+        ]
+      },
+      {
+        "name": "player_werewolf_hurt_03.png",
+        "rect": [
+          6,
+          278,
+          35,
+          46
+        ]
+      },
+      {
+        "name": "player_werewolf_hurt_04.png",
+        "rect": [
+          58,
+          275,
+          27,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_hurt_05.png",
+        "rect": [
+          108,
+          277,
+          23,
+          47
+        ]
+      },
+      {
+        "name": "player_werewolf_idle_00.png",
+        "rect": [
+          161,
+          272,
+          14,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_idle_01.png",
+        "rect": [
+          209,
+          272,
+          13,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_idle_02.png",
+        "rect": [
+          257,
+          272,
+          13,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_idle_03.png",
+        "rect": [
+          305,
+          272,
+          13,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_punch_down_00.png",
+        "rect": [
+          353,
+          272,
+          13,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_punch_down_01.png",
+        "rect": [
+          16,
+          327,
+          16,
+          51
+        ]
+      },
+      {
+        "name": "player_werewolf_punch_down_02.png",
+        "rect": [
+          63,
+          330,
+          18,
+          48
+        ]
+      },
+      {
+        "name": "player_werewolf_punch_down_03.png",
+        "rect": [
+          107,
+          338,
+          25,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_punch_down_04.png",
+        "rect": [
+          153,
+          344,
+          30,
+          34
+        ]
+      },
+      {
+        "name": "player_werewolf_punch_down_05.png",
+        "rect": [
+          200,
+          348,
+          31,
+          30
+        ]
+      },
+      {
+        "name": "player_werewolf_punch_down_06.png",
+        "rect": [
+          249,
+          342,
+          30,
+          36
+        ]
+      },
+      {
+        "name": "player_werewolf_stomp_00.png",
+        "rect": [
+          302,
+          331,
+          19,
+          47
+        ]
+      },
+      {
+        "name": "player_werewolf_stomp_01.png",
+        "rect": [
+          351,
+          332,
+          17,
+          46
+        ]
+      },
+      {
+        "name": "player_werewolf_stomp_02.png",
+        "rect": [
+          13,
+          384,
+          21,
+          48
+        ]
+      },
+      {
+        "name": "player_werewolf_stomp_03.png",
+        "rect": [
+          59,
+          383,
+          26,
+          49
+        ]
+      },
+      {
+        "name": "player_werewolf_stomp_04.png",
+        "rect": [
+          106,
+          384,
+          27,
+          48
+        ]
+      },
+      {
+        "name": "player_werewolf_stomp_05.png",
+        "rect": [
+          154,
+          384,
+          27,
+          48
+        ]
+      },
+      {
+        "name": "player_werewolf_stomp_06.png",
+        "rect": [
+          204,
+          384,
+          24,
+          48
+        ]
+      },
+      {
+        "name": "player_werewolf_sweep_00.png",
+        "rect": [
+          249,
+          386,
+          30,
+          46
+        ]
+      },
+      {
+        "name": "player_werewolf_sweep_01.png",
+        "rect": [
+          297,
+          392,
+          29,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_sweep_02.png",
+        "rect": [
+          345,
+          398,
+          29,
+          34
+        ]
+      },
+      {
+        "name": "player_werewolf_sweep_03.png",
+        "rect": [
+          8,
+          458,
+          32,
+          28
+        ]
+      },
+      {
+        "name": "player_werewolf_sweep_04.png",
+        "rect": [
+          49,
+          462,
+          46,
+          24
+        ]
+      },
+      {
+        "name": "player_werewolf_sweep_05.png",
+        "rect": [
+          108,
+          455,
+          23,
+          31
+        ]
+      },
+      {
+        "name": "player_werewolf_sweep_06.png",
+        "rect": [
+          151,
+          446,
+          34,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_transform_00.png",
+        "rect": [
+          209,
+          434,
+          13,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_transform_01.png",
+        "rect": [
+          257,
+          435,
+          14,
+          51
+        ]
+      },
+      {
+        "name": "player_werewolf_transform_02.png",
+        "rect": [
+          303,
+          433,
+          18,
+          53
+        ]
+      },
+      {
+        "name": "player_werewolf_transform_03.png",
+        "rect": [
+          342,
+          432,
+          35,
+          54
+        ]
+      },
+      {
+        "name": "player_werewolf_transform_04.png",
+        "rect": [
+          5,
+          488,
+          37,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_transform_05.png",
+        "rect": [
+          54,
+          487,
+          36,
+          53
+        ]
+      },
+      {
+        "name": "player_werewolf_transform_06.png",
+        "rect": [
+          102,
+          487,
+          35,
+          53
+        ]
+      },
+      {
+        "name": "player_werewolf_walk_00.png",
+        "rect": [
+          161,
+          488,
+          13,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_walk_01.png",
+        "rect": [
+          203,
+          489,
+          25,
+          51
+        ]
+      },
+      {
+        "name": "player_werewolf_walk_02.png",
+        "rect": [
+          257,
+          488,
+          13,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_walk_03.png",
+        "rect": [
+          299,
+          488,
+          26,
+          52
+        ]
+      }
+    ],
+    "size": [
+      384,
+      540
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

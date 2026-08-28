@@ -1,0 +1,258 @@
+{
+  "actor": "enemy_swarmer",
+  "atlas": {
+    "file": "enemy_swarmer_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_swarmer_attack_side_00.png",
+        "rect": [
+          8,
+          2,
+          16,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_01.png",
+        "rect": [
+          41,
+          3,
+          17,
+          32
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_02.png",
+        "rect": [
+          74,
+          3,
+          17,
+          32
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_03.png",
+        "rect": [
+          105,
+          3,
+          21,
+          32
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_04.png",
+        "rect": [
+          138,
+          1,
+          20,
+          34
+        ]
+      },
+      {
+        "name": "enemy_swarmer_attack_side_05.png",
+        "rect": [
+          168,
+          2,
+          26,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_00.png",
+        "rect": [
+          204,
+          2,
+          21,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_01.png",
+        "rect": [
+          238,
+          4,
+          19,
+          31
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_02.png",
+        "rect": [
+          4,
+          43,
+          24,
+          27
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_03.png",
+        "rect": [
+          36,
+          42,
+          26,
+          28
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_04.png",
+        "rect": [
+          69,
+          47,
+          26,
+          23
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_05.png",
+        "rect": [
+          100,
+          52,
+          31,
+          18
+        ]
+      },
+      {
+        "name": "enemy_swarmer_death_06.png",
+        "rect": [
+          132,
+          53,
+          33,
+          17
+        ]
+      },
+      {
+        "name": "enemy_swarmer_hurt_00.png",
+        "rect": [
+          173,
+          38,
+          16,
+          32
+        ]
+      },
+      {
+        "name": "enemy_swarmer_hurt_01.png",
+        "rect": [
+          206,
+          37,
+          17,
+          33
+        ]
+      },
+      {
+        "name": "enemy_swarmer_hurt_02.png",
+        "rect": [
+          236,
+          41,
+          22,
+          29
+        ]
+      },
+      {
+        "name": "enemy_swarmer_hurt_03.png",
+        "rect": [
+          5,
+          77,
+          23,
+          28
+        ]
+      },
+      {
+        "name": "enemy_swarmer_hurt_04.png",
+        "rect": [
+          40,
+          74,
+          19,
+          31
+        ]
+      },
+      {
+        "name": "enemy_swarmer_hurt_05.png",
+        "rect": [
+          75,
+          75,
+          15,
+          30
+        ]
+      },
+      {
+        "name": "enemy_swarmer_idle_00.png",
+        "rect": [
+          110,
+          70,
+          11,
+          35
+        ]
+      },
+      {
+        "name": "enemy_swarmer_idle_01.png",
+        "rect": [
+          143,
+          70,
+          10,
+          35
+        ]
+      },
+      {
+        "name": "enemy_swarmer_idle_02.png",
+        "rect": [
+          176,
+          70,
+          10,
+          35
+        ]
+      },
+      {
+        "name": "enemy_swarmer_idle_03.png",
+        "rect": [
+          209,
+          70,
+          10,
+          35
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_00.png",
+        "rect": [
+          243,
+          70,
+          9,
+          35
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_01.png",
+        "rect": [
+          8,
+          106,
+          16,
+          34
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_02.png",
+        "rect": [
+          45,
+          106,
+          9,
+          34
+        ]
+      },
+      {
+        "name": "enemy_swarmer_walk_03.png",
+        "rect": [
+          74,
+          106,
+          17,
+          34
+        ]
+      }
+    ],
+    "size": [
+      264,
+      140
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

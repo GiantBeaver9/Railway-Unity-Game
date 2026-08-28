@@ -1,0 +1,169 @@
+{
+  "file_counts_by_ext": {
+    ".gpl": 1,
+    ".json": 16,
+    ".png": 345,
+    ".wav": 135
+  },
+  "generated_by": "tools/generate_assets.py",
+  "sfx_index": {
+    "economy": [
+      "pickpocket_steal",
+      "coins_doubled_jingle",
+      "checkpoint_chime"
+    ],
+    "enemy_signature": [
+      "zombie_moan",
+      "zombie_grab",
+      "swarmer_chitter",
+      "head_throw",
+      "fire_blink_boom",
+      "snapper_snap_to_sword",
+      "arm_rip",
+      "gatling_contort",
+      "ninja_smoke_teleport",
+      "sniper_scope_in",
+      "sniper_shot",
+      "groundsmash_overhead",
+      "groundsmash_shockwave",
+      "tamer_whistle",
+      "monkey_merc_chatter",
+      "aa_rock_throw",
+      "ninja_shuriken_throw",
+      "boomergunner_gun_throw",
+      "pod_spawn_burst",
+      "tank_mg_stream"
+    ],
+    "hazards": [
+      "car_bus_passby",
+      "car_horn",
+      "plane_jet_blast",
+      "taxiing_plane_whine",
+      "cow_moo",
+      "trolley_bell",
+      "trolley_rumble",
+      "tower_sway_creak",
+      "rollercoaster_pass",
+      "causeway_water_splash"
+    ],
+    "impacts": [
+      "hit_spark",
+      "finisher_crunch",
+      "enemy_stagger",
+      "knockdown_thud",
+      "block_soak",
+      "screen_shake_boom"
+    ],
+    "meter_specials": [
+      "meter_tick_up",
+      "armed_ready_chime",
+      "sniper_timeslow_enter",
+      "time_resume_whoosh",
+      "werewolf_transform_howl",
+      "werewolf_auto_slash",
+      "giant_shotgun_boom",
+      "underdog_vaporize_whomp"
+    ],
+    "phil_finale": [
+      "pencil_draw_scribble",
+      "sharpen_scrape",
+      "pencil_laser_fire"
+    ],
+    "player_melee": [
+      "punch_1",
+      "punch_2",
+      "sweep",
+      "finisher_heavy",
+      "air_hit",
+      "dash_whoosh",
+      "jump",
+      "land"
+    ],
+    "player_states": [
+      "hurt_grunt",
+      "death",
+      "weapon_pickup",
+      "heal_pickup_chime",
+      "weapon_break_puff",
+      "shield_rush_scrape"
+    ],
+    "ui": [
+      "menu_move",
+      "confirm",
+      "cancel",
+      "coin_pickup",
+      "full_dime_highlight",
+      "combo_popup_pips",
+      "barrage_incoming_alarm"
+    ],
+    "weapon_fire": [
+      "sword_swing",
+      "sword_break",
+      "shotgun_blast",
+      "shotgun_cock",
+      "boomerang_throw",
+      "boomerang_return",
+      "pistol",
+      "revolver",
+      "grenade_throw",
+      "grenade_explode",
+      "ballchain_launch",
+      "ballchain_impact",
+      "whip_crack",
+      "whip_headrip_pop",
+      "staff_ice",
+      "staff_fire",
+      "staff_lightning",
+      "gatling_barrage",
+      "boomeranggun_spin",
+      "boomeranggun_shotdown_break",
+      "rocket_launch",
+      "rocket_blast",
+      "club_whack",
+      "bat_reflect_ping"
+    ]
+  },
+  "specs": "LOCKED ASSET_MANIFEST.md \u00a70 (640x360, 1wu=24px, 12fps, 32-color palette, actor_action_dir_frame, ppu=24)",
+  "status": "first-pass placeholders",
+  "summary": {
+    "actors": {
+      "enemy_regular": [
+        512,
+        512
+      ],
+      "enemy_swarmer": [
+        256,
+        256
+      ],
+      "enemy_zombie": [
+        512,
+        512
+      ],
+      "player_shotgunner": [
+        512,
+        512
+      ],
+      "player_tactical": [
+        512,
+        512
+      ],
+      "player_underdog": [
+        512,
+        512
+      ],
+      "player_werewolf": [
+        512,
+        512
+      ]
+    },
+    "backdrop": "area1_suburb",
+    "music": {
+      "ambient": 12,
+      "boss_cues": 9,
+      "other": 2,
+      "stage_loops": 12,
+      "stingers": 5
+    },
+    "sfx_count": 95
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "actor": "player_tactical_whip",
+  "atlas": {
+    "file": "player_tactical_whip_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_whip_idle_00.png",
+        "rect": [
+          15,
+          4,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_whip_idle_01.png",
+        "rect": [
+          63,
+          4,
+          17,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_whip_idle_02.png",
+        "rect": [
+          110,
+          5,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_whip_idle_03.png",
+        "rect": [
+          158,
+          6,
+          20,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_whip_idle_04.png",
+        "rect": [
+          206,
+          5,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_whip_swing_00.png",
+        "rect": [
+          255,
+          4,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_whip_swing_01.png",
+        "rect": [
+          288,
+          4,
+          47,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_whip_swing_02.png",
+        "rect": [
+          337,
+          5,
+          45,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_whip_swing_03.png",
+        "rect": [
+          0,
+          60,
+          47,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_whip_swing_04.png",
+        "rect": [
+          48,
+          59,
+          48,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_whip_swing_05.png",
+        "rect": [
+          109,
+          55,
+          22,
+          55
+        ]
+      },
+      {
+        "name": "player_tactical_whip_swing_06.png",
+        "rect": [
+          157,
+          59,
+          22,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_whip_walk_00.png",
+        "rect": [
+          207,
+          59,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_whip_walk_01.png",
+        "rect": [
+          254,
+          58,
+          19,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_whip_walk_02.png",
+        "rect": [
+          299,
+          59,
+          26,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_whip_walk_03.png",
+        "rect": [
+          349,
+          61,
+          21,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_whip_walk_04.png",
+        "rect": [
+          15,
+          114,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_whip_walk_05.png",
+        "rect": [
+          62,
+          113,
+          20,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_whip_walk_06.png",
+        "rect": [
+          107,
+          114,
+          25,
+          51
+        ]
+      }
+    ],
+    "size": [
+      384,
+      165
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,267 @@
+{
+  "actor": "enemy_gunner",
+  "atlas": {
+    "file": "enemy_gunner_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_gunner_attack_side_00.png",
+        "rect": [
+          16,
+          4,
+          17,
+          47
+        ]
+      },
+      {
+        "name": "enemy_gunner_attack_side_01.png",
+        "rect": [
+          54,
+          5,
+          39,
+          46
+        ]
+      },
+      {
+        "name": "enemy_gunner_attack_side_02.png",
+        "rect": [
+          102,
+          6,
+          41,
+          45
+        ]
+      },
+      {
+        "name": "enemy_gunner_attack_side_03.png",
+        "rect": [
+          148,
+          10,
+          47,
+          41
+        ]
+      },
+      {
+        "name": "enemy_gunner_attack_side_04.png",
+        "rect": [
+          203,
+          15,
+          34,
+          36
+        ]
+      },
+      {
+        "name": "enemy_gunner_attack_side_05.png",
+        "rect": [
+          254,
+          6,
+          30,
+          45
+        ]
+      },
+      {
+        "name": "enemy_gunner_attack_side_06.png",
+        "rect": [
+          311,
+          1,
+          14,
+          50
+        ]
+      },
+      {
+        "name": "enemy_gunner_death_00.png",
+        "rect": [
+          350,
+          1,
+          35,
+          50
+        ]
+      },
+      {
+        "name": "enemy_gunner_death_01.png",
+        "rect": [
+          11,
+          55,
+          27,
+          47
+        ]
+      },
+      {
+        "name": "enemy_gunner_death_02.png",
+        "rect": [
+          55,
+          57,
+          36,
+          45
+        ]
+      },
+      {
+        "name": "enemy_gunner_death_03.png",
+        "rect": [
+          100,
+          60,
+          45,
+          42
+        ]
+      },
+      {
+        "name": "enemy_gunner_death_04.png",
+        "rect": [
+          153,
+          68,
+          37,
+          34
+        ]
+      },
+      {
+        "name": "enemy_gunner_death_05.png",
+        "rect": [
+          197,
+          73,
+          47,
+          29
+        ]
+      },
+      {
+        "name": "enemy_gunner_death_06.png",
+        "rect": [
+          245,
+          82,
+          49,
+          20
+        ]
+      },
+      {
+        "name": "enemy_gunner_hurt_00.png",
+        "rect": [
+          305,
+          58,
+          27,
+          44
+        ]
+      },
+      {
+        "name": "enemy_gunner_hurt_01.png",
+        "rect": [
+          353,
+          56,
+          28,
+          46
+        ]
+      },
+      {
+        "name": "enemy_gunner_hurt_02.png",
+        "rect": [
+          8,
+          113,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "enemy_gunner_hurt_03.png",
+        "rect": [
+          58,
+          113,
+          31,
+          40
+        ]
+      },
+      {
+        "name": "enemy_gunner_hurt_04.png",
+        "rect": [
+          106,
+          109,
+          33,
+          44
+        ]
+      },
+      {
+        "name": "enemy_gunner_hurt_05.png",
+        "rect": [
+          158,
+          111,
+          26,
+          42
+        ]
+      },
+      {
+        "name": "enemy_gunner_idle_00.png",
+        "rect": [
+          213,
+          103,
+          15,
+          50
+        ]
+      },
+      {
+        "name": "enemy_gunner_idle_01.png",
+        "rect": [
+          262,
+          103,
+          15,
+          50
+        ]
+      },
+      {
+        "name": "enemy_gunner_idle_02.png",
+        "rect": [
+          311,
+          102,
+          15,
+          51
+        ]
+      },
+      {
+        "name": "enemy_gunner_idle_03.png",
+        "rect": [
+          360,
+          102,
+          15,
+          51
+        ]
+      },
+      {
+        "name": "enemy_gunner_walk_00.png",
+        "rect": [
+          17,
+          153,
+          14,
+          51
+        ]
+      },
+      {
+        "name": "enemy_gunner_walk_01.png",
+        "rect": [
+          62,
+          154,
+          23,
+          50
+        ]
+      },
+      {
+        "name": "enemy_gunner_walk_02.png",
+        "rect": [
+          115,
+          153,
+          14,
+          51
+        ]
+      },
+      {
+        "name": "enemy_gunner_walk_03.png",
+        "rect": [
+          158,
+          154,
+          26,
+          50
+        ]
+      }
+    ],
+    "size": [
+      392,
+      204
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

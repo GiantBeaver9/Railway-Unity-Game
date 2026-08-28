@@ -1,0 +1,11 @@
+{
+  "ground_lifetime_s": 12,
+  "items": [
+    "pickup_coin",
+    "pickup_dime",
+    "pickup_heal",
+    "pickup_merc_token",
+    "pickup_sniper_rifle"
+  ],
+  "placeholder": true
+}

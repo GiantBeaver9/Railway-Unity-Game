@@ -1,0 +1,186 @@
+{
+  "actor": "player_tactical_bat",
+  "atlas": {
+    "file": "player_tactical_bat_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_bat_idle_00.png",
+        "rect": [
+          10,
+          2,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_bat_idle_01.png",
+        "rect": [
+          50,
+          1,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_bat_idle_02.png",
+        "rect": [
+          89,
+          0,
+          17,
+          53
+        ]
+      },
+      {
+        "name": "player_tactical_bat_idle_03.png",
+        "rect": [
+          126,
+          4,
+          20,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_bat_idle_04.png",
+        "rect": [
+          165,
+          3,
+          20,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_bat_swing_00.png",
+        "rect": [
+          205,
+          2,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_bat_swing_01.png",
+        "rect": [
+          243,
+          2,
+          21,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_bat_swing_02.png",
+        "rect": [
+          281,
+          1,
+          22,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_bat_swing_03.png",
+        "rect": [
+          4,
+          56,
+          30,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_bat_swing_04.png",
+        "rect": [
+          40,
+          56,
+          37,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_bat_swing_05.png",
+        "rect": [
+          78,
+          56,
+          39,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_bat_swing_06.png",
+        "rect": [
+          117,
+          56,
+          39,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_bat_walk_00.png",
+        "rect": [
+          166,
+          55,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_bat_walk_01.png",
+        "rect": [
+          205,
+          54,
+          19,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_bat_walk_02.png",
+        "rect": [
+          240,
+          55,
+          26,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_bat_walk_03.png",
+        "rect": [
+          282,
+          56,
+          21,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_bat_walk_04.png",
+        "rect": [
+          10,
+          108,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_bat_walk_05.png",
+        "rect": [
+          49,
+          107,
+          18,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_bat_walk_06.png",
+        "rect": [
+          84,
+          108,
+          26,
+          51
+        ]
+      }
+    ],
+    "size": [
+      312,
+      159
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,186 @@
+{
+  "actor": "player_tactical_staff",
+  "atlas": {
+    "file": "player_tactical_staff_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_staff_idle_00.png",
+        "rect": [
+          16,
+          5,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_staff_idle_01.png",
+        "rect": [
+          67,
+          6,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_staff_idle_02.png",
+        "rect": [
+          118,
+          6,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_staff_idle_03.png",
+        "rect": [
+          165,
+          6,
+          26,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_staff_idle_04.png",
+        "rect": [
+          216,
+          0,
+          26,
+          56
+        ]
+      },
+      {
+        "name": "player_tactical_staff_swing_00.png",
+        "rect": [
+          271,
+          5,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_staff_swing_01.png",
+        "rect": [
+          322,
+          6,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_staff_swing_02.png",
+        "rect": [
+          372,
+          7,
+          20,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_staff_swing_03.png",
+        "rect": [
+          0,
+          64,
+          51,
+          48
+        ]
+      },
+      {
+        "name": "player_tactical_staff_swing_04.png",
+        "rect": [
+          53,
+          57,
+          46,
+          55
+        ]
+      },
+      {
+        "name": "player_tactical_staff_swing_05.png",
+        "rect": [
+          103,
+          60,
+          49,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_staff_swing_06.png",
+        "rect": [
+          153,
+          61,
+          50,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_staff_walk_00.png",
+        "rect": [
+          220,
+          61,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_staff_walk_01.png",
+        "rect": [
+          271,
+          61,
+          19,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_staff_walk_02.png",
+        "rect": [
+          319,
+          63,
+          24,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_staff_walk_03.png",
+        "rect": [
+          373,
+          63,
+          19,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_staff_walk_04.png",
+        "rect": [
+          16,
+          118,
+          18,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_staff_walk_05.png",
+        "rect": [
+          66,
+          118,
+          20,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_staff_walk_06.png",
+        "rect": [
+          114,
+          119,
+          26,
+          49
+        ]
+      }
+    ],
+    "size": [
+      408,
+      168
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

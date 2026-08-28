@@ -1,0 +1,267 @@
+{
+  "actor": "enemy_armripper",
+  "atlas": {
+    "file": "enemy_armripper_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_armripper_attack_side_00.png",
+        "rect": [
+          14,
+          4,
+          18,
+          47
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_01.png",
+        "rect": [
+          51,
+          5,
+          39,
+          46
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_02.png",
+        "rect": [
+          98,
+          6,
+          38,
+          45
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_03.png",
+        "rect": [
+          141,
+          9,
+          47,
+          42
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_04.png",
+        "rect": [
+          195,
+          14,
+          33,
+          37
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_05.png",
+        "rect": [
+          243,
+          7,
+          31,
+          44
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_06.png",
+        "rect": [
+          299,
+          0,
+          13,
+          51
+        ]
+      },
+      {
+        "name": "enemy_armripper_death_00.png",
+        "rect": [
+          338,
+          5,
+          28,
+          46
+        ]
+      },
+      {
+        "name": "enemy_armripper_death_01.png",
+        "rect": [
+          10,
+          56,
+          27,
+          46
+        ]
+      },
+      {
+        "name": "enemy_armripper_death_02.png",
+        "rect": [
+          53,
+          56,
+          34,
+          46
+        ]
+      },
+      {
+        "name": "enemy_armripper_death_03.png",
+        "rect": [
+          97,
+          62,
+          40,
+          40
+        ]
+      },
+      {
+        "name": "enemy_armripper_death_04.png",
+        "rect": [
+          144,
+          64,
+          40,
+          38
+        ]
+      },
+      {
+        "name": "enemy_armripper_death_05.png",
+        "rect": [
+          189,
+          72,
+          44,
+          30
+        ]
+      },
+      {
+        "name": "enemy_armripper_death_06.png",
+        "rect": [
+          235,
+          72,
+          47,
+          30
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_00.png",
+        "rect": [
+          291,
+          54,
+          29,
+          48
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_01.png",
+        "rect": [
+          338,
+          52,
+          29,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_02.png",
+        "rect": [
+          6,
+          105,
+          35,
+          48
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_03.png",
+        "rect": [
+          53,
+          106,
+          34,
+          47
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_04.png",
+        "rect": [
+          101,
+          104,
+          32,
+          49
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_05.png",
+        "rect": [
+          151,
+          107,
+          27,
+          46
+        ]
+      },
+      {
+        "name": "enemy_armripper_idle_00.png",
+        "rect": [
+          204,
+          103,
+          14,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_idle_01.png",
+        "rect": [
+          251,
+          103,
+          14,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_idle_02.png",
+        "rect": [
+          298,
+          102,
+          14,
+          51
+        ]
+      },
+      {
+        "name": "enemy_armripper_idle_03.png",
+        "rect": [
+          345,
+          102,
+          14,
+          51
+        ]
+      },
+      {
+        "name": "enemy_armripper_walk_00.png",
+        "rect": [
+          17,
+          154,
+          13,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_walk_01.png",
+        "rect": [
+          58,
+          154,
+          24,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_walk_02.png",
+        "rect": [
+          111,
+          154,
+          13,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_walk_03.png",
+        "rect": [
+          149,
+          154,
+          30,
+          50
+        ]
+      }
+    ],
+    "size": [
+      376,
+      204
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

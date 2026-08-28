@@ -1,0 +1,15 @@
+# The Docker image only needs the pre-built player (Build/) + the nginx config.
+# Everything below is build-time / source workspace and must NOT bloat the
+# build context uploaded to Railway (or `docker build`).
+
+# The Unity source project copy (220MB+) — used to PRODUCE Build/, never served.
+unity/
+
+# Build/deploy logs and local scratch.
+*.log
+build_webgl.log
+
+# VCS + editor noise.
+.git/
+.gitignore
+README.md

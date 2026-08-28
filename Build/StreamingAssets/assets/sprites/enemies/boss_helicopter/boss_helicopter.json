@@ -1,0 +1,69 @@
+{
+  "actor": "boss_helicopter",
+  "atlas": {
+    "file": "boss_helicopter_atlas.png",
+    "frames": [
+      {
+        "name": "boss_helicopter_idle_00.png",
+        "rect": [
+          0,
+          0,
+          75,
+          34
+        ]
+      },
+      {
+        "name": "boss_helicopter_idle_01.png",
+        "rect": [
+          81,
+          0,
+          63,
+          34
+        ]
+      },
+      {
+        "name": "boss_helicopter_idle_02.png",
+        "rect": [
+          156,
+          0,
+          63,
+          34
+        ]
+      },
+      {
+        "name": "boss_helicopter_walk_00.png",
+        "rect": [
+          225,
+          0,
+          75,
+          34
+        ]
+      },
+      {
+        "name": "boss_helicopter_walk_01.png",
+        "rect": [
+          306,
+          0,
+          63,
+          34
+        ]
+      },
+      {
+        "name": "boss_helicopter_walk_02.png",
+        "rect": [
+          381,
+          0,
+          63,
+          34
+        ]
+      }
+    ],
+    "size": [
+      600,
+      34
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

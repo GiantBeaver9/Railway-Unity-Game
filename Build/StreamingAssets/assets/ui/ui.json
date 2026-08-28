@@ -1,0 +1,13 @@
+{
+  "P0": [
+    "health_green/yellow/red",
+    "special_yellow/blue/green/armed",
+    "combo_popup",
+    "weapon_icons"
+  ],
+  "P1": [
+    "warn_barrage",
+    "prompt_execute"
+  ],
+  "placeholder": true
+}

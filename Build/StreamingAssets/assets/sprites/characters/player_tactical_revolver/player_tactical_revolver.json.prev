@@ -1,0 +1,186 @@
+{
+  "actor": "player_tactical_revolver",
+  "atlas": {
+    "file": "player_tactical_revolver_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_revolver_idle_00.png",
+        "rect": [
+          8,
+          2,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_idle_01.png",
+        "rect": [
+          43,
+          1,
+          15,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_idle_02.png",
+        "rect": [
+          77,
+          0,
+          15,
+          53
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_idle_03.png",
+        "rect": [
+          110,
+          1,
+          18,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_idle_04.png",
+        "rect": [
+          144,
+          2,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_swing_00.png",
+        "rect": [
+          178,
+          2,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_swing_01.png",
+        "rect": [
+          212,
+          2,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_swing_02.png",
+        "rect": [
+          246,
+          4,
+          18,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_swing_03.png",
+        "rect": [
+          7,
+          57,
+          20,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_swing_04.png",
+        "rect": [
+          36,
+          56,
+          29,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_swing_05.png",
+        "rect": [
+          71,
+          56,
+          27,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_swing_06.png",
+        "rect": [
+          102,
+          56,
+          34,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_walk_00.png",
+        "rect": [
+          144,
+          55,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_walk_01.png",
+        "rect": [
+          178,
+          54,
+          18,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_walk_02.png",
+        "rect": [
+          208,
+          55,
+          26,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_walk_03.png",
+        "rect": [
+          244,
+          56,
+          21,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_walk_04.png",
+        "rect": [
+          8,
+          108,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_walk_05.png",
+        "rect": [
+          41,
+          107,
+          19,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_revolver_walk_06.png",
+        "rect": [
+          71,
+          109,
+          28,
+          50
+        ]
+      }
+    ],
+    "size": [
+      272,
+      159
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

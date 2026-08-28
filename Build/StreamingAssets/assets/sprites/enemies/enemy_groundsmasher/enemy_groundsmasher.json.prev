@@ -1,0 +1,150 @@
+{
+  "actor": "enemy_groundsmasher",
+  "atlas": {
+    "file": "enemy_groundsmasher_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_groundsmasher_attack_side_00.png",
+        "rect": [
+          13,
+          11,
+          46,
+          71
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_attack_side_01.png",
+        "rect": [
+          83,
+          23,
+          53,
+          59
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_attack_side_02.png",
+        "rect": [
+          160,
+          35,
+          45,
+          47
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_attack_side_03.png",
+        "rect": [
+          232,
+          44,
+          46,
+          38
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_attack_side_04.png",
+        "rect": [
+          292,
+          42,
+          73,
+          40
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_attack_side_05.png",
+        "rect": [
+          381,
+          30,
+          40,
+          52
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_attack_side_06.png",
+        "rect": [
+          448,
+          22,
+          52,
+          60
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_idle_00.png",
+        "rect": [
+          536,
+          1,
+          23,
+          81
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_idle_01.png",
+        "rect": [
+          26,
+          82,
+          21,
+          82
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_idle_02.png",
+        "rect": [
+          99,
+          82,
+          21,
+          82
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_idle_03.png",
+        "rect": [
+          171,
+          83,
+          22,
+          81
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_walk_00.png",
+        "rect": [
+          245,
+          84,
+          20,
+          80
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_walk_01.png",
+        "rect": [
+          309,
+          84,
+          38,
+          80
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_walk_02.png",
+        "rect": [
+          391,
+          84,
+          20,
+          80
+        ]
+      },
+      {
+        "name": "enemy_groundsmasher_walk_03.png",
+        "rect": [
+          455,
+          85,
+          39,
+          79
+        ]
+      }
+    ],
+    "size": [
+      584,
+      164
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

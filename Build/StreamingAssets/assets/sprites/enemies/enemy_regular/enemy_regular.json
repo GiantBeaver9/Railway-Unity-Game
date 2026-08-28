@@ -1,0 +1,258 @@
+{
+  "actor": "enemy_regular",
+  "atlas": {
+    "file": "enemy_regular_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_regular_attack_side_00.png",
+        "rect": [
+          10,
+          6,
+          24,
+          47
+        ]
+      },
+      {
+        "name": "enemy_regular_attack_side_01.png",
+        "rect": [
+          55,
+          6,
+          25,
+          47
+        ]
+      },
+      {
+        "name": "enemy_regular_attack_side_02.png",
+        "rect": [
+          100,
+          7,
+          24,
+          46
+        ]
+      },
+      {
+        "name": "enemy_regular_attack_side_03.png",
+        "rect": [
+          142,
+          6,
+          31,
+          47
+        ]
+      },
+      {
+        "name": "enemy_regular_attack_side_04.png",
+        "rect": [
+          188,
+          4,
+          28,
+          49
+        ]
+      },
+      {
+        "name": "enemy_regular_attack_side_05.png",
+        "rect": [
+          229,
+          4,
+          36,
+          49
+        ]
+      },
+      {
+        "name": "enemy_regular_death_00.png",
+        "rect": [
+          279,
+          5,
+          27,
+          48
+        ]
+      },
+      {
+        "name": "enemy_regular_death_01.png",
+        "rect": [
+          324,
+          6,
+          27,
+          47
+        ]
+      },
+      {
+        "name": "enemy_regular_death_02.png",
+        "rect": [
+          6,
+          62,
+          33,
+          44
+        ]
+      },
+      {
+        "name": "enemy_regular_death_03.png",
+        "rect": [
+          49,
+          64,
+          37,
+          42
+        ]
+      },
+      {
+        "name": "enemy_regular_death_04.png",
+        "rect": [
+          93,
+          70,
+          39,
+          36
+        ]
+      },
+      {
+        "name": "enemy_regular_death_05.png",
+        "rect": [
+          135,
+          79,
+          45,
+          27
+        ]
+      },
+      {
+        "name": "enemy_regular_death_06.png",
+        "rect": [
+          180,
+          82,
+          45,
+          24
+        ]
+      },
+      {
+        "name": "enemy_regular_hurt_00.png",
+        "rect": [
+          235,
+          55,
+          24,
+          51
+        ]
+      },
+      {
+        "name": "enemy_regular_hurt_01.png",
+        "rect": [
+          280,
+          54,
+          24,
+          52
+        ]
+      },
+      {
+        "name": "enemy_regular_hurt_02.png",
+        "rect": [
+          320,
+          59,
+          35,
+          47
+        ]
+      },
+      {
+        "name": "enemy_regular_hurt_03.png",
+        "rect": [
+          5,
+          112,
+          34,
+          47
+        ]
+      },
+      {
+        "name": "enemy_regular_hurt_04.png",
+        "rect": [
+          53,
+          109,
+          28,
+          50
+        ]
+      },
+      {
+        "name": "enemy_regular_hurt_05.png",
+        "rect": [
+          100,
+          110,
+          24,
+          49
+        ]
+      },
+      {
+        "name": "enemy_regular_idle_00.png",
+        "rect": [
+          149,
+          109,
+          17,
+          50
+        ]
+      },
+      {
+        "name": "enemy_regular_idle_01.png",
+        "rect": [
+          194,
+          109,
+          16,
+          50
+        ]
+      },
+      {
+        "name": "enemy_regular_idle_02.png",
+        "rect": [
+          239,
+          106,
+          17,
+          53
+        ]
+      },
+      {
+        "name": "enemy_regular_idle_03.png",
+        "rect": [
+          284,
+          107,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "enemy_regular_walk_00.png",
+        "rect": [
+          329,
+          109,
+          16,
+          50
+        ]
+      },
+      {
+        "name": "enemy_regular_walk_01.png",
+        "rect": [
+          10,
+          162,
+          24,
+          50
+        ]
+      },
+      {
+        "name": "enemy_regular_walk_02.png",
+        "rect": [
+          59,
+          161,
+          17,
+          51
+        ]
+      },
+      {
+        "name": "enemy_regular_walk_03.png",
+        "rect": [
+          100,
+          162,
+          24,
+          50
+        ]
+      }
+    ],
+    "size": [
+      360,
+      212
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,204 @@
+{
+  "actor": "enemy_armripper",
+  "atlas": {
+    "file": "enemy_armripper_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_armripper_attack_side_00.png",
+        "rect": [
+          14,
+          4,
+          18,
+          47
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_01.png",
+        "rect": [
+          51,
+          5,
+          39,
+          46
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_02.png",
+        "rect": [
+          98,
+          6,
+          38,
+          45
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_03.png",
+        "rect": [
+          141,
+          9,
+          47,
+          42
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_04.png",
+        "rect": [
+          195,
+          14,
+          33,
+          37
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_05.png",
+        "rect": [
+          243,
+          7,
+          31,
+          44
+        ]
+      },
+      {
+        "name": "enemy_armripper_attack_side_06.png",
+        "rect": [
+          299,
+          0,
+          13,
+          51
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_00.png",
+        "rect": [
+          338,
+          3,
+          29,
+          48
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_01.png",
+        "rect": [
+          9,
+          52,
+          29,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_02.png",
+        "rect": [
+          53,
+          54,
+          35,
+          48
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_03.png",
+        "rect": [
+          100,
+          55,
+          34,
+          47
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_04.png",
+        "rect": [
+          148,
+          53,
+          32,
+          49
+        ]
+      },
+      {
+        "name": "enemy_armripper_hurt_05.png",
+        "rect": [
+          198,
+          56,
+          27,
+          46
+        ]
+      },
+      {
+        "name": "enemy_armripper_idle_00.png",
+        "rect": [
+          251,
+          52,
+          14,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_idle_01.png",
+        "rect": [
+          298,
+          52,
+          14,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_idle_02.png",
+        "rect": [
+          345,
+          51,
+          14,
+          51
+        ]
+      },
+      {
+        "name": "enemy_armripper_idle_03.png",
+        "rect": [
+          16,
+          102,
+          14,
+          51
+        ]
+      },
+      {
+        "name": "enemy_armripper_walk_00.png",
+        "rect": [
+          64,
+          103,
+          13,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_walk_01.png",
+        "rect": [
+          105,
+          103,
+          24,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_walk_02.png",
+        "rect": [
+          158,
+          103,
+          13,
+          50
+        ]
+      },
+      {
+        "name": "enemy_armripper_walk_03.png",
+        "rect": [
+          196,
+          103,
+          30,
+          50
+        ]
+      }
+    ],
+    "size": [
+      376,
+      153
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

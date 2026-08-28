@@ -1,0 +1,267 @@
+{
+  "actor": "enemy_antiaircraft",
+  "atlas": {
+    "file": "enemy_antiaircraft_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_antiaircraft_attack_side_00.png",
+        "rect": [
+          17,
+          4,
+          31,
+          67
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_attack_side_01.png",
+        "rect": [
+          76,
+          3,
+          43,
+          68
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_attack_side_02.png",
+        "rect": [
+          140,
+          6,
+          44,
+          65
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_attack_side_03.png",
+        "rect": [
+          201,
+          9,
+          53,
+          62
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_attack_side_04.png",
+        "rect": [
+          268,
+          11,
+          49,
+          60
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_attack_side_05.png",
+        "rect": [
+          338,
+          9,
+          39,
+          62
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_attack_side_06.png",
+        "rect": [
+          406,
+          0,
+          32,
+          71
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_death_00.png",
+        "rect": [
+          469,
+          7,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_death_01.png",
+        "rect": [
+          14,
+          78,
+          37,
+          64
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_death_02.png",
+        "rect": [
+          74,
+          90,
+          46,
+          52
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_death_03.png",
+        "rect": [
+          137,
+          89,
+          51,
+          53
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_death_04.png",
+        "rect": [
+          202,
+          101,
+          51,
+          41
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_death_05.png",
+        "rect": [
+          262,
+          114,
+          60,
+          28
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_death_06.png",
+        "rect": [
+          325,
+          122,
+          65,
+          20
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_hurt_00.png",
+        "rect": [
+          404,
+          78,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_hurt_01.png",
+        "rect": [
+          470,
+          77,
+          34,
+          65
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_hurt_02.png",
+        "rect": [
+          8,
+          147,
+          49,
+          66
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_hurt_03.png",
+        "rect": [
+          75,
+          146,
+          45,
+          67
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_hurt_04.png",
+        "rect": [
+          142,
+          149,
+          41,
+          64
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_hurt_05.png",
+        "rect": [
+          210,
+          153,
+          34,
+          60
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_idle_00.png",
+        "rect": [
+          278,
+          148,
+          28,
+          65
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_idle_01.png",
+        "rect": [
+          343,
+          147,
+          29,
+          66
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_idle_02.png",
+        "rect": [
+          407,
+          147,
+          30,
+          66
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_idle_03.png",
+        "rect": [
+          473,
+          146,
+          29,
+          67
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_walk_00.png",
+        "rect": [
+          17,
+          218,
+          30,
+          66
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_walk_01.png",
+        "rect": [
+          82,
+          218,
+          31,
+          66
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_walk_02.png",
+        "rect": [
+          147,
+          218,
+          30,
+          66
+        ]
+      },
+      {
+        "name": "enemy_antiaircraft_walk_03.png",
+        "rect": [
+          211,
+          219,
+          32,
+          65
+        ]
+      }
+    ],
+    "size": [
+      520,
+      284
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

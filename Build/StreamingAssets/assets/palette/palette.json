@@ -1,0 +1,129 @@
+{
+  "area_accents": {
+    "area1_mall": [
+      "#FF5FA2",
+      "#5FE0C8",
+      "#B06CFF",
+      "#FFE04A",
+      "#3A9BD8",
+      "#22222E"
+    ],
+    "area1_suburb": [
+      "#8FBF3A",
+      "#C7E06B",
+      "#D98C5A",
+      "#F0C9A0",
+      "#7EC8E3",
+      "#E8E2D0"
+    ],
+    "area2_airport": [
+      "#5A6B7A",
+      "#8FA3B3",
+      "#C9C24A",
+      "#D85A3A",
+      "#B0B8C0",
+      "#2E3540"
+    ],
+    "area2_victorian": [
+      "#9C5B7A",
+      "#5B7C9C",
+      "#C9A15A",
+      "#7A9C6B",
+      "#D8C8A8",
+      "#4A3A55"
+    ],
+    "area3_dixon": [
+      "#C99A5A",
+      "#A88A5A",
+      "#8A6B3A",
+      "#D8B87A",
+      "#B0A080",
+      "#4A3A2A"
+    ],
+    "area3_farm": [
+      "#C9A85A",
+      "#8FA35A",
+      "#B07A3A",
+      "#6B8C4A",
+      "#E0D0A0",
+      "#5A4A2A"
+    ],
+    "area4_bridge": [
+      "#D8452B",
+      "#8A2E1A",
+      "#5A7A9C",
+      "#9FB8C8",
+      "#C0C8D0",
+      "#2E3A45"
+    ],
+    "area4_carnival": [
+      "#FF3A6E",
+      "#3AE0D8",
+      "#FFC83A",
+      "#8A3AFF",
+      "#3AA0FF",
+      "#22182E"
+    ],
+    "area4_redwood": [
+      "#3A5A2E",
+      "#6B8C4A",
+      "#8A5A3A",
+      "#4A6B5A",
+      "#A8C090",
+      "#2A3A28"
+    ],
+    "area4_sf": [
+      "#8A9BB0",
+      "#C9C4B0",
+      "#D85A3A",
+      "#5A6B8A",
+      "#E0DCD0",
+      "#2A3040"
+    ],
+    "finale_rooftop": [
+      "#E0784A",
+      "#8A5A9C",
+      "#5A6B9C",
+      "#C9A0C0",
+      "#3A2E45",
+      "#1A1520"
+    ]
+  },
+  "base_32": [
+    "#0D0B0E",
+    "#2A2A33",
+    "#4A4A57",
+    "#7A7A88",
+    "#B8B8C4",
+    "#F4F2EC",
+    "#B31E2B",
+    "#E8433F",
+    "#F5794F",
+    "#7A1420",
+    "#F2A03D",
+    "#FFD24A",
+    "#C77A2A",
+    "#FFF2B0",
+    "#234D2C",
+    "#3A7D44",
+    "#6CBF5A",
+    "#A8D98B",
+    "#1B3A5C",
+    "#2E6FB0",
+    "#4AA3D8",
+    "#9FD6EF",
+    "#CFEAF7",
+    "#6A3D8A",
+    "#C86FA8",
+    "#3F2A17",
+    "#6B4423",
+    "#9C6B3F",
+    "#C99A6A",
+    "#8A5A3A",
+    "#D99A6C",
+    "#E6B88A"
+  ],
+  "gore_red": "#B31E2B",
+  "note": "LOCKED \u2014 ASSET_MANIFEST.md \u00a70. Source of truth.",
+  "placeholder": false
+}

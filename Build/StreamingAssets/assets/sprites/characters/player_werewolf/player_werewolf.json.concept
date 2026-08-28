@@ -1,0 +1,115 @@
+{
+  "actor": "player_werewolf",
+  "atlas": {
+    "file": "player_werewolf_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_idle_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_walk_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_dash_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_jump_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_land_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_side_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_up_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_attack_down_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_air_side_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_hurt_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      },
+      {
+        "name": "player_werewolf_death_00.png",
+        "rect": [
+          0,
+          0,
+          36,
+          64
+        ]
+      }
+    ],
+    "size": [
+      36,
+      64
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "placeholder": true,
+  "from_concept_art": true
+}

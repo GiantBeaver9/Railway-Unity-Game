@@ -1,0 +1,115 @@
+{
+  "actor": "player_tactical",
+  "atlas": {
+    "file": "player_tactical_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_idle_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_walk_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_dash_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_jump_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_land_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_attack_side_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_attack_up_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_attack_down_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_air_side_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_hurt_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      },
+      {
+        "name": "player_tactical_death_00.png",
+        "rect": [
+          0,
+          0,
+          45,
+          64
+        ]
+      }
+    ],
+    "size": [
+      45,
+      64
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "placeholder": true,
+  "from_concept_art": true
+}

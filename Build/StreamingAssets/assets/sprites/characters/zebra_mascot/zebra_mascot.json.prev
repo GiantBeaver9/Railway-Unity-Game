@@ -1,0 +1,267 @@
+{
+  "actor": "zebra_mascot",
+  "atlas": {
+    "file": "zebra_mascot_atlas.png",
+    "frames": [
+      {
+        "name": "zebra_mascot_attack_side_00.png",
+        "rect": [
+          10,
+          1,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_attack_side_01.png",
+        "rect": [
+          46,
+          1,
+          19,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_attack_side_02.png",
+        "rect": [
+          82,
+          2,
+          20,
+          51
+        ]
+      },
+      {
+        "name": "zebra_mascot_attack_side_03.png",
+        "rect": [
+          114,
+          4,
+          31,
+          49
+        ]
+      },
+      {
+        "name": "zebra_mascot_attack_side_04.png",
+        "rect": [
+          148,
+          6,
+          37,
+          47
+        ]
+      },
+      {
+        "name": "zebra_mascot_attack_side_05.png",
+        "rect": [
+          187,
+          3,
+          32,
+          50
+        ]
+      },
+      {
+        "name": "zebra_mascot_attack_side_06.png",
+        "rect": [
+          227,
+          2,
+          27,
+          51
+        ]
+      },
+      {
+        "name": "zebra_mascot_cheer_00.png",
+        "rect": [
+          269,
+          1,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_cheer_01.png",
+        "rect": [
+          10,
+          53,
+          17,
+          53
+        ]
+      },
+      {
+        "name": "zebra_mascot_cheer_02.png",
+        "rect": [
+          47,
+          53,
+          17,
+          53
+        ]
+      },
+      {
+        "name": "zebra_mascot_cheer_03.png",
+        "rect": [
+          83,
+          54,
+          18,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_cheer_04.png",
+        "rect": [
+          120,
+          55,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "zebra_mascot_cheer_05.png",
+        "rect": [
+          157,
+          56,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "zebra_mascot_cheer_06.png",
+        "rect": [
+          190,
+          54,
+          26,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_idle_00.png",
+        "rect": [
+          232,
+          54,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_idle_01.png",
+        "rect": [
+          269,
+          54,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_idle_02.png",
+        "rect": [
+          10,
+          108,
+          17,
+          51
+        ]
+      },
+      {
+        "name": "zebra_mascot_idle_03.png",
+        "rect": [
+          46,
+          110,
+          19,
+          49
+        ]
+      },
+      {
+        "name": "zebra_mascot_idle_04.png",
+        "rect": [
+          82,
+          111,
+          21,
+          48
+        ]
+      },
+      {
+        "name": "zebra_mascot_idle_05.png",
+        "rect": [
+          119,
+          111,
+          21,
+          48
+        ]
+      },
+      {
+        "name": "zebra_mascot_idle_06.png",
+        "rect": [
+          156,
+          109,
+          21,
+          50
+        ]
+      },
+      {
+        "name": "zebra_mascot_walk_00.png",
+        "rect": [
+          195,
+          107,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_walk_01.png",
+        "rect": [
+          230,
+          107,
+          20,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_walk_02.png",
+        "rect": [
+          263,
+          109,
+          29,
+          50
+        ]
+      },
+      {
+        "name": "zebra_mascot_walk_03.png",
+        "rect": [
+          8,
+          161,
+          21,
+          51
+        ]
+      },
+      {
+        "name": "zebra_mascot_walk_04.png",
+        "rect": [
+          47,
+          160,
+          17,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_walk_05.png",
+        "rect": [
+          83,
+          160,
+          19,
+          52
+        ]
+      },
+      {
+        "name": "zebra_mascot_walk_06.png",
+        "rect": [
+          115,
+          161,
+          28,
+          51
+        ]
+      }
+    ],
+    "size": [
+      296,
+      212
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

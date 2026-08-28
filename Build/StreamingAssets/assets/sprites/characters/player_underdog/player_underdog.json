@@ -1,0 +1,726 @@
+{
+  "actor": "player_underdog",
+  "atlas": {
+    "file": "player_underdog_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_attack_down_00.png",
+        "rect": [
+          10,
+          6,
+          23,
+          44
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_01.png",
+        "rect": [
+          54,
+          4,
+          23,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_02.png",
+        "rect": [
+          97,
+          4,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_03.png",
+        "rect": [
+          140,
+          7,
+          27,
+          43
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_04.png",
+        "rect": [
+          183,
+          4,
+          29,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_05.png",
+        "rect": [
+          231,
+          2,
+          21,
+          48
+        ]
+      },
+      {
+        "name": "player_underdog_attack_down_06.png",
+        "rect": [
+          275,
+          5,
+          21,
+          45
+        ]
+      },
+      {
+        "name": "player_underdog_attack_side_00.png",
+        "rect": [
+          320,
+          3,
+          19,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_attack_side_01.png",
+        "rect": [
+          7,
+          56,
+          30,
+          44
+        ]
+      },
+      {
+        "name": "player_underdog_attack_side_02.png",
+        "rect": [
+          51,
+          57,
+          29,
+          43
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_00.png",
+        "rect": [
+          98,
+          61,
+          24,
+          39
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_01.png",
+        "rect": [
+          144,
+          54,
+          20,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_02.png",
+        "rect": [
+          183,
+          53,
+          30,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_03.png",
+        "rect": [
+          233,
+          51,
+          18,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_04.png",
+        "rect": [
+          275,
+          51,
+          22,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_05.png",
+        "rect": [
+          319,
+          51,
+          21,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_attack_up_06.png",
+        "rect": [
+          10,
+          104,
+          23,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_charge_00.png",
+        "rect": [
+          57,
+          101,
+          17,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_charge_01.png",
+        "rect": [
+          101,
+          102,
+          18,
+          48
+        ]
+      },
+      {
+        "name": "player_underdog_charge_02.png",
+        "rect": [
+          142,
+          103,
+          24,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_charge_03.png",
+        "rect": [
+          183,
+          107,
+          30,
+          43
+        ]
+      },
+      {
+        "name": "player_underdog_charge_04.png",
+        "rect": [
+          226,
+          110,
+          32,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_charge_05.png",
+        "rect": [
+          267,
+          111,
+          38,
+          39
+        ]
+      },
+      {
+        "name": "player_underdog_charge_06.png",
+        "rect": [
+          315,
+          107,
+          30,
+          43
+        ]
+      },
+      {
+        "name": "player_underdog_dash_00.png",
+        "rect": [
+          11,
+          154,
+          21,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_dash_01.png",
+        "rect": [
+          50,
+          165,
+          31,
+          35
+        ]
+      },
+      {
+        "name": "player_underdog_dash_02.png",
+        "rect": [
+          92,
+          177,
+          35,
+          23
+        ]
+      },
+      {
+        "name": "player_underdog_dash_03.png",
+        "rect": [
+          136,
+          174,
+          36,
+          26
+        ]
+      },
+      {
+        "name": "player_underdog_dash_04.png",
+        "rect": [
+          184,
+          163,
+          28,
+          37
+        ]
+      },
+      {
+        "name": "player_underdog_dash_05.png",
+        "rect": [
+          228,
+          157,
+          27,
+          43
+        ]
+      },
+      {
+        "name": "player_underdog_death_00.png",
+        "rect": [
+          273,
+          153,
+          25,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_death_01.png",
+        "rect": [
+          317,
+          155,
+          25,
+          45
+        ]
+      },
+      {
+        "name": "player_underdog_death_02.png",
+        "rect": [
+          4,
+          211,
+          36,
+          39
+        ]
+      },
+      {
+        "name": "player_underdog_death_03.png",
+        "rect": [
+          48,
+          208,
+          35,
+          42
+        ]
+      },
+      {
+        "name": "player_underdog_death_04.png",
+        "rect": [
+          92,
+          218,
+          35,
+          32
+        ]
+      },
+      {
+        "name": "player_underdog_death_05.png",
+        "rect": [
+          132,
+          225,
+          44,
+          25
+        ]
+      },
+      {
+        "name": "player_underdog_death_06.png",
+        "rect": [
+          176,
+          230,
+          44,
+          20
+        ]
+      },
+      {
+        "name": "player_underdog_hurt_00.png",
+        "rect": [
+          230,
+          204,
+          23,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_hurt_01.png",
+        "rect": [
+          275,
+          202,
+          22,
+          48
+        ]
+      },
+      {
+        "name": "player_underdog_hurt_02.png",
+        "rect": [
+          312,
+          208,
+          35,
+          42
+        ]
+      },
+      {
+        "name": "player_underdog_hurt_03.png",
+        "rect": [
+          4,
+          257,
+          35,
+          43
+        ]
+      },
+      {
+        "name": "player_underdog_hurt_04.png",
+        "rect": [
+          52,
+          256,
+          27,
+          44
+        ]
+      },
+      {
+        "name": "player_underdog_hurt_05.png",
+        "rect": [
+          99,
+          256,
+          21,
+          44
+        ]
+      },
+      {
+        "name": "player_underdog_idle_00.png",
+        "rect": [
+          145,
+          251,
+          17,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_idle_01.png",
+        "rect": [
+          189,
+          250,
+          17,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_idle_02.png",
+        "rect": [
+          233,
+          250,
+          17,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_idle_03.png",
+        "rect": [
+          277,
+          250,
+          17,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_punch_down_00.png",
+        "rect": [
+          321,
+          251,
+          17,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_punch_down_01.png",
+        "rect": [
+          13,
+          302,
+          18,
+          48
+        ]
+      },
+      {
+        "name": "player_underdog_punch_down_02.png",
+        "rect": [
+          56,
+          302,
+          19,
+          48
+        ]
+      },
+      {
+        "name": "player_underdog_punch_down_03.png",
+        "rect": [
+          95,
+          309,
+          30,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_punch_down_04.png",
+        "rect": [
+          138,
+          313,
+          31,
+          37
+        ]
+      },
+      {
+        "name": "player_underdog_punch_down_05.png",
+        "rect": [
+          183,
+          313,
+          30,
+          37
+        ]
+      },
+      {
+        "name": "player_underdog_punch_down_06.png",
+        "rect": [
+          226,
+          311,
+          31,
+          39
+        ]
+      },
+      {
+        "name": "player_underdog_special_00.png",
+        "rect": [
+          277,
+          301,
+          17,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_special_01.png",
+        "rect": [
+          321,
+          302,
+          18,
+          48
+        ]
+      },
+      {
+        "name": "player_underdog_special_02.png",
+        "rect": [
+          10,
+          353,
+          24,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_special_03.png",
+        "rect": [
+          45,
+          353,
+          42,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_special_04.png",
+        "rect": [
+          96,
+          353,
+          27,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_special_05.png",
+        "rect": [
+          141,
+          353,
+          25,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_special_06.png",
+        "rect": [
+          189,
+          351,
+          18,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_stomp_00.png",
+        "rect": [
+          231,
+          355,
+          21,
+          45
+        ]
+      },
+      {
+        "name": "player_underdog_stomp_01.png",
+        "rect": [
+          275,
+          354,
+          21,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_stomp_02.png",
+        "rect": [
+          317,
+          354,
+          26,
+          46
+        ]
+      },
+      {
+        "name": "player_underdog_stomp_03.png",
+        "rect": [
+          6,
+          406,
+          31,
+          44
+        ]
+      },
+      {
+        "name": "player_underdog_stomp_04.png",
+        "rect": [
+          49,
+          406,
+          33,
+          44
+        ]
+      },
+      {
+        "name": "player_underdog_stomp_05.png",
+        "rect": [
+          94,
+          403,
+          31,
+          47
+        ]
+      },
+      {
+        "name": "player_underdog_stomp_06.png",
+        "rect": [
+          139,
+          406,
+          30,
+          44
+        ]
+      },
+      {
+        "name": "player_underdog_sweep_00.png",
+        "rect": [
+          186,
+          405,
+          24,
+          45
+        ]
+      },
+      {
+        "name": "player_underdog_sweep_01.png",
+        "rect": [
+          229,
+          409,
+          25,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_sweep_02.png",
+        "rect": [
+          273,
+          420,
+          26,
+          30
+        ]
+      },
+      {
+        "name": "player_underdog_sweep_03.png",
+        "rect": [
+          313,
+          425,
+          34,
+          25
+        ]
+      },
+      {
+        "name": "player_underdog_sweep_04.png",
+        "rect": [
+          0,
+          482,
+          44,
+          18
+        ]
+      },
+      {
+        "name": "player_underdog_sweep_05.png",
+        "rect": [
+          53,
+          470,
+          26,
+          30
+        ]
+      },
+      {
+        "name": "player_underdog_sweep_06.png",
+        "rect": [
+          94,
+          463,
+          32,
+          37
+        ]
+      },
+      {
+        "name": "player_underdog_walk_00.png",
+        "rect": [
+          145,
+          451,
+          17,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_walk_01.png",
+        "rect": [
+          188,
+          451,
+          20,
+          49
+        ]
+      },
+      {
+        "name": "player_underdog_walk_02.png",
+        "rect": [
+          233,
+          450,
+          17,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_walk_03.png",
+        "rect": [
+          276,
+          450,
+          20,
+          50
+        ]
+      }
+    ],
+    "size": [
+      352,
+      500
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

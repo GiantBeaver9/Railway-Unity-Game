@@ -1,0 +1,231 @@
+{
+  "actor": "phil",
+  "atlas": {
+    "file": "phil_atlas.png",
+    "frames": [
+      {
+        "name": "phil_attack_side_00.png",
+        "rect": [
+          0,
+          0,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_attack_side_01.png",
+        "rect": [
+          128,
+          0,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_attack_side_02.png",
+        "rect": [
+          256,
+          0,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_attack_side_03.png",
+        "rect": [
+          384,
+          0,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_death_00.png",
+        "rect": [
+          512,
+          0,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_death_01.png",
+        "rect": [
+          640,
+          0,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_death_02.png",
+        "rect": [
+          768,
+          0,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_death_03.png",
+        "rect": [
+          896,
+          0,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_hurt_00.png",
+        "rect": [
+          0,
+          120,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_hurt_01.png",
+        "rect": [
+          128,
+          120,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_idle_00.png",
+        "rect": [
+          256,
+          120,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_idle_01.png",
+        "rect": [
+          384,
+          120,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_idle_02.png",
+        "rect": [
+          512,
+          120,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_idle_03.png",
+        "rect": [
+          640,
+          120,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_sharpen_00.png",
+        "rect": [
+          768,
+          120,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_sharpen_01.png",
+        "rect": [
+          896,
+          120,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_sharpen_02.png",
+        "rect": [
+          0,
+          240,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_sharpen_03.png",
+        "rect": [
+          128,
+          240,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_sharpen_04.png",
+        "rect": [
+          256,
+          240,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_sharpen_05.png",
+        "rect": [
+          384,
+          240,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_walk_00.png",
+        "rect": [
+          512,
+          240,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_walk_01.png",
+        "rect": [
+          640,
+          240,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_walk_02.png",
+        "rect": [
+          768,
+          240,
+          128,
+          120
+        ]
+      },
+      {
+        "name": "phil_walk_03.png",
+        "rect": [
+          896,
+          240,
+          128,
+          120
+        ]
+      }
+    ],
+    "size": [
+      1024,
+      360
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,258 @@
+{
+  "actor": "enemy_ninja",
+  "atlas": {
+    "file": "enemy_ninja_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_ninja_attack_side_00.png",
+        "rect": [
+          13,
+          6,
+          37,
+          63
+        ]
+      },
+      {
+        "name": "enemy_ninja_attack_side_01.png",
+        "rect": [
+          74,
+          7,
+          40,
+          62
+        ]
+      },
+      {
+        "name": "enemy_ninja_attack_side_02.png",
+        "rect": [
+          137,
+          7,
+          41,
+          62
+        ]
+      },
+      {
+        "name": "enemy_ninja_attack_side_03.png",
+        "rect": [
+          196,
+          5,
+          48,
+          64
+        ]
+      },
+      {
+        "name": "enemy_ninja_attack_side_04.png",
+        "rect": [
+          264,
+          2,
+          38,
+          67
+        ]
+      },
+      {
+        "name": "enemy_ninja_attack_side_05.png",
+        "rect": [
+          321,
+          2,
+          50,
+          67
+        ]
+      },
+      {
+        "name": "enemy_ninja_death_00.png",
+        "rect": [
+          390,
+          6,
+          38,
+          63
+        ]
+      },
+      {
+        "name": "enemy_ninja_death_01.png",
+        "rect": [
+          452,
+          8,
+          40,
+          61
+        ]
+      },
+      {
+        "name": "enemy_ninja_death_02.png",
+        "rect": [
+          9,
+          84,
+          45,
+          54
+        ]
+      },
+      {
+        "name": "enemy_ninja_death_03.png",
+        "rect": [
+          68,
+          85,
+          53,
+          53
+        ]
+      },
+      {
+        "name": "enemy_ninja_death_04.png",
+        "rect": [
+          130,
+          96,
+          54,
+          42
+        ]
+      },
+      {
+        "name": "enemy_ninja_death_05.png",
+        "rect": [
+          191,
+          107,
+          58,
+          31
+        ]
+      },
+      {
+        "name": "enemy_ninja_death_06.png",
+        "rect": [
+          252,
+          113,
+          63,
+          25
+        ]
+      },
+      {
+        "name": "enemy_ninja_hurt_00.png",
+        "rect": [
+          321,
+          70,
+          51,
+          68
+        ]
+      },
+      {
+        "name": "enemy_ninja_hurt_01.png",
+        "rect": [
+          383,
+          74,
+          52,
+          64
+        ]
+      },
+      {
+        "name": "enemy_ninja_hurt_02.png",
+        "rect": [
+          449,
+          80,
+          46,
+          58
+        ]
+      },
+      {
+        "name": "enemy_ninja_hurt_03.png",
+        "rect": [
+          7,
+          148,
+          49,
+          59
+        ]
+      },
+      {
+        "name": "enemy_ninja_hurt_04.png",
+        "rect": [
+          69,
+          146,
+          51,
+          61
+        ]
+      },
+      {
+        "name": "enemy_ninja_hurt_05.png",
+        "rect": [
+          131,
+          148,
+          52,
+          59
+        ]
+      },
+      {
+        "name": "enemy_ninja_idle_00.png",
+        "rect": [
+          210,
+          140,
+          21,
+          67
+        ]
+      },
+      {
+        "name": "enemy_ninja_idle_01.png",
+        "rect": [
+          273,
+          139,
+          21,
+          68
+        ]
+      },
+      {
+        "name": "enemy_ninja_idle_02.png",
+        "rect": [
+          336,
+          139,
+          21,
+          68
+        ]
+      },
+      {
+        "name": "enemy_ninja_idle_03.png",
+        "rect": [
+          398,
+          140,
+          22,
+          67
+        ]
+      },
+      {
+        "name": "enemy_ninja_walk_00.png",
+        "rect": [
+          460,
+          139,
+          24,
+          68
+        ]
+      },
+      {
+        "name": "enemy_ninja_walk_01.png",
+        "rect": [
+          14,
+          208,
+          35,
+          68
+        ]
+      },
+      {
+        "name": "enemy_ninja_walk_02.png",
+        "rect": [
+          83,
+          207,
+          23,
+          69
+        ]
+      },
+      {
+        "name": "enemy_ninja_walk_03.png",
+        "rect": [
+          140,
+          207,
+          35,
+          69
+        ]
+      }
+    ],
+    "size": [
+      504,
+      276
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

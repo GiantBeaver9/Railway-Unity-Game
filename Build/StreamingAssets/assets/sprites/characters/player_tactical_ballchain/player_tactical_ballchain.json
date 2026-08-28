@@ -1,0 +1,186 @@
+{
+  "actor": "player_tactical_ballchain",
+  "atlas": {
+    "file": "player_tactical_ballchain_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_ballchain_idle_00.png",
+        "rect": [
+          14,
+          1,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_idle_01.png",
+        "rect": [
+          62,
+          0,
+          16,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_idle_02.png",
+        "rect": [
+          107,
+          0,
+          20,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_idle_03.png",
+        "rect": [
+          154,
+          2,
+          20,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_idle_04.png",
+        "rect": [
+          201,
+          2,
+          20,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_swing_00.png",
+        "rect": [
+          249,
+          1,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_swing_01.png",
+        "rect": [
+          296,
+          1,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_swing_02.png",
+        "rect": [
+          343,
+          1,
+          19,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_swing_03.png",
+        "rect": [
+          3,
+          53,
+          40,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_swing_04.png",
+        "rect": [
+          53,
+          53,
+          35,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_swing_05.png",
+        "rect": [
+          94,
+          53,
+          47,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_swing_06.png",
+        "rect": [
+          145,
+          53,
+          38,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_walk_00.png",
+        "rect": [
+          202,
+          53,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_walk_01.png",
+        "rect": [
+          249,
+          52,
+          18,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_walk_02.png",
+        "rect": [
+          293,
+          53,
+          25,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_walk_03.png",
+        "rect": [
+          341,
+          55,
+          22,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_walk_04.png",
+        "rect": [
+          13,
+          105,
+          21,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_walk_05.png",
+        "rect": [
+          60,
+          105,
+          21,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_ballchain_walk_06.png",
+        "rect": [
+          104,
+          105,
+          27,
+          51
+        ]
+      }
+    ],
+    "size": [
+      376,
+      156
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

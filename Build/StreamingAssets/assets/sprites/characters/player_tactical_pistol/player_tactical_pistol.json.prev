@@ -1,0 +1,186 @@
+{
+  "actor": "player_tactical_pistol",
+  "atlas": {
+    "file": "player_tactical_pistol_atlas.png",
+    "frames": [
+      {
+        "name": "player_tactical_pistol_idle_00.png",
+        "rect": [
+          5,
+          3,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_idle_01.png",
+        "rect": [
+          33,
+          1,
+          18,
+          53
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_idle_02.png",
+        "rect": [
+          61,
+          0,
+          18,
+          54
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_idle_03.png",
+        "rect": [
+          89,
+          2,
+          18,
+          52
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_idle_04.png",
+        "rect": [
+          116,
+          4,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_00.png",
+        "rect": [
+          145,
+          3,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_01.png",
+        "rect": [
+          172,
+          4,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_02.png",
+        "rect": [
+          200,
+          5,
+          20,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_03.png",
+        "rect": [
+          2,
+          58,
+          23,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_04.png",
+        "rect": [
+          28,
+          57,
+          27,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_05.png",
+        "rect": [
+          57,
+          58,
+          26,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_swing_06.png",
+        "rect": [
+          85,
+          59,
+          25,
+          49
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_walk_00.png",
+        "rect": [
+          117,
+          57,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_walk_01.png",
+        "rect": [
+          143,
+          57,
+          21,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_walk_02.png",
+        "rect": [
+          169,
+          58,
+          25,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_walk_03.png",
+        "rect": [
+          201,
+          58,
+          18,
+          50
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_walk_04.png",
+        "rect": [
+          5,
+          111,
+          18,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_walk_05.png",
+        "rect": [
+          31,
+          111,
+          22,
+          51
+        ]
+      },
+      {
+        "name": "player_tactical_pistol_walk_06.png",
+        "rect": [
+          56,
+          112,
+          28,
+          50
+        ]
+      }
+    ],
+    "size": [
+      224,
+      162
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,258 @@
+{
+  "actor": "monkey_boss",
+  "atlas": {
+    "file": "monkey_boss_atlas.png",
+    "frames": [
+      {
+        "name": "monkey_boss_attack_side_00.png",
+        "rect": [
+          26,
+          22,
+          59,
+          111
+        ]
+      },
+      {
+        "name": "monkey_boss_attack_side_01.png",
+        "rect": [
+          135,
+          22,
+          63,
+          111
+        ]
+      },
+      {
+        "name": "monkey_boss_attack_side_02.png",
+        "rect": [
+          232,
+          21,
+          90,
+          112
+        ]
+      },
+      {
+        "name": "monkey_boss_attack_side_03.png",
+        "rect": [
+          349,
+          18,
+          79,
+          115
+        ]
+      },
+      {
+        "name": "monkey_boss_attack_side_04.png",
+        "rect": [
+          463,
+          12,
+          72,
+          121
+        ]
+      },
+      {
+        "name": "monkey_boss_attack_side_05.png",
+        "rect": [
+          567,
+          18,
+          87,
+          115
+        ]
+      },
+      {
+        "name": "monkey_boss_death_00.png",
+        "rect": [
+          688,
+          21,
+          67,
+          112
+        ]
+      },
+      {
+        "name": "monkey_boss_death_01.png",
+        "rect": [
+          799,
+          23,
+          66,
+          110
+        ]
+      },
+      {
+        "name": "monkey_boss_death_02.png",
+        "rect": [
+          0,
+          167,
+          111,
+          99
+        ]
+      },
+      {
+        "name": "monkey_boss_death_03.png",
+        "rect": [
+          115,
+          170,
+          102,
+          96
+        ]
+      },
+      {
+        "name": "monkey_boss_death_04.png",
+        "rect": [
+          231,
+          196,
+          92,
+          70
+        ]
+      },
+      {
+        "name": "monkey_boss_death_05.png",
+        "rect": [
+          336,
+          206,
+          104,
+          60
+        ]
+      },
+      {
+        "name": "monkey_boss_death_06.png",
+        "rect": [
+          444,
+          227,
+          111,
+          39
+        ]
+      },
+      {
+        "name": "monkey_boss_hurt_00.png",
+        "rect": [
+          561,
+          143,
+          98,
+          123
+        ]
+      },
+      {
+        "name": "monkey_boss_hurt_01.png",
+        "rect": [
+          671,
+          143,
+          101,
+          123
+        ]
+      },
+      {
+        "name": "monkey_boss_hurt_02.png",
+        "rect": [
+          786,
+          161,
+          92,
+          105
+        ]
+      },
+      {
+        "name": "monkey_boss_hurt_03.png",
+        "rect": [
+          12,
+          300,
+          87,
+          99
+        ]
+      },
+      {
+        "name": "monkey_boss_hurt_04.png",
+        "rect": [
+          117,
+          294,
+          99,
+          105
+        ]
+      },
+      {
+        "name": "monkey_boss_hurt_05.png",
+        "rect": [
+          225,
+          300,
+          105,
+          99
+        ]
+      },
+      {
+        "name": "monkey_boss_idle_00.png",
+        "rect": [
+          368,
+          279,
+          41,
+          120
+        ]
+      },
+      {
+        "name": "monkey_boss_idle_01.png",
+        "rect": [
+          480,
+          279,
+          39,
+          120
+        ]
+      },
+      {
+        "name": "monkey_boss_idle_02.png",
+        "rect": [
+          591,
+          279,
+          38,
+          120
+        ]
+      },
+      {
+        "name": "monkey_boss_idle_03.png",
+        "rect": [
+          702,
+          280,
+          38,
+          119
+        ]
+      },
+      {
+        "name": "monkey_boss_walk_00.png",
+        "rect": [
+          804,
+          270,
+          56,
+          129
+        ]
+      },
+      {
+        "name": "monkey_boss_walk_01.png",
+        "rect": [
+          25,
+          402,
+          60,
+          130
+        ]
+      },
+      {
+        "name": "monkey_boss_walk_02.png",
+        "rect": [
+          143,
+          399,
+          47,
+          133
+        ]
+      },
+      {
+        "name": "monkey_boss_walk_03.png",
+        "rect": [
+          247,
+          401,
+          61,
+          131
+        ]
+      }
+    ],
+    "size": [
+      888,
+      532
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}
