@@ -1,0 +1,132 @@
+{
+  "actor": "player_shotgunner_ballchain",
+  "atlas": {
+    "file": "player_shotgunner_ballchain_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_ballchain_idle_00.png",
+        "rect": [
+          18,
+          0,
+          12,
+          57
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_idle_01.png",
+        "rect": [
+          68,
+          0,
+          11,
+          57
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_idle_02.png",
+        "rect": [
+          117,
+          0,
+          11,
+          57
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_idle_03.png",
+        "rect": [
+          166,
+          0,
+          11,
+          57
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_00.png",
+        "rect": [
+          197,
+          14,
+          46,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_01.png",
+        "rect": [
+          245,
+          14,
+          48,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_02.png",
+        "rect": [
+          294,
+          14,
+          49,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_03.png",
+        "rect": [
+          343,
+          9,
+          49,
+          48
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_04.png",
+        "rect": [
+          12,
+          69,
+          25,
+          45
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_05.png",
+        "rect": [
+          61,
+          68,
+          25,
+          46
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_06.png",
+        "rect": [
+          104,
+          63,
+          37,
+          51
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_07.png",
+        "rect": [
+          152,
+          71,
+          38,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_ballchain_swing_08.png",
+        "rect": [
+          200,
+          72,
+          41,
+          42
+        ]
+      }
+    ],
+    "size": [
+      392,
+      114
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

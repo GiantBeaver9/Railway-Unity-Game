@@ -1,0 +1,132 @@
+{
+  "actor": "player_underdog_sword",
+  "atlas": {
+    "file": "player_underdog_sword_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_sword_idle_00.png",
+        "rect": [
+          12,
+          0,
+          20,
+          51
+        ]
+      },
+      {
+        "name": "player_underdog_sword_idle_01.png",
+        "rect": [
+          56,
+          1,
+          19,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_sword_idle_02.png",
+        "rect": [
+          101,
+          0,
+          17,
+          51
+        ]
+      },
+      {
+        "name": "player_underdog_sword_idle_03.png",
+        "rect": [
+          145,
+          1,
+          18,
+          50
+        ]
+      },
+      {
+        "name": "player_underdog_sword_swing_00.png",
+        "rect": [
+          176,
+          10,
+          44,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_sword_swing_01.png",
+        "rect": [
+          231,
+          10,
+          22,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_sword_swing_02.png",
+        "rect": [
+          278,
+          11,
+          16,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_sword_swing_03.png",
+        "rect": [
+          321,
+          11,
+          18,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_sword_swing_04.png",
+        "rect": [
+          0,
+          62,
+          43,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_sword_swing_05.png",
+        "rect": [
+          44,
+          62,
+          43,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_sword_swing_06.png",
+        "rect": [
+          88,
+          62,
+          44,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_sword_swing_07.png",
+        "rect": [
+          146,
+          62,
+          15,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_sword_swing_08.png",
+        "rect": [
+          187,
+          62,
+          21,
+          40
+        ]
+      }
+    ],
+    "size": [
+      352,
+      102
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,78 @@
+{
+  "actor": "player_underdog_shotgun",
+  "atlas": {
+    "file": "player_underdog_shotgun_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_shotgun_swing_00.png",
+        "rect": [
+          4,
+          0,
+          41,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_shotgun_swing_01.png",
+        "rect": [
+          52,
+          0,
+          45,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_shotgun_swing_02.png",
+        "rect": [
+          100,
+          1,
+          50,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_shotgun_swing_03.png",
+        "rect": [
+          150,
+          1,
+          49,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_shotgun_swing_04.png",
+        "rect": [
+          202,
+          2,
+          45,
+          39
+        ]
+      },
+      {
+        "name": "player_underdog_shotgun_swing_05.png",
+        "rect": [
+          252,
+          2,
+          45,
+          39
+        ]
+      },
+      {
+        "name": "player_underdog_shotgun_swing_06.png",
+        "rect": [
+          313,
+          2,
+          23,
+          39
+        ]
+      }
+    ],
+    "size": [
+      400,
+      41
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

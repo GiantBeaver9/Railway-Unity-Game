@@ -1,0 +1,78 @@
+{
+  "actor": "player_werewolf_gatling",
+  "atlas": {
+    "file": "player_werewolf_gatling_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_gatling_swing_00.png",
+        "rect": [
+          4,
+          1,
+          44,
+          41
+        ]
+      },
+      {
+        "name": "player_werewolf_gatling_swing_01.png",
+        "rect": [
+          55,
+          0,
+          45,
+          42
+        ]
+      },
+      {
+        "name": "player_werewolf_gatling_swing_02.png",
+        "rect": [
+          108,
+          0,
+          44,
+          42
+        ]
+      },
+      {
+        "name": "player_werewolf_gatling_swing_03.png",
+        "rect": [
+          159,
+          1,
+          45,
+          41
+        ]
+      },
+      {
+        "name": "player_werewolf_gatling_swing_04.png",
+        "rect": [
+          211,
+          3,
+          45,
+          39
+        ]
+      },
+      {
+        "name": "player_werewolf_gatling_swing_05.png",
+        "rect": [
+          263,
+          4,
+          45,
+          38
+        ]
+      },
+      {
+        "name": "player_werewolf_gatling_swing_06.png",
+        "rect": [
+          312,
+          3,
+          52,
+          39
+        ]
+      }
+    ],
+    "size": [
+      416,
+      42
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

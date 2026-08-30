@@ -6,70 +6,70 @@
       {
         "name": "player_shotgunner_grenade_swing_00.png",
         "rect": [
-          8,
-          8,
-          19,
-          43
+          23,
+          2,
+          26,
+          59
         ]
       },
       {
         "name": "player_shotgunner_grenade_swing_01.png",
         "rect": [
-          39,
-          8,
-          30,
-          43
+          51,
+          2,
+          41,
+          59
         ]
       },
       {
         "name": "player_shotgunner_grenade_swing_02.png",
         "rect": [
-          74,
-          8,
-          31,
-          43
+          94,
+          2,
+          42,
+          59
         ]
       },
       {
         "name": "player_shotgunner_grenade_swing_03.png",
         "rect": [
-          119,
-          0,
-          14,
-          51
+          2,
+          2,
+          19,
+          70
         ]
       },
       {
         "name": "player_shotgunner_grenade_swing_04.png",
         "rect": [
-          144,
-          11,
-          36,
-          40
+          41,
+          74,
+          49,
+          55
         ]
       },
       {
         "name": "player_shotgunner_grenade_swing_05.png",
         "rect": [
-          181,
-          10,
-          34,
-          41
+          138,
+          2,
+          46,
+          56
         ]
       },
       {
         "name": "player_shotgunner_grenade_swing_06.png",
         "rect": [
-          220,
-          10,
-          27,
-          41
+          2,
+          74,
+          37,
+          56
         ]
       }
     ],
     "size": [
-      288,
-      51
+      200,
+      132
     ]
   },
   "ppu": 24,

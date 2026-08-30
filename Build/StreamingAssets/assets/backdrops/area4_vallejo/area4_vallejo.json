@@ -1,6 +1,6 @@
 {
   "height": 360,
-  "horizon_y": 144,
+  "horizon_y": 216,
   "layers": {
     "far": 0.2,
     "lane": 1.0,

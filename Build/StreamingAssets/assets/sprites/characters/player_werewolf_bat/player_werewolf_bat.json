@@ -6,8 +6,8 @@
       {
         "name": "player_werewolf_bat_idle_00.png",
         "rect": [
-          5,
-          0,
+          77,
+          60,
           24,
           52
         ]
@@ -15,8 +15,8 @@
       {
         "name": "player_werewolf_bat_idle_01.png",
         "rect": [
-          38,
-          0,
+          103,
+          60,
           25,
           52
         ]
@@ -24,8 +24,8 @@
       {
         "name": "player_werewolf_bat_idle_02.png",
         "rect": [
-          72,
-          0,
+          130,
+          60,
           25,
           52
         ]
@@ -33,8 +33,8 @@
       {
         "name": "player_werewolf_bat_idle_03.png",
         "rect": [
-          106,
-          0,
+          157,
+          60,
           26,
           52
         ]
@@ -42,88 +42,88 @@
       {
         "name": "player_werewolf_bat_swing_00.png",
         "rect": [
-          138,
-          8,
-          30,
-          44
+          2,
+          2,
+          38,
+          56
         ]
       },
       {
         "name": "player_werewolf_bat_swing_01.png",
         "rect": [
-          170,
-          10,
-          33,
-          42
+          42,
+          2,
+          42,
+          54
         ]
       },
       {
         "name": "player_werewolf_bat_swing_02.png",
         "rect": [
-          204,
-          11,
-          34,
-          41
+          86,
+          2,
+          44,
+          53
         ]
       },
       {
         "name": "player_werewolf_bat_swing_03.png",
         "rect": [
-          238,
-          12,
-          34,
-          40
+          2,
+          115,
+          44,
+          51
         ]
       },
       {
         "name": "player_werewolf_bat_swing_04.png",
         "rect": [
-          3,
-          64,
-          27,
-          40
+          48,
+          115,
+          35,
+          51
         ]
       },
       {
         "name": "player_werewolf_bat_swing_05.png",
         "rect": [
-          37,
-          63,
-          27,
-          41
+          132,
+          2,
+          35,
+          53
         ]
       },
       {
         "name": "player_werewolf_bat_swing_06.png",
         "rect": [
-          71,
-          63,
-          28,
-          41
+          169,
+          2,
+          36,
+          53
         ]
       },
       {
         "name": "player_werewolf_bat_swing_07.png",
         "rect": [
-          105,
-          63,
-          28,
-          41
+          2,
+          60,
+          36,
+          53
         ]
       },
       {
         "name": "player_werewolf_bat_swing_08.png",
         "rect": [
-          139,
-          63,
-          27,
-          41
+          40,
+          60,
+          35,
+          53
         ]
       }
     ],
     "size": [
-      272,
-      104
+      208,
+      168
     ]
   },
   "ppu": 24,

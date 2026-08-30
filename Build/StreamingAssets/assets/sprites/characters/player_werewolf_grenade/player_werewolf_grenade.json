@@ -6,70 +6,70 @@
       {
         "name": "player_werewolf_grenade_swing_00.png",
         "rect": [
-          6,
-          1,
-          17,
-          40
+          31,
+          2,
+          23,
+          54
         ]
       },
       {
         "name": "player_werewolf_grenade_swing_01.png",
         "rect": [
-          33,
-          0,
-          20,
-          41
+          2,
+          2,
+          27,
+          56
         ]
       },
       {
         "name": "player_werewolf_grenade_swing_02.png",
         "rect": [
-          62,
+          56,
           2,
-          21,
-          39
+          29,
+          53
         ]
       },
       {
         "name": "player_werewolf_grenade_swing_03.png",
         "rect": [
-          89,
-          3,
-          24,
-          38
+          157,
+          2,
+          33,
+          52
         ]
       },
       {
         "name": "player_werewolf_grenade_swing_04.png",
         "rect": [
-          116,
-          5,
-          29,
-          36
+          2,
+          60,
+          39,
+          49
         ]
       },
       {
         "name": "player_werewolf_grenade_swing_05.png",
         "rect": [
-          146,
+          87,
           2,
-          27,
-          39
+          37,
+          53
         ]
       },
       {
         "name": "player_werewolf_grenade_swing_06.png",
         "rect": [
-          178,
+          126,
           2,
-          21,
-          39
+          29,
+          53
         ]
       }
     ],
     "size": [
-      232,
-      41
+      200,
+      111
     ]
   },
   "ppu": 24,

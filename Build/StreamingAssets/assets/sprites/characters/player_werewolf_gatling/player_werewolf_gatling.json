@@ -6,70 +6,70 @@
       {
         "name": "player_werewolf_gatling_swing_00.png",
         "rect": [
-          4,
-          1,
-          44,
-          41
+          125,
+          2,
+          59,
+          55
         ]
       },
       {
         "name": "player_werewolf_gatling_swing_01.png",
         "rect": [
-          55,
-          0,
-          45,
-          42
+          2,
+          2,
+          60,
+          56
         ]
       },
       {
         "name": "player_werewolf_gatling_swing_02.png",
         "rect": [
-          108,
-          0,
-          44,
-          42
+          64,
+          2,
+          59,
+          56
         ]
       },
       {
         "name": "player_werewolf_gatling_swing_03.png",
         "rect": [
-          159,
-          1,
-          45,
-          41
+          2,
+          60,
+          60,
+          55
         ]
       },
       {
         "name": "player_werewolf_gatling_swing_04.png",
         "rect": [
-          211,
-          3,
-          45,
-          39
+          64,
+          60,
+          60,
+          52
         ]
       },
       {
         "name": "player_werewolf_gatling_swing_05.png",
         "rect": [
-          263,
-          4,
-          45,
-          38
+          2,
+          117,
+          60,
+          51
         ]
       },
       {
         "name": "player_werewolf_gatling_swing_06.png",
         "rect": [
-          312,
-          3,
-          52,
-          39
+          126,
+          60,
+          69,
+          52
         ]
       }
     ],
     "size": [
-      416,
-      42
+      203,
+      170
     ]
   },
   "ppu": 24,

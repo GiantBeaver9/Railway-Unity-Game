@@ -6,8 +6,8 @@
       {
         "name": "player_werewolf_sword_idle_00.png",
         "rect": [
-          14,
-          3,
+          55,
+          127,
           14,
           50
         ]
@@ -15,8 +15,8 @@
       {
         "name": "player_werewolf_sword_idle_01.png",
         "rect": [
-          47,
-          2,
+          55,
+          73,
           32,
           51
         ]
@@ -24,8 +24,8 @@
       {
         "name": "player_werewolf_sword_idle_02.png",
         "rect": [
-          99,
-          2,
+          89,
+          73,
           12,
           51
         ]
@@ -33,8 +33,8 @@
       {
         "name": "player_werewolf_sword_idle_03.png",
         "rect": [
-          140,
-          2,
+          103,
+          73,
           13,
           51
         ]
@@ -42,88 +42,88 @@
       {
         "name": "player_werewolf_sword_swing_00.png",
         "rect": [
-          170,
-          13,
-          37,
-          40
+          147,
+          2,
+          48,
+          52
         ]
       },
       {
         "name": "player_werewolf_sword_swing_01.png",
         "rect": [
-          219,
-          11,
-          23,
-          42
+          22,
+          2,
+          30,
+          55
         ]
       },
       {
         "name": "player_werewolf_sword_swing_02.png",
         "rect": [
-          266,
-          0,
-          14,
-          53
+          2,
+          2,
+          18,
+          69
         ]
       },
       {
         "name": "player_werewolf_sword_swing_03.png",
         "rect": [
-          295,
-          13,
-          39,
-          40
+          2,
+          73,
+          51,
+          52
         ]
       },
       {
         "name": "player_werewolf_sword_swing_04.png",
         "rect": [
-          1,
-          67,
-          39,
-          39
+          118,
+          73,
+          51,
+          51
         ]
       },
       {
         "name": "player_werewolf_sword_swing_05.png",
         "rect": [
-          43,
-          67,
-          39,
-          39
+          2,
+          127,
+          51,
+          51
         ]
       },
       {
         "name": "player_werewolf_sword_swing_06.png",
         "rect": [
-          84,
-          68,
-          42,
-          38
+          71,
+          127,
+          55,
+          50
         ]
       },
       {
         "name": "player_werewolf_sword_swing_07.png",
         "rect": [
-          131,
-          65,
-          32,
-          41
+          54,
+          2,
+          42,
+          54
         ]
       },
       {
         "name": "player_werewolf_sword_swing_08.png",
         "rect": [
-          171,
-          65,
-          36,
-          41
+          98,
+          2,
+          47,
+          54
         ]
       }
     ],
     "size": [
-      336,
-      106
+      212,
+      180
     ]
   },
   "ppu": 24,

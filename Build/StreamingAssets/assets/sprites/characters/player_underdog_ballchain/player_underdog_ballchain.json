@@ -6,8 +6,8 @@
       {
         "name": "player_underdog_ballchain_idle_00.png",
         "rect": [
-          2,
-          0,
+          60,
+          58,
           38,
           53
         ]
@@ -15,8 +15,8 @@
       {
         "name": "player_underdog_ballchain_idle_01.png",
         "rect": [
-          44,
-          0,
+          100,
+          58,
           37,
           53
         ]
@@ -24,8 +24,8 @@
       {
         "name": "player_underdog_ballchain_idle_02.png",
         "rect": [
-          85,
-          0,
+          139,
+          58,
           39,
           53
         ]
@@ -33,8 +33,8 @@
       {
         "name": "player_underdog_ballchain_idle_03.png",
         "rect": [
-          128,
-          1,
+          154,
+          114,
           38,
           52
         ]
@@ -42,88 +42,88 @@
       {
         "name": "player_underdog_ballchain_swing_00.png",
         "rect": [
-          169,
-          12,
-          39,
-          41
+          2,
+          2,
+          52,
+          54
         ]
       },
       {
         "name": "player_underdog_ballchain_swing_01.png",
         "rect": [
-          211,
-          12,
-          40,
-          41
+          56,
+          2,
+          53,
+          54
         ]
       },
       {
         "name": "player_underdog_ballchain_swing_02.png",
         "rect": [
-          252,
-          12,
-          41,
-          41
+          111,
+          2,
+          54,
+          54
         ]
       },
       {
         "name": "player_underdog_ballchain_swing_03.png",
         "rect": [
-          297,
-          12,
-          36,
-          41
+          167,
+          2,
+          48,
+          54
         ]
       },
       {
         "name": "player_underdog_ballchain_swing_04.png",
         "rect": [
-          0,
-          65,
-          42,
-          41
+          2,
+          58,
+          56,
+          54
         ]
       },
       {
         "name": "player_underdog_ballchain_swing_05.png",
         "rect": [
-          42,
-          66,
-          42,
-          40
+          180,
+          58,
+          56,
+          53
         ]
       },
       {
         "name": "player_underdog_ballchain_swing_06.png",
         "rect": [
-          84,
-          66,
-          41,
-          40
+          2,
+          114,
+          54,
+          53
         ]
       },
       {
         "name": "player_underdog_ballchain_swing_07.png",
         "rect": [
-          130,
-          66,
-          33,
-          40
+          58,
+          114,
+          44,
+          53
         ]
       },
       {
         "name": "player_underdog_ballchain_swing_08.png",
         "rect": [
-          171,
-          66,
-          36,
-          40
+          104,
+          114,
+          48,
+          53
         ]
       }
     ],
     "size": [
-      336,
-      106
+      245,
+      169
     ]
   },
   "ppu": 24,

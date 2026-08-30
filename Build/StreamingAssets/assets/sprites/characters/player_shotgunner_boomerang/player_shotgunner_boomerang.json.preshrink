@@ -1,0 +1,78 @@
+{
+  "actor": "player_shotgunner_boomerang",
+  "atlas": {
+    "file": "player_shotgunner_boomerang_atlas.png",
+    "frames": [
+      {
+        "name": "player_shotgunner_boomerang_swing_00.png",
+        "rect": [
+          4,
+          7,
+          26,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_boomerang_swing_01.png",
+        "rect": [
+          36,
+          8,
+          29,
+          42
+        ]
+      },
+      {
+        "name": "player_shotgunner_boomerang_swing_02.png",
+        "rect": [
+          71,
+          7,
+          28,
+          43
+        ]
+      },
+      {
+        "name": "player_shotgunner_boomerang_swing_03.png",
+        "rect": [
+          104,
+          6,
+          29,
+          44
+        ]
+      },
+      {
+        "name": "player_shotgunner_boomerang_swing_04.png",
+        "rect": [
+          138,
+          6,
+          30,
+          44
+        ]
+      },
+      {
+        "name": "player_shotgunner_boomerang_swing_05.png",
+        "rect": [
+          170,
+          0,
+          33,
+          50
+        ]
+      },
+      {
+        "name": "player_shotgunner_boomerang_swing_06.png",
+        "rect": [
+          204,
+          0,
+          34,
+          50
+        ]
+      }
+    ],
+    "size": [
+      272,
+      50
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

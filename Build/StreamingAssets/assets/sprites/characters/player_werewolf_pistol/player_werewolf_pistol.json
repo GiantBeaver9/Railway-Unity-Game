@@ -6,70 +6,70 @@
       {
         "name": "player_werewolf_pistol_swing_00.png",
         "rect": [
-          0,
-          0,
-          30,
-          40
+          2,
+          2,
+          39,
+          52
         ]
       },
       {
         "name": "player_werewolf_pistol_swing_01.png",
         "rect": [
-          41,
-          0,
-          11,
-          40
+          43,
+          2,
+          14,
+          52
         ]
       },
       {
         "name": "player_werewolf_pistol_swing_02.png",
         "rect": [
-          62,
-          0,
-          31,
-          40
+          59,
+          2,
+          40,
+          52
         ]
       },
       {
         "name": "player_werewolf_pistol_swing_03.png",
         "rect": [
-          95,
-          0,
-          26,
-          40
+          101,
+          2,
+          34,
+          52
         ]
       },
       {
         "name": "player_werewolf_pistol_swing_04.png",
         "rect": [
-          124,
-          0,
-          30,
-          40
+          137,
+          2,
+          39,
+          52
         ]
       },
       {
         "name": "player_werewolf_pistol_swing_05.png",
         "rect": [
-          155,
-          0,
-          31,
-          40
+          2,
+          56,
+          40,
+          52
         ]
       },
       {
         "name": "player_werewolf_pistol_swing_06.png",
         "rect": [
-          186,
-          0,
-          30,
-          40
+          44,
+          56,
+          39,
+          52
         ]
       }
     ],
     "size": [
-      248,
-      40
+      200,
+      110
     ]
   },
   "ppu": 24,

@@ -1,0 +1,132 @@
+{
+  "actor": "player_werewolf_club",
+  "atlas": {
+    "file": "player_werewolf_club_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_club_idle_00.png",
+        "rect": [
+          7,
+          0,
+          21,
+          53
+        ]
+      },
+      {
+        "name": "player_werewolf_club_idle_01.png",
+        "rect": [
+          42,
+          0,
+          20,
+          53
+        ]
+      },
+      {
+        "name": "player_werewolf_club_idle_02.png",
+        "rect": [
+          77,
+          0,
+          21,
+          53
+        ]
+      },
+      {
+        "name": "player_werewolf_club_idle_03.png",
+        "rect": [
+          112,
+          1,
+          21,
+          52
+        ]
+      },
+      {
+        "name": "player_werewolf_club_swing_00.png",
+        "rect": [
+          143,
+          10,
+          28,
+          43
+        ]
+      },
+      {
+        "name": "player_werewolf_club_swing_01.png",
+        "rect": [
+          179,
+          10,
+          27,
+          43
+        ]
+      },
+      {
+        "name": "player_werewolf_club_swing_02.png",
+        "rect": [
+          214,
+          8,
+          26,
+          45
+        ]
+      },
+      {
+        "name": "player_werewolf_club_swing_03.png",
+        "rect": [
+          250,
+          10,
+          25,
+          43
+        ]
+      },
+      {
+        "name": "player_werewolf_club_swing_04.png",
+        "rect": [
+          1,
+          68,
+          32,
+          38
+        ]
+      },
+      {
+        "name": "player_werewolf_club_swing_05.png",
+        "rect": [
+          36,
+          68,
+          33,
+          38
+        ]
+      },
+      {
+        "name": "player_werewolf_club_swing_06.png",
+        "rect": [
+          70,
+          67,
+          35,
+          39
+        ]
+      },
+      {
+        "name": "player_werewolf_club_swing_07.png",
+        "rect": [
+          113,
+          67,
+          18,
+          39
+        ]
+      },
+      {
+        "name": "player_werewolf_club_swing_08.png",
+        "rect": [
+          144,
+          66,
+          27,
+          40
+        ]
+      }
+    ],
+    "size": [
+      280,
+      106
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

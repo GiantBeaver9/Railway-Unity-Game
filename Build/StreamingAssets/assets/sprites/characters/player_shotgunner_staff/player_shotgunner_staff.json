@@ -6,8 +6,8 @@
       {
         "name": "player_shotgunner_staff_idle_00.png",
         "rect": [
-          16,
-          0,
+          152,
+          2,
           11,
           56
         ]
@@ -15,8 +15,8 @@
       {
         "name": "player_shotgunner_staff_idle_01.png",
         "rect": [
-          59,
-          0,
+          165,
+          2,
           10,
           56
         ]
@@ -24,8 +24,8 @@
       {
         "name": "player_shotgunner_staff_idle_02.png",
         "rect": [
-          102,
-          0,
+          177,
+          2,
           10,
           56
         ]
@@ -33,8 +33,8 @@
       {
         "name": "player_shotgunner_staff_idle_03.png",
         "rect": [
-          145,
-          0,
+          189,
+          2,
           10,
           56
         ]
@@ -42,88 +42,88 @@
       {
         "name": "player_shotgunner_staff_swing_00.png",
         "rect": [
-          182,
-          6,
-          22,
-          50
+          2,
+          2,
+          30,
+          68
         ]
       },
       {
         "name": "player_shotgunner_staff_swing_01.png",
         "rect": [
-          225,
-          6,
-          22,
-          50
+          34,
+          2,
+          30,
+          68
         ]
       },
       {
         "name": "player_shotgunner_staff_swing_02.png",
         "rect": [
-          266,
-          8,
-          27,
-          48
+          66,
+          2,
+          37,
+          66
         ]
       },
       {
         "name": "player_shotgunner_staff_swing_03.png",
         "rect": [
-          302,
-          15,
-          40,
-          41
+          2,
+          72,
+          55,
+          56
         ]
       },
       {
         "name": "player_shotgunner_staff_swing_04.png",
         "rect": [
-          5,
-          71,
-          33,
-          41
+          59,
+          72,
+          45,
+          56
         ]
       },
       {
         "name": "player_shotgunner_staff_swing_05.png",
         "rect": [
-          51,
-          71,
-          27,
-          41
+          106,
+          72,
+          37,
+          56
         ]
       },
       {
         "name": "player_shotgunner_staff_swing_06.png",
         "rect": [
-          91,
-          70,
-          33,
-          42
+          105,
+          2,
+          45,
+          57
         ]
       },
       {
         "name": "player_shotgunner_staff_swing_07.png",
         "rect": [
-          131,
-          71,
-          38,
-          41
+          145,
+          72,
+          52,
+          56
         ]
       },
       {
         "name": "player_shotgunner_staff_swing_08.png",
         "rect": [
-          172,
-          71,
-          43,
-          41
+          2,
+          130,
+          59,
+          56
         ]
       }
     ],
     "size": [
-      344,
-      112
+      216,
+      188
     ]
   },
   "ppu": 24,

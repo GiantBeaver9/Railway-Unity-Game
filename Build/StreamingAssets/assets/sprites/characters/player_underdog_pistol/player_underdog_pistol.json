@@ -6,70 +6,70 @@
       {
         "name": "player_underdog_pistol_swing_00.png",
         "rect": [
-          4,
-          0,
-          39,
-          41
+          2,
+          2,
+          49,
+          51
         ]
       },
       {
         "name": "player_underdog_pistol_swing_01.png",
         "rect": [
-          47,
-          0,
-          47,
-          41
+          53,
+          2,
+          59,
+          51
         ]
       },
       {
         "name": "player_underdog_pistol_swing_02.png",
         "rect": [
-          96,
-          0,
-          43,
-          41
+          114,
+          2,
+          54,
+          51
         ]
       },
       {
         "name": "player_underdog_pistol_swing_03.png",
         "rect": [
-          145,
-          1,
-          38,
-          40
+          2,
+          55,
+          48,
+          50
         ]
       },
       {
         "name": "player_underdog_pistol_swing_04.png",
         "rect": [
-          194,
-          1,
-          35,
-          40
+          52,
+          55,
+          44,
+          50
         ]
       },
       {
         "name": "player_underdog_pistol_swing_05.png",
         "rect": [
-          241,
-          1,
-          35,
-          40
+          98,
+          55,
+          44,
+          50
         ]
       },
       {
         "name": "player_underdog_pistol_swing_06.png",
         "rect": [
-          288,
-          1,
-          35,
-          40
+          144,
+          55,
+          44,
+          50
         ]
       }
     ],
     "size": [
-      376,
-      41
+      200,
+      107
     ]
   },
   "ppu": 24,

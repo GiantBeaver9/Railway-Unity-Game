@@ -6,70 +6,70 @@
       {
         "name": "player_shotgunner_gatling_swing_00.png",
         "rect": [
-          4,
-          0,
-          39,
-          43
+          2,
+          2,
+          55,
+          60
         ]
       },
       {
         "name": "player_shotgunner_gatling_swing_01.png",
         "rect": [
-          50,
-          0,
-          40,
-          43
+          59,
+          2,
+          56,
+          60
         ]
       },
       {
         "name": "player_shotgunner_gatling_swing_02.png",
         "rect": [
-          97,
-          0,
-          40,
-          43
+          117,
+          2,
+          56,
+          60
         ]
       },
       {
         "name": "player_shotgunner_gatling_swing_03.png",
         "rect": [
-          151,
           2,
-          27,
-          41
+          64,
+          38,
+          57
         ]
       },
       {
         "name": "player_shotgunner_gatling_swing_04.png",
         "rect": [
-          190,
-          3,
           42,
-          40
+          64,
+          59,
+          56
         ]
       },
       {
         "name": "player_shotgunner_gatling_swing_05.png",
         "rect": [
-          235,
-          3,
-          47,
-          40
+          103,
+          64,
+          66,
+          56
         ]
       },
       {
         "name": "player_shotgunner_gatling_swing_06.png",
         "rect": [
-          291,
-          3,
-          28,
-          40
+          2,
+          123,
+          39,
+          56
         ]
       }
     ],
     "size": [
-      376,
-      43
+      200,
+      181
     ]
   },
   "ppu": 24,

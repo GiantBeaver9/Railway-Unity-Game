@@ -6,70 +6,70 @@
       {
         "name": "player_shotgunner_pistol_swing_00.png",
         "rect": [
-          4,
-          8,
-          36,
-          44
+          57,
+          2,
+          46,
+          56
         ]
       },
       {
         "name": "player_shotgunner_pistol_swing_01.png",
         "rect": [
-          48,
-          8,
-          36,
-          44
+          105,
+          2,
+          46,
+          56
         ]
       },
       {
         "name": "player_shotgunner_pistol_swing_02.png",
         "rect": [
-          92,
-          8,
-          35,
-          44
+          153,
+          2,
+          45,
+          56
         ]
       },
       {
         "name": "player_shotgunner_pistol_swing_03.png",
         "rect": [
-          142,
-          8,
-          23,
-          44
+          2,
+          70,
+          29,
+          56
         ]
       },
       {
         "name": "player_shotgunner_pistol_swing_04.png",
         "rect": [
-          180,
-          8,
-          35,
-          44
+          33,
+          70,
+          45,
+          56
         ]
       },
       {
         "name": "player_shotgunner_pistol_swing_05.png",
         "rect": [
-          221,
-          0,
-          42,
-          52
+          2,
+          2,
+          53,
+          66
         ]
       },
       {
         "name": "player_shotgunner_pistol_swing_06.png",
         "rect": [
-          264,
-          8,
-          44,
-          44
+          80,
+          70,
+          56,
+          56
         ]
       }
     ],
     "size": [
-      352,
-      52
+      200,
+      128
     ]
   },
   "ppu": 24,

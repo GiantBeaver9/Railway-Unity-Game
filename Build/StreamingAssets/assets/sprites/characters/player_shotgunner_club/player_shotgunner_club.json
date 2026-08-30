@@ -6,8 +6,8 @@
       {
         "name": "player_shotgunner_club_idle_00.png",
         "rect": [
-          18,
-          1,
+          192,
+          73,
           12,
           58
         ]
@@ -15,8 +15,8 @@
       {
         "name": "player_shotgunner_club_idle_01.png",
         "rect": [
-          67,
-          0,
+          112,
+          73,
           12,
           59
         ]
@@ -24,8 +24,8 @@
       {
         "name": "player_shotgunner_club_idle_02.png",
         "rect": [
-          116,
-          0,
+          126,
+          73,
           12,
           59
         ]
@@ -33,8 +33,8 @@
       {
         "name": "player_shotgunner_club_idle_03.png",
         "rect": [
-          165,
-          1,
+          206,
+          73,
           12,
           58
         ]
@@ -42,88 +42,88 @@
       {
         "name": "player_shotgunner_club_swing_00.png",
         "rect": [
-          208,
-          13,
-          24,
-          46
+          2,
+          73,
+          35,
+          66
         ]
       },
       {
         "name": "player_shotgunner_club_swing_01.png",
         "rect": [
-          252,
-          11,
-          34,
-          48
+          2,
+          2,
+          49,
+          69
         ]
       },
       {
         "name": "player_shotgunner_club_swing_02.png",
         "rect": [
-          298,
-          11,
-          40,
-          48
+          53,
+          2,
+          58,
+          69
         ]
       },
       {
         "name": "player_shotgunner_club_swing_03.png",
         "rect": [
-          347,
-          12,
-          41,
-          47
+          113,
+          2,
+          59,
+          68
         ]
       },
       {
         "name": "player_shotgunner_club_swing_04.png",
         "rect": [
-          4,
-          71,
-          41,
-          47
+          174,
+          2,
+          59,
+          68
         ]
       },
       {
         "name": "player_shotgunner_club_swing_05.png",
         "rect": [
-          56,
-          77,
-          35,
-          41
+          140,
+          73,
+          50,
+          59
         ]
       },
       {
         "name": "player_shotgunner_club_swing_06.png",
         "rect": [
-          103,
-          78,
-          39,
-          40
+          2,
+          141,
+          56,
+          58
         ]
       },
       {
         "name": "player_shotgunner_club_swing_07.png",
         "rect": [
-          147,
-          76,
-          49,
-          42
+          39,
+          73,
+          71,
+          61
         ]
       },
       {
         "name": "player_shotgunner_club_swing_08.png",
         "rect": [
-          197,
-          78,
-          46,
-          40
+          60,
+          141,
+          66,
+          58
         ]
       }
     ],
     "size": [
-      392,
-      118
+      252,
+      201
     ]
   },
   "ppu": 24,

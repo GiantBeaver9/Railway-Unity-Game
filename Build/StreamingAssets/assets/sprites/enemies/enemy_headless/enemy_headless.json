@@ -6,62 +6,44 @@
       {
         "name": "enemy_headless_attack_side_00.png",
         "rect": [
-          10,
-          5,
-          24,
-          33
+          76,
+          2,
+          18,
+          40
         ]
       },
       {
         "name": "enemy_headless_attack_side_01.png",
         "rect": [
-          55,
-          5,
-          25,
-          33
+          2,
+          2,
+          21,
+          46
         ]
       },
       {
         "name": "enemy_headless_attack_side_02.png",
         "rect": [
-          100,
-          5,
-          24,
-          33
+          25,
+          2,
+          22,
+          46
         ]
       },
       {
         "name": "enemy_headless_attack_side_03.png",
         "rect": [
-          142,
-          5,
-          31,
-          33
-        ]
-      },
-      {
-        "name": "enemy_headless_attack_side_04.png",
-        "rect": [
-          188,
-          3,
-          28,
-          35
-        ]
-      },
-      {
-        "name": "enemy_headless_attack_side_05.png",
-        "rect": [
-          229,
-          3,
-          36,
-          35
+          49,
+          2,
+          25,
+          45
         ]
       },
       {
         "name": "enemy_headless_death_00.png",
         "rect": [
-          279,
-          4,
+          141,
+          50,
           27,
           34
         ]
@@ -69,8 +51,8 @@
       {
         "name": "enemy_headless_death_01.png",
         "rect": [
-          324,
-          5,
+          170,
+          50,
           27,
           33
         ]
@@ -78,8 +60,8 @@
       {
         "name": "enemy_headless_death_02.png",
         "rect": [
-          6,
-          45,
+          71,
+          87,
           33,
           31
         ]
@@ -87,8 +69,8 @@
       {
         "name": "enemy_headless_death_03.png",
         "rect": [
-          49,
-          46,
+          106,
+          87,
           36,
           30
         ]
@@ -96,8 +78,8 @@
       {
         "name": "enemy_headless_death_04.png",
         "rect": [
-          93,
-          50,
+          144,
+          87,
           39,
           26
         ]
@@ -105,8 +87,8 @@
       {
         "name": "enemy_headless_death_05.png",
         "rect": [
-          135,
-          57,
+          2,
+          122,
           45,
           19
         ]
@@ -114,8 +96,8 @@
       {
         "name": "enemy_headless_death_06.png",
         "rect": [
-          180,
-          59,
+          49,
+          122,
           45,
           17
         ]
@@ -123,8 +105,8 @@
       {
         "name": "enemy_headless_hurt_00.png",
         "rect": [
-          235,
-          40,
+          149,
+          2,
           24,
           36
         ]
@@ -132,8 +114,8 @@
       {
         "name": "enemy_headless_hurt_01.png",
         "rect": [
-          280,
-          39,
+          111,
+          2,
           24,
           37
         ]
@@ -141,8 +123,8 @@
       {
         "name": "enemy_headless_hurt_02.png",
         "rect": [
-          321,
-          43,
+          2,
+          87,
           33,
           33
         ]
@@ -150,8 +132,8 @@
       {
         "name": "enemy_headless_hurt_03.png",
         "rect": [
-          6,
-          81,
+          37,
+          87,
           32,
           33
         ]
@@ -159,8 +141,8 @@
       {
         "name": "enemy_headless_hurt_04.png",
         "rect": [
-          55,
-          79,
+          2,
+          50,
           25,
           35
         ]
@@ -168,8 +150,8 @@
       {
         "name": "enemy_headless_hurt_05.png",
         "rect": [
-          100,
-          79,
+          29,
+          50,
           24,
           35
         ]
@@ -177,8 +159,8 @@
       {
         "name": "enemy_headless_idle_00.png",
         "rect": [
-          153,
-          79,
+          55,
+          50,
           9,
           35
         ]
@@ -186,8 +168,8 @@
       {
         "name": "enemy_headless_idle_01.png",
         "rect": [
-          198,
-          79,
+          66,
+          50,
           9,
           35
         ]
@@ -195,8 +177,8 @@
       {
         "name": "enemy_headless_idle_02.png",
         "rect": [
-          241,
-          76,
+          96,
+          2,
           13,
           38
         ]
@@ -204,8 +186,8 @@
       {
         "name": "enemy_headless_idle_03.png",
         "rect": [
-          287,
-          77,
+          137,
+          2,
           10,
           37
         ]
@@ -213,8 +195,8 @@
       {
         "name": "enemy_headless_walk_00.png",
         "rect": [
-          332,
-          79,
+          77,
+          50,
           10,
           35
         ]
@@ -222,8 +204,8 @@
       {
         "name": "enemy_headless_walk_01.png",
         "rect": [
-          10,
-          117,
+          89,
+          50,
           24,
           35
         ]
@@ -231,8 +213,8 @@
       {
         "name": "enemy_headless_walk_02.png",
         "rect": [
-          61,
-          116,
+          175,
+          2,
           12,
           36
         ]
@@ -240,16 +222,16 @@
       {
         "name": "enemy_headless_walk_03.png",
         "rect": [
-          100,
-          117,
+          115,
+          50,
           24,
           35
         ]
       }
     ],
     "size": [
-      360,
-      152
+      200,
+      143
     ]
   },
   "ppu": 24,

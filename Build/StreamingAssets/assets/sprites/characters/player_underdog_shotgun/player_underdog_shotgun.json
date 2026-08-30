@@ -6,70 +6,70 @@
       {
         "name": "player_underdog_shotgun_swing_00.png",
         "rect": [
-          4,
-          0,
-          41,
-          41
+          2,
+          2,
+          53,
+          53
         ]
       },
       {
         "name": "player_underdog_shotgun_swing_01.png",
         "rect": [
-          52,
-          0,
-          45,
-          41
+          57,
+          2,
+          58,
+          53
         ]
       },
       {
         "name": "player_underdog_shotgun_swing_02.png",
         "rect": [
-          100,
-          1,
-          50,
-          40
+          117,
+          2,
+          64,
+          51
         ]
       },
       {
         "name": "player_underdog_shotgun_swing_03.png",
         "rect": [
-          150,
-          1,
-          49,
-          40
+          2,
+          57,
+          63,
+          51
         ]
       },
       {
         "name": "player_underdog_shotgun_swing_04.png",
         "rect": [
-          202,
-          2,
-          45,
-          39
+          67,
+          57,
+          58,
+          50
         ]
       },
       {
         "name": "player_underdog_shotgun_swing_05.png",
         "rect": [
-          252,
-          2,
-          45,
-          39
+          127,
+          57,
+          58,
+          50
         ]
       },
       {
         "name": "player_underdog_shotgun_swing_06.png",
         "rect": [
-          313,
           2,
-          23,
-          39
+          110,
+          29,
+          50
         ]
       }
     ],
     "size": [
-      400,
-      41
+      200,
+      162
     ]
   },
   "ppu": 24,

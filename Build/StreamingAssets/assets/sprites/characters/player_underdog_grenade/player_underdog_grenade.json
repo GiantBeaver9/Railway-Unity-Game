@@ -6,70 +6,70 @@
       {
         "name": "player_underdog_grenade_swing_00.png",
         "rect": [
-          4,
-          0,
-          23,
-          41
+          2,
+          2,
+          30,
+          54
         ]
       },
       {
         "name": "player_underdog_grenade_swing_01.png",
         "rect": [
-          33,
+          34,
           2,
-          26,
-          39
+          34,
+          51
         ]
       },
       {
         "name": "player_underdog_grenade_swing_02.png",
         "rect": [
-          63,
+          70,
           2,
-          28,
-          39
+          37,
+          51
         ]
       },
       {
         "name": "player_underdog_grenade_swing_03.png",
         "rect": [
-          93,
-          3,
-          31,
-          38
+          149,
+          2,
+          41,
+          50
         ]
       },
       {
         "name": "player_underdog_grenade_swing_04.png",
         "rect": [
-          124,
-          4,
-          30,
-          37
+          43,
+          58,
+          39,
+          49
         ]
       },
       {
         "name": "player_underdog_grenade_swing_05.png",
         "rect": [
-          155,
-          3,
-          30,
-          38
+          2,
+          58,
+          39,
+          50
         ]
       },
       {
         "name": "player_underdog_grenade_swing_06.png",
         "rect": [
-          187,
+          109,
           2,
-          29,
-          39
+          38,
+          51
         ]
       }
     ],
     "size": [
-      248,
-      41
+      200,
+      110
     ]
   },
   "ppu": 24,

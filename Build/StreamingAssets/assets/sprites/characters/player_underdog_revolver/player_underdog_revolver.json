@@ -6,70 +6,70 @@
       {
         "name": "player_underdog_revolver_swing_00.png",
         "rect": [
-          3,
-          0,
-          42,
-          41
+          2,
+          2,
+          56,
+          55
         ]
       },
       {
         "name": "player_underdog_revolver_swing_01.png",
         "rect": [
-          53,
-          0,
-          40,
-          41
+          60,
+          2,
+          54,
+          55
         ]
       },
       {
         "name": "player_underdog_revolver_swing_02.png",
         "rect": [
-          104,
+          116,
           2,
-          37,
-          39
+          50,
+          52
         ]
       },
       {
         "name": "player_underdog_revolver_swing_03.png",
         "rect": [
-          152,
-          4,
-          39,
-          37
+          128,
+          59,
+          52,
+          50
         ]
       },
       {
         "name": "player_underdog_revolver_swing_04.png",
         "rect": [
-          196,
-          4,
-          49,
-          37
+          2,
+          112,
+          66,
+          50
         ]
       },
       {
         "name": "player_underdog_revolver_swing_05.png",
         "rect": [
-          246,
-          3,
-          46,
-          38
+          2,
+          59,
+          62,
+          51
         ]
       },
       {
         "name": "player_underdog_revolver_swing_06.png",
         "rect": [
-          296,
-          3,
-          45,
-          38
+          66,
+          59,
+          60,
+          51
         ]
       }
     ],
     "size": [
-      392,
-      41
+      200,
+      164
     ]
   },
   "ppu": 24,

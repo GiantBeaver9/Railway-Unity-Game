@@ -1,0 +1,78 @@
+{
+  "actor": "player_werewolf_shotgun",
+  "atlas": {
+    "file": "player_werewolf_shotgun_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_shotgun_swing_00.png",
+        "rect": [
+          0,
+          0,
+          46,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_shotgun_swing_01.png",
+        "rect": [
+          57,
+          0,
+          23,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_shotgun_swing_02.png",
+        "rect": [
+          93,
+          0,
+          44,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_shotgun_swing_03.png",
+        "rect": [
+          138,
+          0,
+          45,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_shotgun_swing_04.png",
+        "rect": [
+          187,
+          1,
+          39,
+          39
+        ]
+      },
+      {
+        "name": "player_werewolf_shotgun_swing_05.png",
+        "rect": [
+          232,
+          1,
+          42,
+          39
+        ]
+      },
+      {
+        "name": "player_werewolf_shotgun_swing_06.png",
+        "rect": [
+          277,
+          1,
+          44,
+          39
+        ]
+      }
+    ],
+    "size": [
+      368,
+      40
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

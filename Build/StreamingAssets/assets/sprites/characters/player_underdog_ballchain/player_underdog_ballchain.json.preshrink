@@ -1,0 +1,132 @@
+{
+  "actor": "player_underdog_ballchain",
+  "atlas": {
+    "file": "player_underdog_ballchain_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_ballchain_idle_00.png",
+        "rect": [
+          2,
+          0,
+          38,
+          53
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_idle_01.png",
+        "rect": [
+          44,
+          0,
+          37,
+          53
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_idle_02.png",
+        "rect": [
+          85,
+          0,
+          39,
+          53
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_idle_03.png",
+        "rect": [
+          128,
+          1,
+          38,
+          52
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_swing_00.png",
+        "rect": [
+          169,
+          12,
+          39,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_swing_01.png",
+        "rect": [
+          211,
+          12,
+          40,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_swing_02.png",
+        "rect": [
+          252,
+          12,
+          41,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_swing_03.png",
+        "rect": [
+          297,
+          12,
+          36,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_swing_04.png",
+        "rect": [
+          0,
+          65,
+          42,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_swing_05.png",
+        "rect": [
+          42,
+          66,
+          42,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_swing_06.png",
+        "rect": [
+          84,
+          66,
+          41,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_swing_07.png",
+        "rect": [
+          130,
+          66,
+          33,
+          40
+        ]
+      },
+      {
+        "name": "player_underdog_ballchain_swing_08.png",
+        "rect": [
+          171,
+          66,
+          36,
+          40
+        ]
+      }
+    ],
+    "size": [
+      336,
+      106
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

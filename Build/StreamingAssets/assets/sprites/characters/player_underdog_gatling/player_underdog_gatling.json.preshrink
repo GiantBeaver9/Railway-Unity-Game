@@ -1,0 +1,78 @@
+{
+  "actor": "player_underdog_gatling",
+  "atlas": {
+    "file": "player_underdog_gatling_atlas.png",
+    "frames": [
+      {
+        "name": "player_underdog_gatling_swing_00.png",
+        "rect": [
+          0,
+          0,
+          51,
+          41
+        ]
+      },
+      {
+        "name": "player_underdog_gatling_swing_01.png",
+        "rect": [
+          52,
+          2,
+          51,
+          39
+        ]
+      },
+      {
+        "name": "player_underdog_gatling_swing_02.png",
+        "rect": [
+          104,
+          3,
+          51,
+          38
+        ]
+      },
+      {
+        "name": "player_underdog_gatling_swing_03.png",
+        "rect": [
+          156,
+          3,
+          51,
+          38
+        ]
+      },
+      {
+        "name": "player_underdog_gatling_swing_04.png",
+        "rect": [
+          208,
+          3,
+          51,
+          38
+        ]
+      },
+      {
+        "name": "player_underdog_gatling_swing_05.png",
+        "rect": [
+          260,
+          2,
+          52,
+          39
+        ]
+      },
+      {
+        "name": "player_underdog_gatling_swing_06.png",
+        "rect": [
+          312,
+          0,
+          52,
+          41
+        ]
+      }
+    ],
+    "size": [
+      416,
+      41
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

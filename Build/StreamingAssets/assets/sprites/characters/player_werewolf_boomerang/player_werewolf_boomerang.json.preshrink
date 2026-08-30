@@ -1,0 +1,78 @@
+{
+  "actor": "player_werewolf_boomerang",
+  "atlas": {
+    "file": "player_werewolf_boomerang_atlas.png",
+    "frames": [
+      {
+        "name": "player_werewolf_boomerang_swing_00.png",
+        "rect": [
+          0,
+          0,
+          42,
+          42
+        ]
+      },
+      {
+        "name": "player_werewolf_boomerang_swing_01.png",
+        "rect": [
+          44,
+          2,
+          38,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_boomerang_swing_02.png",
+        "rect": [
+          84,
+          2,
+          42,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_boomerang_swing_03.png",
+        "rect": [
+          134,
+          3,
+          25,
+          39
+        ]
+      },
+      {
+        "name": "player_werewolf_boomerang_swing_04.png",
+        "rect": [
+          180,
+          2,
+          18,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_boomerang_swing_05.png",
+        "rect": [
+          222,
+          2,
+          18,
+          40
+        ]
+      },
+      {
+        "name": "player_werewolf_boomerang_swing_06.png",
+        "rect": [
+          263,
+          2,
+          19,
+          40
+        ]
+      }
+    ],
+    "size": [
+      336,
+      42
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

@@ -1,0 +1,258 @@
+{
+  "actor": "enemy_headless",
+  "atlas": {
+    "file": "enemy_headless_atlas.png",
+    "frames": [
+      {
+        "name": "enemy_headless_attack_side_00.png",
+        "rect": [
+          10,
+          5,
+          24,
+          33
+        ]
+      },
+      {
+        "name": "enemy_headless_attack_side_01.png",
+        "rect": [
+          55,
+          5,
+          25,
+          33
+        ]
+      },
+      {
+        "name": "enemy_headless_attack_side_02.png",
+        "rect": [
+          100,
+          5,
+          24,
+          33
+        ]
+      },
+      {
+        "name": "enemy_headless_attack_side_03.png",
+        "rect": [
+          142,
+          5,
+          31,
+          33
+        ]
+      },
+      {
+        "name": "enemy_headless_attack_side_04.png",
+        "rect": [
+          188,
+          3,
+          28,
+          35
+        ]
+      },
+      {
+        "name": "enemy_headless_attack_side_05.png",
+        "rect": [
+          229,
+          3,
+          36,
+          35
+        ]
+      },
+      {
+        "name": "enemy_headless_death_00.png",
+        "rect": [
+          279,
+          4,
+          27,
+          34
+        ]
+      },
+      {
+        "name": "enemy_headless_death_01.png",
+        "rect": [
+          324,
+          5,
+          27,
+          33
+        ]
+      },
+      {
+        "name": "enemy_headless_death_02.png",
+        "rect": [
+          6,
+          45,
+          33,
+          31
+        ]
+      },
+      {
+        "name": "enemy_headless_death_03.png",
+        "rect": [
+          49,
+          46,
+          36,
+          30
+        ]
+      },
+      {
+        "name": "enemy_headless_death_04.png",
+        "rect": [
+          93,
+          50,
+          39,
+          26
+        ]
+      },
+      {
+        "name": "enemy_headless_death_05.png",
+        "rect": [
+          135,
+          57,
+          45,
+          19
+        ]
+      },
+      {
+        "name": "enemy_headless_death_06.png",
+        "rect": [
+          180,
+          59,
+          45,
+          17
+        ]
+      },
+      {
+        "name": "enemy_headless_hurt_00.png",
+        "rect": [
+          235,
+          40,
+          24,
+          36
+        ]
+      },
+      {
+        "name": "enemy_headless_hurt_01.png",
+        "rect": [
+          280,
+          39,
+          24,
+          37
+        ]
+      },
+      {
+        "name": "enemy_headless_hurt_02.png",
+        "rect": [
+          321,
+          43,
+          33,
+          33
+        ]
+      },
+      {
+        "name": "enemy_headless_hurt_03.png",
+        "rect": [
+          6,
+          81,
+          32,
+          33
+        ]
+      },
+      {
+        "name": "enemy_headless_hurt_04.png",
+        "rect": [
+          55,
+          79,
+          25,
+          35
+        ]
+      },
+      {
+        "name": "enemy_headless_hurt_05.png",
+        "rect": [
+          100,
+          79,
+          24,
+          35
+        ]
+      },
+      {
+        "name": "enemy_headless_idle_00.png",
+        "rect": [
+          153,
+          79,
+          9,
+          35
+        ]
+      },
+      {
+        "name": "enemy_headless_idle_01.png",
+        "rect": [
+          198,
+          79,
+          9,
+          35
+        ]
+      },
+      {
+        "name": "enemy_headless_idle_02.png",
+        "rect": [
+          241,
+          76,
+          13,
+          38
+        ]
+      },
+      {
+        "name": "enemy_headless_idle_03.png",
+        "rect": [
+          287,
+          77,
+          10,
+          37
+        ]
+      },
+      {
+        "name": "enemy_headless_walk_00.png",
+        "rect": [
+          332,
+          79,
+          10,
+          35
+        ]
+      },
+      {
+        "name": "enemy_headless_walk_01.png",
+        "rect": [
+          10,
+          117,
+          24,
+          35
+        ]
+      },
+      {
+        "name": "enemy_headless_walk_02.png",
+        "rect": [
+          61,
+          116,
+          12,
+          36
+        ]
+      },
+      {
+        "name": "enemy_headless_walk_03.png",
+        "rect": [
+          100,
+          117,
+          24,
+          35
+        ]
+      }
+    ],
+    "size": [
+      360,
+      152
+    ]
+  },
+  "ppu": 24,
+  "fps": 12,
+  "source": "pixellab"
+}

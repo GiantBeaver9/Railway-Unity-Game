@@ -6,8 +6,8 @@
       {
         "name": "player_shotgunner_ballchain_idle_00.png",
         "rect": [
-          18,
-          0,
+          190,
+          2,
           12,
           57
         ]
@@ -15,8 +15,8 @@
       {
         "name": "player_shotgunner_ballchain_idle_01.png",
         "rect": [
-          68,
-          0,
+          204,
+          2,
           11,
           57
         ]
@@ -24,8 +24,8 @@
       {
         "name": "player_shotgunner_ballchain_idle_02.png",
         "rect": [
-          117,
-          0,
+          217,
+          2,
           11,
           57
         ]
@@ -33,8 +33,8 @@
       {
         "name": "player_shotgunner_ballchain_idle_03.png",
         "rect": [
-          166,
-          0,
+          2,
+          72,
           11,
           57
         ]
@@ -42,88 +42,88 @@
       {
         "name": "player_shotgunner_ballchain_swing_00.png",
         "rect": [
-          197,
-          14,
-          46,
-          43
+          15,
+          72,
+          61,
+          57
         ]
       },
       {
         "name": "player_shotgunner_ballchain_swing_01.png",
         "rect": [
-          245,
-          14,
-          48,
-          43
+          78,
+          72,
+          64,
+          57
         ]
       },
       {
         "name": "player_shotgunner_ballchain_swing_02.png",
         "rect": [
-          294,
-          14,
-          49,
-          43
+          144,
+          72,
+          65,
+          57
         ]
       },
       {
         "name": "player_shotgunner_ballchain_swing_03.png",
         "rect": [
-          343,
-          9,
-          49,
-          48
+          53,
+          2,
+          65,
+          64
         ]
       },
       {
         "name": "player_shotgunner_ballchain_swing_04.png",
         "rect": [
-          12,
-          69,
-          25,
-          45
+          155,
+          2,
+          33,
+          60
         ]
       },
       {
         "name": "player_shotgunner_ballchain_swing_05.png",
         "rect": [
-          61,
-          68,
-          25,
-          46
+          120,
+          2,
+          33,
+          61
         ]
       },
       {
         "name": "player_shotgunner_ballchain_swing_06.png",
         "rect": [
-          104,
-          63,
-          37,
-          51
+          2,
+          2,
+          49,
+          68
         ]
       },
       {
         "name": "player_shotgunner_ballchain_swing_07.png",
         "rect": [
-          152,
-          71,
-          38,
-          43
+          2,
+          131,
+          50,
+          57
         ]
       },
       {
         "name": "player_shotgunner_ballchain_swing_08.png",
         "rect": [
-          200,
-          72,
-          41,
-          42
+          54,
+          131,
+          54,
+          56
         ]
       }
     ],
     "size": [
-      392,
-      114
+      237,
+      190
     ]
   },
   "ppu": 24,
